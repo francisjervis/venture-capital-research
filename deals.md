@@ -284,6 +284,78 @@ text
 
 
 
+## Researchers of venture capitalists' decision making, beware!
+
+### Summary
+
+text
+
+#### [Download] (http://www.seaanz.org/sites/seaanz/documents/1997SEAANZConference/1997-12.pdf)
+
+
+<details>
+
+### Small Enterprise Association of Australia and New Zealand, 10th Annual Conference (
+
+### Authors
+* Dean A. Shepherd - Rensselaer Polytechnic Institute
+
+
+### <summary>Abstract</summary>
+
+> Researchers of venture capitalists’ decision making must be aware of potential biases and errors associated with self reported data especially in light of this study’s findings that venture capitalists’ lack introspection into the policies they “use” to assess likely profitability. Surprisingly, venture capitalists demonstrate some introspection into the policies they “use” to assess probability of survival.
+
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
 ## title
 
 ### Summary
@@ -331,7 +403,6 @@ text
 </details>
 
 ---
-
 ## title
 
 ### Summary
