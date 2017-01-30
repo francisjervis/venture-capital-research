@@ -155,51 +155,53 @@ text
 
 ---
 
-## title
+## Founder Replacement and Startup Performance
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124)
 
 
 <details>
 
-### source
+### Working paper
 
 ### Authors
-* people
+* Michael Ewens - California Institute of Technology
+* Matt Marx - Massachusetts Institute of Technology
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> We provide causal evidence that venture capitalists (VCs) improve the performance of their portfolio companies by replacing founders. Augmenting a database of U.S.- based, VC-backed startups from 1995–2008 with hand-collected information regarding turnover, we exploit shocks to the supply of outside executives via state-level changes in the enforceability of employee non-compete agreements. Although naive regressions of startup performance on founder replacement would suggest a negative correlation, this may be due to selection as founders are likely to leave or be pushed out of poorly- performing startups. Indeed, instrumented regressions reverse the sign of this effect, suggesting that replacing founders improves the performance of venture-backed en- trepreneurial firms. Replacement helps more when founders hold CXO roles and when the incoming replacement has substantial work experience. The evidence points to the replacement of founders as a specific mechanism by which VCs add value.
 </details>
 
 ---
 
 
-## title
+## Venture Capital Valuation, Partial Adjustment, and Underpricing: Behavioral Bias or Information Production?
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf)
 
 
 <details>
 
-### source
+### The Financial Review, 2015
 
 ### Authors
-* people
+* Jan Jindra - U.S. Securities and Exchange Commission
+* Dima Leshchinskii - Menlo College
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Using a sample of venture capital (VC)-backed initial public offerings (IPOs), we analyze the role played by perceived valuation changes on IPO underpricing. We find that perceived valuation change from the last pre-IPO VC round to the IPO affects IPO underpricing in a nonlinear way. Further analysis indicates that information-based theories, not behavioral biases, explain this nonlinearity. We also find that the previously documented partial adjustment effect and its nonlinear impact on IPO underpricing are related to the trajectory of the perceived valuation changes, which stands in stark contrast to prior evidence of the importance of behavioral biases.
 </details>
 
 ---
@@ -217,7 +219,7 @@ text
 
 <details>
 
-### source
+### The Financial Review, 2015
 
 ### Authors
 * people
