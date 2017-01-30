@@ -1,4 +1,30 @@
 
+
+## Attracting Early Stage Investors: Evidence from a Randomized Field Experiment
+
+### Summary
+
+Inexperienced angel investors are influenced by all kinds of information about a startup, but more experienced investors only care about the founding team.
+
+#### [Download] (http://web.stanford.edu/~shaib/BernsteinKortewegLaws_052014.pdf)
+
+
+<details>
+
+### [Journal of Finance, September 2016] (http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full)
+
+### Authors
+* Shai Bernstein - Stanford GSB
+* Arthur Korteweg - Stanford GSB
+* Kevin Laws - AngelList
+
+### <summary>Abstract</summary>
+
+> Which start-up characteristics are most important to investors in early-stage firms? This paper uses a randomized field experiment involving 4,500 active, early stage investors. The experiment takes place on AngelList, an online platform that matches investors with start-ups seeking capital. The experiment randomizes investors’ information sets on start-up characteristics through the use of nearly 17,000 emails. The average investor responds strongly to information about the founding team, but not to information about either firm traction or existing lead investors. This is in contrast to the least experienced investors, who respond to all categories of information. Our results suggest that information about human assets is causally important for the funding of early-stage firms.
+</details>
+
+---
+
 ## Friends or Foes? The Interrelationship between Angel and Venture Capital Markets
 
 ### Summary
@@ -25,6 +51,30 @@ text
 
 ---
 
+
+## Angel Investment Criteria
+
+### Summary
+
+text
+
+#### [Download] (https://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/5%20Sudek_JSBS_Article_-_Investment_Criteria.pdf)
+
+
+<details>
+
+### Journal of Small Business Strategy, 2006
+
+### Authors
+* Richard Sudek - Claremont Graduate University
+
+
+### <summary>Abstract</summary>
+
+> Start-up businesses often need external financing to grow. These new ventures frequently turn to business angel investors for capital. Angels, who are often wealthy individuals, provide early stage financing, called seed capital, for these start-up ventures. This study examines what a group of angel investors in Southern California consider when reviewing an investment opportunity, and how they prioritize their investment criteria. The study utilizes a two-phase approach consisting of a qualitative first phase and a quantitative second phase. The results of this study show that trustworthiness of the entrepreneur, quality of the management team, enthusiasm of the lead entrepreneur, and exit opportunities for the angel are the angels’ top criteria.
+</details>
+
+---
 
 ## Angels and Venture Capitalists: Complements or Substitutes?
 
