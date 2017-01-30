@@ -109,7 +109,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.angelcapitalassociation.org/data/ACEF/ACEFDocuments/Does%20Angel%20Participation%20Matter%20-%20Analysis%20of%20Early%20Venture%20Financing.pdf)
 
 
 <details>
@@ -137,7 +137,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download] (http://www.bauer.uh.edu/yerramilli/VenugopalYerramilli.pdf)
 
 
 <details>
@@ -157,51 +157,55 @@ text
 ---
 
 
-## title
+## The Consequences of Entrepreneurial Finance: Evidence from Angel Financings
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://www.hbs.edu/faculty/Publication%20Files/10-086.pdf)
 
 
 <details>
 
-### source
+### [Review of Finncial Studies, 2011] (https://academic.oup.com/rfs/article-abstract/27/1/20/1571221/The-Consequences-of-Entrepreneurial-Finance?redirectedFrom=fulltext)
 
 ### Authors
-* people
+* William R. Kerr - Harvard University
+* Josh Lerner - Harvard University
+* Antoinette Schoar - MIT
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper documents that ventures that are funded by two successful angel groups experience superior outcomes to those that are rejected: they have improved survival, exits, employment levels, patenting, web traffic, and financing. We use strong discontinuities in the funding behavior of angels over small changes in their collective interest levels to implement a regression discontinuity approach. We confirm the positive effect of angel financing on most operations of the venture, with qualitative support for a higher likelihood of successful exits. On the other hand, there is no difference in access to additional financing around the discontinuity. This might suggest that financing is not a central input of angel groups.
 </details>
 
 ---
 
 
-## title
+## The cost of friendship
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://www.nber.org/papers/w18141.pdf)
 
 
 <details>
 
-### source
+### [Journal of Financial Economics, 2016] (http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
 
 ### Authors
-* people
+* Paul A. Gompers - Harvard Business School
+* Vladimir Mukharlyamov - National Bureau of Economic Research
+* Yuhai Xuan - University of Illinois at Urbana-Champaign
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> We investigate how personal characteristics affect people’s desire to collaborate and whether this attraction enhances or detracts from performance in venture capital. We find that venture capitalists who share the same ethnic, educational, or career background are more likely to syndicate with each other. This homophily reduces the probability of invest- ment success, and the detrimental effect is most prominent for early-stage investments. A variety of tests show that the cost of affinity is most likely attributable to poor decision- making by high-affinity syndicates after the investment is made. These results suggest that “birds-of-a-feather-flock-together” effects in collaboration can be costly.
 </details>
 
 ---
