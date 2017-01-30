@@ -77,6 +77,34 @@ text
 
 ---
 
+
+## The cost of friendship
+
+### Summary
+
+text
+
+#### [Download] (http://www.nber.org/papers/w18141.pdf)
+
+
+<details>
+
+### [Journal of Financial Economics, 2016] (http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
+
+### Authors
+* Paul A. Gompers - Harvard Business School
+* Vladimir Mukharlyamov - National Bureau of Economic Research
+* Yuhai Xuan - University of Illinois at Urbana-Champaign
+
+
+### <summary>Abstract</summary>
+
+> We investigate how personal characteristics affect people’s desire to collaborate and whether this attraction enhances or detracts from performance in venture capital. We find that venture capitalists who share the same ethnic, educational, or career background are more likely to syndicate with each other. This homophily reduces the probability of invest- ment success, and the detrimental effect is most prominent for early-stage investments. A variety of tests show that the cost of affinity is most likely attributable to poor decision- making by high-affinity syndicates after the investment is made. These results suggest that “birds-of-a-feather-flock-together” effects in collaboration can be costly.
+</details>
+
+---
+
+
 ## title
 
 ### Summary
