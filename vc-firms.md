@@ -105,7 +105,7 @@ text
 ---
 
 
-## title
+## Managing Performance Signals Through Delay: Evidence from Venture Capital
 
 ### Summary
 
@@ -119,12 +119,38 @@ text
 ### source
 
 ### Authors
-* people
+* Indraneel Chakraborty - University of Miami
+* Michael Ewens - California Institute of Technology
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper examines whether agency conflicts during venture capital (VC) fundraising im- pact investment behavior. Using novel investment-level decisions of VCs in the process of raising new funds, we find that venture capitalists take actions hidden from their investors, i.e. limited partners (LPs), that delay revealing negative information about VC fund performance until after a new fund is raised. After fundraising is complete, write-offs double and reinvestments in relatively worse off entrepreneurial firms increase. We find that these observations cannot be explained by strategic bundling of news or effort constraints due to the newly raised fund. Funds with both long and short fundraising track record exhibit this behavior and the delay is costly for fund investors (LPs). This strategic delay shows that fundraising incentives have real impacts on VC fund investment decisions, which are often difficult for LPs to observe.
+</details>
+
+---
+
+## Is a VC Partnership Greater Than the Sum of Its Partners?
+
+### Summary
+
+text
+
+#### [Download] (https://dash.harvard.edu/handle/1/15788004)
+
+
+<details>
+
+### [Journal of Finance, 2015] (http://onlinelibrary.wiley.com/doi/10.1111/jofi.12249/abstract)
+
+### Authors
+* Michael Ewens - Carnegie Mellon University
+* Matthew Rhodes-Kropf - Harvard Business School
+
+
+### <summary>Abstract</summary>
+
+> This paper investigates whether individual venture capitalists have repeatable investment skill and to what extent their skill is impacted by the VC firm where they work. We examine a unique dataset that tracks the performance of individual venture capitalists’ investments across time and as they move between firms. We find evidence of skill and exit style differences even among venture partners investing at the same VC firm at the same time. Furthermore, our estimates suggest the partner’s human capital is two to five times more important than the VC firm’s organizational capital in explaining performance.
 </details>
 
 ---
@@ -153,6 +179,7 @@ text
 
 ---
 
+
 ## title
 
 ### Summary
@@ -176,3 +203,108 @@ text
 </details>
 
 ---
+
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
