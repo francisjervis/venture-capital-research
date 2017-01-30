@@ -201,4 +201,109 @@ text
 </details>
 
 ---
+A Review of Research into Venture Capitalists' Decision Making: Implications for Entrepreneurs, Venture Capitalists and Researchers
 
+
+
+## A Review of Research into Venture Capitalists' Decision Making: Implications for Entrepreneurs, Venture Capitalists and Researchers
+
+### Summary
+
+text
+
+#### [Download] (http://epubs.scu.edu.au/cgi/viewcontent.cgi?article=1078&context=jesp)
+
+
+<details>
+
+### Journal of Economic and Social Policy, 2005
+
+### Authors
+* Edward Hudson - Southern Cross University
+* Michael Evans - Southern Cross University
+
+
+### <summary>Abstract</summary>
+
+> A recent review of the current literature on how venture capitalists make their investment decisions suggests that the decision-making process adopted by venture capitalists is more an art than a science. The review also highlights the fact that researchers have not been able to identify the key decision-making variables that lead to making a successful investment choice. Nor do venture capitalists understand their own decision-making process. This paper addresses these issues and suggests how entrepreneurs attempting to obtain equity finance from venture capitalists may structure proposals to have a better chance of acceptance. The paper concludes with a discussion of directions for future research.
+</details>
+
+---
+
+
+
+## Investment Criteria Set By Venture Capitalists
+
+### Summary
+
+text
+
+#### [Download] (http://hrcak.srce.hr/file/221353)
+
+
+<details>
+
+### Econviews, August 2015
+
+### Authors
+* Marija Šimić - University of Split
+
+
+### <summary>Abstract</summary>
+
+> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+</details>
+
+---
+
+
+
+## Investment Criteria Set By Venture Capitalists
+
+### Summary
+
+text
+
+#### [Download] (http://hrcak.srce.hr/file/221353)
+
+
+<details>
+
+### Econviews, August 2015
+
+### Authors
+* Marija Šimić - University of Split
+
+
+### <summary>Abstract</summary>
+
+> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+</details>
+
+---
+
+
+
+## Investment Criteria Set By Venture Capitalists
+
+### Summary
+
+text
+
+#### [Download] (http://hrcak.srce.hr/file/221353)
+
+
+<details>
+
+### Econviews, August 2015
+
+### Authors
+* Marija Šimić - University of Split
+
+
+### <summary>Abstract</summary>
+
+> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+</details>
+
+---
