@@ -24,3 +24,127 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 </details>
 
 ---
+
+
+## Does Venture Capital Reputation Matter? Evidence from Successful IPOs.⋅
+
+### Summary
+
+text
+
+#### [Download] (http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf)
+
+
+<details>
+
+### Paper, European Finance Management Association Annual Symposium, 2008
+
+### Authors
+* Vladimir I. Ivanov - University of Kansas
+* C.N.V. Krishnan - Case Western Reserve University
+* Ronald W. Masulis - Vanderbilt University
+* Ajai K. Singh - Case Western Reserve University
+
+
+### <summary>Abstract</summary>
+
+> Venture capitalist (VC) reputation is a valuable trait, which yields important competitive benefits. Yet a generally accepted measure is lacking. To address this need, we investigate the relation of alternative VC reputation measures to especially successful venture investments, namely IPOs and post-IPO long-run firm performance. Post-IPO firm performance is measured by three well known standards: industry-adjusted operating performance, market- to-book ratio, and long-run listing survival. We find that a VC’s market share of VC-backed IPOs has the strongest and most consistent positive association with these post-IPO long-run performance metrics and with the frequency with which a VC’s portfolio firms subsequently successfully go public. We also explore the relation between VC reputation and private equity networks, IPO demand, post-IPO VC involvement and corporate governance. We find that more reputable VCs excel on all these dimensions, which helps explain why firms backed by more reputable VCs have greater IPO success and better post-IPO performance.
+</details>
+
+---
+
+## Networking as a Barrier to Entry and the Competitive Supply of Venture Capital
+
+### Summary
+
+text
+
+#### [Download] (http://yael-hochberg.com/assets/portfolio/HLL2.pdf)
+
+
+<details>
+
+### Journal of Finance, 2010
+
+### Authors
+* Yael Hochberg - Rice University/NBER
+
+
+### <summary>Abstract</summary>
+
+> We examine whether strong networks among incumbent venture capitalists (VCs) in local markets help restrict entry by outside VCs, thus improving incumbents’ bargaining power over entrepreneurs. More densely networked markets experience less entry, with a one-standard deviation increase in network ties among incumbents reducing entry by approximately one-third. Entrants with established ties to target- market incumbents appear able to overcome this barrier to entry; in turn, incumbents react strategically to an increased threat of entry by freezing out any incumbents who facilitate entry into their market. Incumbents appear to benefit from reduced entry by paying lower prices for their deals.
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
