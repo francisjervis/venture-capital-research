@@ -26,7 +26,7 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 ---
 
 
-## Does Venture Capital Reputation Matter? Evidence from Successful IPOs.⋅
+## Does Venture Capital Reputation Matter? Evidence from Successful IPOs
 
 ### Summary
 
