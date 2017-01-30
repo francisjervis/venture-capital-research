@@ -184,40 +184,14 @@ text
 ---
 
 
-## The cost of friendship
+
+## New Technology Assessment in Entrepreneurial Financing - Can Crowdfunding Predict Venture Capital Investments?
 
 ### Summary
 
 text
 
-#### [Download] (http://www.nber.org/papers/w18141.pdf)
-
-
-<details>
-
-### [Journal of Financial Economics, 2016] (http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
-
-### Authors
-* Paul A. Gompers - Harvard Business School
-* Vladimir Mukharlyamov - National Bureau of Economic Research
-* Yuhai Xuan - University of Illinois at Urbana-Champaign
-
-
-### <summary>Abstract</summary>
-
-> We investigate how personal characteristics affect people’s desire to collaborate and whether this attraction enhances or detracts from performance in venture capital. We find that venture capitalists who share the same ethnic, educational, or career background are more likely to syndicate with each other. This homophily reduces the probability of invest- ment success, and the detrimental effect is most prominent for early-stage investments. A variety of tests show that the cost of affinity is most likely attributable to poor decision- making by high-affinity syndicates after the investment is made. These results suggest that “birds-of-a-feather-flock-together” effects in collaboration can be costly.
-</details>
-
----
-
-
-## title
-
-### Summary
-
-text
-
-#### [Download] (link)
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2829777)
 
 
 <details>
@@ -225,12 +199,14 @@ text
 ### source
 
 ### Authors
-* people
+* Jermain Kaminski - RWTH Aachen
+* Christian Hopp† - RWTH Aachen
+* Tereza Tykvova - Hohenheim University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Recent years have seen an upsurge of novel sources of new venture financing through crowdfunding (CF). We draw on 54,943 successfully crowdfunded projects and 3,313 venture capital (VC) investments through- out the period 04/2012-06/2015 to investigate, on the aggregate level, how crowdfunding is related to a more traditional source of entrepreneurial finance, venture capital. Granger causality tests support the view that VC investments follow crowdfunding investments. Cointegration tests also suggest a long-run relationship between crowdfunding and VC investments, while impulse response functions (IRF) indicate a positive effect running from CF to VC within two to six months. Crowdfunding seems to help VC investors in assessing future trends rather than crowding them out of the market.
 </details>
 
 ---
