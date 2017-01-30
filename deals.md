@@ -21,7 +21,7 @@ Experienced entrepreneurs can predict the quality of startup ideas in science-ba
 
 ### <summary>Abstract</summary>
 
-> Entrepreneurs face high uncertainty, and often make costly investments in new business ideas without knowing the expected payoff. This paper empirically examines whether ex-ante assessment of early- stage startup ideas can predict their subsequent commercialization. We leverage an entrepreneurship program at the Massachusetts Institute of Technology in which early-stage venture ideas, presented in the form of succinct standardized summaries, elicit subjective evaluations from a large set of experienced entrepreneurs and executives. Using data on 652 ventures in multiple industry sectors, evaluated over an 8-year period, we find that ideas that elicit more positive evaluations are significantly more likely to ultimately reach commercialization. We further show that these results are driven by venture ideas with documented intellectual capital in research-and-development-intensive sectors, such as life sciences and medical devices. We find no evidence, by contrast, that experts can effectively assess the commercial potential of venture ideas in non-R&D-intensive sectors such as consumer web and enterprise software. Finally, we find that industry-specific and scientific expertise is not critical to experts’ collective ability to predict ventures’ commercial viability.
+> Entrepreneurs face high uncertainty, and often make costly investments in new business ideas without knowing the expected payoff. This paper empirically examines whether ex-ante assessment of early-stage startup ideas can predict their subsequent commercialization. We leverage an entrepreneurship program at the Massachusetts Institute of Technology in which early-stage venture ideas, presented in the form of succinct standardized summaries, elicit subjective evaluations from a large set of experienced entrepreneurs and executives. Using data on 652 ventures in multiple industry sectors, evaluated over an 8-year period, we find that ideas that elicit more positive evaluations are significantly more likely to ultimately reach commercialization. We further show that these results are driven by venture ideas with documented intellectual capital in research-and-development-intensive sectors, such as life sciences and medical devices. We find no evidence, by contrast, that experts can effectively assess the commercial potential of venture ideas in non-R&D-intensive sectors such as consumer web and enterprise software. Finally, we find that industry-specific and scientific expertise is not critical to experts’ collective ability to predict ventures’ commercial viability.
 </details>
 
 ---
@@ -232,52 +232,54 @@ text
 
 
 
-## Investment Criteria Set By Venture Capitalists
+## New Venture Valuation by Venture Capitalists: An Integrative Approach
 
 ### Summary
 
 text
 
-#### [Download] (http://hrcak.srce.hr/file/221353)
+#### [Download] (https://business.illinois.edu/working_papers/papers/05-0124.pdf)
 
 
 <details>
 
-### Econviews, August 2015
+###  University of Illinois at Urbana-Champaign, College of Business Working Papers 05-0124
 
 ### Authors
-* Marija Šimić - University of Split
+* Dingkun Ge Assistant - San Francisco State University
+* James M. Mahoney Economist - Federal Reserve Bank of New York
+* Joseph T. Mahoney - University of Illinois at Urbana-Champaign
 
 
 ### <summary>Abstract</summary>
 
-> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+> How to valuate accurately a new venture is a critical and under-researched question in entrepreneurial financing. Leveraging established theories in strategic management, this research study develops an integrative theoretical framework to examine whether venture capitalists’ valuation of a new venture can be explained by variables identified in the strategy literature as important to predicting firm-level economic performance. A systematic linkage between well- developed theories in strategy and venture capital valuation practice are corroborated empirically. This research study proposes a complementary method to extant valuation methods to valuate a new venture.
 </details>
 
 ---
 
 
 
-## Investment Criteria Set By Venture Capitalists
+## Angel Investment Criteria
 
 ### Summary
 
 text
 
-#### [Download] (http://hrcak.srce.hr/file/221353)
+#### [Download] (https://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/5%20Sudek_JSBS_Article_-_Investment_Criteria.pdf)
 
 
 <details>
 
-### Econviews, August 2015
+### Journal of Small Business Strategy, 2006
 
 ### Authors
-* Marija Šimić - University of Split
+* Richard Sudek - Claremont Graduate University
 
 
 ### <summary>Abstract</summary>
 
-> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+> Start-up businesses often need external financing to grow. These new ventures frequently turn to business angel investors for capital. Angels, who are often wealthy individuals, provide early stage financing, called seed capital, for these start-up ventures. This study examines what a group of angel investors in Southern California consider when reviewing an investment opportunity, and how they prioritize their investment criteria. The study utilizes a two-phase approach consisting of a qualitative first phase and a quantitative second phase. The results of this study show that trustworthiness of the entrepreneur, quality of the management team, enthusiasm of the lead entrepreneur, and exit opportunities for the angel are the angels’ top criteria.
 </details>
 
 ---
