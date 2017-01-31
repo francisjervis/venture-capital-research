@@ -279,48 +279,59 @@ text
 > This paper seeks to apply a processual thinking of subjectivity in the study of “becoming entrepreneur”. Design/methodology/approach – Through analysing Foucault's idea of subjectification, by the help of Deleuze's comments and elaborations, the paper seeks to clarify one opacity in entrepreneurship research – the “vanishing presence” of the entrepreneur in processual studies of entrepreneurship. To avoid performative contradiction, the paper seeks to contextualise this attempt in guiding principles provided by process philosophy. Findings – Without a process view, “the subject” as entity and self-constitutive *res cogitans* (thinking thing or mind) will take priority over subjectification, and the paper will loose the possibility to think and study the process of becoming-subject in its own terms. Originality/value – Understanding entrepreneurship as organisation-creation, the paper here adds a processual conceptualisation to the study of such processes by focusing on the arrangements (*agancements* [sic] as Deleuze called this, or *dispositifs* as Foucault preferred to use) in which subjectification into “entrepreneur” happens.
 </details>
 ---
-## title
+
+## The Emergence of the Lean Global Startup as a New Type of Firm
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://findresearcher.sdu.dk/portal/files/117858292/RasmussenTanev_TIMReview_November2015.pdf)
 
 
 <details>
 
-### source
+### Technology Innovation Management Review, 2015
 
 ### Authors
-* people
+* Erik Stavnsager Rasmussen 
+* Stoyan Tanev 
 
 
 ### <summary>Abstract</summary>
 
-> abstract
-</details>---
-## title
+> This article contributes to the interplay between international entrepreneurship, innova- tion networks, and early internationalization research by emphasizing the need to concep- tualize and introduce a new type of firm: the lean global startup. It discussed two different paths in linking the lean startup and born-global internationalization strategies. The first path refers to generic lean startups that have undertaken a rapid internationalization strategy (i.e., lean-to-global startups). The second path refers to startups that have started operating on global scale since their inception and adopted the lean startup approach by seamlessly synergizing their global and lean product development activities. The article emphasizes several aspects that could be used as part of the theoretical foundation for con- ceptualizing lean global startups as a special new type of firm: i) the emergent nature of their business models, including the challenges of partnership development on a global scale; ii) the inherently relational nature of the global resource allocation processes; iii) the integration of the entrepreneurial, effectuation, and global marketing perspectives; iv) the need to deal with a high degree of uncertainty, including the uncertainty associated with cross-border business operations; and v) linking the ex-ante characteristics of lean startups with the ex-post characteristics of born-global firms in order to develop a technology adop- tion marketing perspective that considers the “crossing the chasm” process as a successful entry into a global market niche.
+</details>
+
+---
+
+## Product Iterations in Venture Capital Funded Technology- Based Start-Ups: Pivoting as Critical Success Factor?
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.researchgate.net/publication/285384131_Product_Iterations_in_Venture_Capital_Funded_Technology-Based_Start-Ups_Pivoting_as_Critical_Success_Factor)
 
 
 <details>
 
-### source
+### Journal of Private Equity, 2015
 
 ### Authors
-* people
+* Vincent Jocquet - Sentiance, Antwerp, Belgium
+* Sven H. De Cleyn - University of Antwerp
+* Frank Maene - Volta Ventures, Ghent, Belgium
+* Johan Braet - University of Antwerp
 
 
 ### <summary>Abstract</summary>
 
-> abstract
-</details>---
+> Companies developing new products often end up addressing different customers in other markets with products they didn't envision when the original product development was initiated. This pivoting is more apparent in start-ups developing their very first products and searching for their initial product-market fit. Using five case studies, this article investigates the role of product iterations in finding product-market fit and the potential role played by venture capital (VC) in this process. The authors find that impact of VC funding on product iterations is diverse and the sooner product iterations happen (if needed), the better. VC funding usually provides adequate financial tolerance to explore multiple options toward ultimately validating a tangible product-market fit that enables scaling and potential high growth.
+</details>
+
+---
+
 ## title
 
 ### Summary
