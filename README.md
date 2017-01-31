@@ -6,7 +6,7 @@
 
 [Venture Capital Firms & Strategy](../master/vc-firms.md)
 
-[Angel Investment and Crowdfunding](../master/angels.md)
+[Angel Investment and Crowdfunding](angels.md)
 
 [Venture Finance](../master/finance.md)
 
