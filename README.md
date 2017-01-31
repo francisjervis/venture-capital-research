@@ -4,12 +4,12 @@
 
 [Entrepreneurship and Innovation](../master/entrepreneurship.md)
 
-[Venture Capital Firms & Strategy] (../master/vc-firms.md)
+[Venture Capital Firms & Strategy](../master/vc-firms.md)
 
-[Angel Investment and Crowdfunding] (../master/angels.md)
+[Angel Investment and Crowdfunding](../master/angels.md)
 
-[Venture Finance] (../master/finance.md)
+[Venture Finance](../master/finance.md)
 
-[VC Deal Selection and Decision Making] (../master/deals.md)
+[VC Deal Selection and Decision Making](../master/deals.md)
 
-[Diversity and Equality] (../master/diversity.md)
+[Diversity and Equality](../master/diversity.md)
