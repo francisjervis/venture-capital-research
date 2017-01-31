@@ -397,7 +397,84 @@ text
 
 ---
 
-## title
+## The transformation of the business angel market: empirical evidence and research implications
+
+### Summary
+
+text
+
+#### [Download] (http://www.gla.ac.uk/media/media_302219_en.pdf)
+
+
+<details>
+
+### [Venture Capital, 2016](http://www.tandfonline.com/doi/abs/10.1080/13691066.2016.1229470?journalCode=tvec20)
+
+### Authors
+* Colin Mason - University of Glasgow
+* Tiago Botelho - University of East Anglia
+* Richard Harrison - University of Edinburgh
+
+
+### <summary>Abstract</summary>
+
+> Business angel investing – a key source of  nance for entrepreneurial businesses – is rapidly evolving from a fragmented and largely anonymous activity dominated by individuals investing on their own to one that is increasingly characterised by groups of investors investing together through managed angel groups. The implications of this change have been largely ignored by scholars. The paper examines the investment activity and operation of angel groups in Scotland to highlight the implications of this change for the nature of angel investing. It goes on to argue that this transformation challenges both the ongoing relevance of prior research on business angels and current methodological practices, and raises a set of new research questions.
+</details>
+
+---
+
+## Why Business Angels Reject Investment Opportunities: it is personal?
+
+### Summary
+
+text
+
+#### [Download] (http://www.anzam.org/wp-content/uploads/pdf-manager/2734_468.PDF)
+
+
+<details>
+
+### [International Small Business Journal, 2016](http://journals.sagepub.com/doi/abs/10.1177/0266242616646622)
+
+### Authors
+* Colin Mason - University of Glasgow
+* Tiago Botelho - University of East Anglia
+* Justyna Zygmunt - Opole University of Technology, Poland
+
+### <summary>Abstract</summary>
+
+> A major focus of research on business angels has examined their decision-making processes and investment criteria. As business angels reject most of the opportunities that they receive, this article explores the reasons informing such decisions. In view of angel heterogeneity, investment opportunities might be expected to be rejected for differing reasons. Two sources of data are used to examine this issue. Face-to-face interviews with 30 business angels in Scotland and Northern Ireland provided information on typical ‘deal killers’ This was complemented by an internet survey of UK that attracted responses from 238 UK business angels. The findings confirm that the main reason for rejection relates to the entrepreneur/management team. However, angel characteristics do not explain the number of reasons given for opportunity rejection nor do they predict the reasons for rejecting investment opportunities. This could be related to the increasing trend for business angels to join organized groups which, in turn, leads to the development of a shared repertoire of investment approaches. We suggest the concept of ‘communities-of-practice’ as an explanation for this finding.
+</details>
+
+---
+
+## How business angel groups work: Rejection criteria in investment evaluation
+
+### Summary
+
+text
+
+#### [Download] (http://journals.sagepub.com/doi/abs/10.1177/0266242615622675)
+
+
+<details>
+
+### International Small Business Journal, 2016
+
+### Authors
+* Annalisa Croce - Politecnico di Milano
+* Francesca Tenca - Politecnico di Milano
+* Elisa Ughetto - Politecnico di Torino
+
+
+### <summary>Abstract</summary>
+
+> In this article, we study the decision-making criteria that business angels (BAs) adopt when screening business opportunities in the different assessment phases (pre-screening, screening and due diligence). We exploit an original dataset of 1942 ventures that sought angel investment from 2008 to 2014 from the members of Italian Angels for Growth (IAG). Results have shown that the emphasis that BAs place on rejection criteria and contact channels varies along the three considered stages of the investment process. In particular, we found that business proposals brought to the attention of BAs by venture capitalists are more likely to get through the pre-screening stage, suggesting an important quality certification role played by venture capitalists. Moreover, at the screening stage (in comparison with the pre-screening stage), proposals are rejected more often for reasons related to the characteristics of the entrepreneur and management team and less often for the lack of business innovativeness. Finally, business proposals showing lower levels of profitability are more likely to be rejected after the due diligence.
+</details>
+
+---
+
+## Angel group members' decision process and rejection criteria: A longitudinal analysis
 
 ### Summary
 
@@ -408,15 +485,16 @@ text
 
 <details>
 
-### source
+### Journal of Business Venturing, 2015
 
 ### Authors
-* people
+* Cécile Carpentier - Laval University
+* Jean-Marc Suret - Laval University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper investigates business angel group members’ decision-making from project submission to the final decision. Using a Canadian group’s archival data on 636 proposals, we provide a detailed longitudinal analysis of the decision process. The rejection reasons generally refer to market risk; this finding holds whatever the step of the process for proposals that pass the pre-screen. Angel group members focus more on market risk than agency risk, similar to venture capitalists. Inexperienced entrepreneurs are rejected for market and product reasons. Decision-making by the studied angel group members differs from that generally described for independent angels.
 </details>
 
 ---
@@ -444,7 +522,6 @@ text
 </details>
 
 ---
-
 ## title
 
 ### Summary
@@ -468,7 +545,6 @@ text
 </details>
 
 ---
-
 ## title
 
 ### Summary
