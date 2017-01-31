@@ -208,78 +208,83 @@ text
 
 
 
-## title
+## Syndication Networks and the Spatial Distribution of Venture Capital Investments
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf)
 
 
 <details>
 
-### The Financial Review, 2015
+### American Journal of Sociology, 2001
 
 ### Authors
-* people
+* Olav Sorenson - University of California, Los Angeles
+* Toby E. Stuart - University of Chicago
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Sociological investigations of economic exchange reveal how insti- tutions and social structures shape transaction patterns among ec- onomic actors. This article explores how interfirm networks in the U.S. venture capital (VC) market affect spatial patterns of exchange. Evidence suggests that information about potential investment op- portunities generally circulates within geographic and industry spaces. In turn, the circumscribed flow of information within these spaces contributes to the geographic- and industry-localization of VC investments. Empirical analyses demonstrate that the social net- works in the VC community—built up through the industry’s ex- tensive use of syndicated investing—diffuse information across boundaries and therefore expand the spatial radius of exchange. Venture capitalists that build axial positions in the industry’s coin- vestment network invest more frequently in spatially distant com- panies. Thus, variation in actors’ positioning within the structure of the market appears to differentiate market participants’ ability to overcome boundaries that otherwise would curtail exchange.
 </details>
 
 ---
 
 
 
-## title
+## Specialization and Competition in the Venture Capital Industry
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf)
 
 
 <details>
 
-### source
+### Review of Industrial Organization, 2015
 
 ### Authors
-* people
+* Yael V. Hochberg - Northwestern University
+* Michael J. Mazzeo - Rice University
+* Ryan C. McDevitt3 - Duke University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> An important type of product differentiation in the venture capital (VC) market is industry specialization. We estimate a market structure model to assess competition among VCs—some of which specialize in a particular industry and others of which are generalists—and find that the incremental effect of additional same-type competitors increases as the number of same-type competitors increases. Furthermore, we find that the effects of generalist VCs on specialists are substantial, and larger than the effect of same-type competitors. Estimates from other industries typically show the incremental effects falling as the number of same-type com- petitors increases and the effects of same-type competitors as always being larger than the effects of different-type competitors. Consistent with the presence of net- work effects that soften competition, these patterns are more pronounced in markets that exhibit dense organizational networks among incumbent VCs. Markets with sparser incumbent networks, by contrast, exhibit competitive patterns that resemble those of other, non-networked industries.
 </details>
 
 ---
 
 
 
-## title
+## Small fish, big fish: The performance effects of the relative standing in partners' affiliate portfolios
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf)
 
 
 <details>
 
-### source
+### Strategic Management Journal, 2015
 
 ### Authors
-* people
+* Umit Ozmel - Purdue University
+* Isin Guler - Sabancı University School of Management, İstanbul, Turkey
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This study argues and demonstrates that the value of a venture’s affiliations depends in part on its relative standing in the portfolio of affiliations held by its partners. Relative standing refers to how the venture ranks among other ventures in the partner’s portfolio with respect to observable signals of quality. The relative standing of a venture in its partner’s portfolio influences the venture’s access to the partner’s resources and, subsequently, the venture’s performance. We
+also argue that a venture’s relative standing becomes a more important predictor of performance when the partner has a larger portfolio or higher status. An empirical test of the equity investments by venture capital firms in 878 private biotechnology ventures between 1980 and 2004 provides support for the hypotheses.
 </details>
 
 ---
