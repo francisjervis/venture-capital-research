@@ -30,7 +30,7 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 
 ### Summary
 
-text
+The most reliable predictor of a VC's future performance is their past market share of VC-backed IPOs.
 
 #### [Download] (http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf)
 
@@ -48,7 +48,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Venture capitalist (VC) reputation is a valuable trait, which yields important competitive benefits. Yet a generally accepted measure is lacking. To address this need, we investigate the relation of alternative VC reputation measures to especially successful venture investments, namely IPOs and post-IPO long-run firm performance. Post-IPO firm performance is measured by three well known standards: industry-adjusted operating performance, market- to-book ratio, and long-run listing survival. We find that a VC’s market share of VC-backed IPOs has the strongest and most consistent positive association with these post-IPO long-run performance metrics and with the frequency with which a VC’s portfolio firms subsequently successfully go public. We also explore the relation between VC reputation and private equity networks, IPO demand, post-IPO VC involvement and corporate governance. We find that more reputable VCs excel on all these dimensions, which helps explain why firms backed by more reputable VCs have greater IPO success and better post-IPO performance.
+> Venture capitalist (VC) reputation is a valuable trait, which yields important competitive benefits. Yet a generally accepted measure is lacking. To address this need, we investigate the relation of alternative VC reputation measures to especially successful venture investments, namely IPOs and post-IPO long-run firm performance. Post-IPO firm performance is measured by three well known standards: industry-adjusted operating performance, market-to-book ratio, and long-run listing survival. We find that a VC’s market share of VC-backed IPOs has the strongest and most consistent positive association with these post-IPO long-run performance metrics and with the frequency with which a VC’s portfolio firms subsequently successfully go public. We also explore the relation between VC reputation and private equity networks, IPO demand, post-IPO VC involvement and corporate governance. We find that more reputable VCs excel on all these dimensions, which helps explain why firms backed by more reputable VCs have greater IPO success and better post-IPO performance.
 </details>
 
 ---
@@ -57,7 +57,7 @@ text
 
 ### Summary
 
-text
+The more interconnected the established players in a region's VC sector are, the harder it is for new entrants to establish themselves - making deals "cheaper" for the incumbents.
 
 #### [Download] (http://yael-hochberg.com/assets/portfolio/HLL2.pdf)
 
@@ -82,7 +82,7 @@ text
 
 ### Summary
 
-text
+VCs who share the same ethnic, educational, or career background are more likely to syndicate with each other; this gives rise to "groupthink" and worse performance.
 
 #### [Download] (http://www.nber.org/papers/w18141.pdf)
 
@@ -99,7 +99,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> We investigate how personal characteristics affect people’s desire to collaborate and whether this attraction enhances or detracts from performance in venture capital. We find that venture capitalists who share the same ethnic, educational, or career background are more likely to syndicate with each other. This homophily reduces the probability of invest- ment success, and the detrimental effect is most prominent for early-stage investments. A variety of tests show that the cost of affinity is most likely attributable to poor decision- making by high-affinity syndicates after the investment is made. These results suggest that “birds-of-a-feather-flock-together” effects in collaboration can be costly.
+> We investigate how personal characteristics affect people’s desire to collaborate and whether this attraction enhances or detracts from performance in venture capital. We find that venture capitalists who share the same ethnic, educational, or career background are more likely to syndicate with each other. This homophily reduces the probability of investment success, and the detrimental effect is most prominent for early-stage investments. A variety of tests show that the cost of affinity is most likely attributable to poor decision-making by high-affinity syndicates after the investment is made. These results suggest that “birds-of-a-feather-flock-together” effects in collaboration can be costly.
 </details>
 
 ---
@@ -109,9 +109,9 @@ text
 
 ### Summary
 
-text
+VCs appear to delay the release of bad news about their portfolio until after they have finished raising a new fund.
 
-#### [Download] (link)
+#### [Download] (http://www.its.caltech.edu/~mewens/papers/vc-delay.pdf)
 
 
 <details>
@@ -134,7 +134,7 @@ text
 
 ### Summary
 
-text
+The "human capital" of individual VCs is more important than their firm's organizational capital, and specific investors (even at the same firm at the same time) have recognizable differences in strategy.
 
 #### [Download] (https://dash.harvard.edu/handle/1/15788004)
 
@@ -159,7 +159,7 @@ text
 
 ### Summary
 
-text
+When VCs replace startup founders, they improve the performance of their portfolios - particularly when they replace them with executives with substantial industry experience.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124)
 
@@ -175,7 +175,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> We provide causal evidence that venture capitalists (VCs) improve the performance of their portfolio companies by replacing founders. Augmenting a database of U.S.- based, VC-backed startups from 1995–2008 with hand-collected information regarding turnover, we exploit shocks to the supply of outside executives via state-level changes in the enforceability of employee non-compete agreements. Although naive regressions of startup performance on founder replacement would suggest a negative correlation, this may be due to selection as founders are likely to leave or be pushed out of poorly- performing startups. Indeed, instrumented regressions reverse the sign of this effect, suggesting that replacing founders improves the performance of venture-backed en- trepreneurial firms. Replacement helps more when founders hold CXO roles and when the incoming replacement has substantial work experience. The evidence points to the replacement of founders as a specific mechanism by which VCs add value.
+> We provide causal evidence that venture capitalists (VCs) improve the performance of their portfolio companies by replacing founders. Augmenting a database of U.S.- based, VC-backed startups from 1995–2008 with hand-collected information regarding turnover, we exploit shocks to the supply of outside executives via state-level changes in the enforceability of employee non-compete agreements. Although naive regressions of startup performance on founder replacement would suggest a negative correlation, this may be due to selection as founders are likely to leave or be pushed out of poorly-performing startups. Indeed, instrumented regressions reverse the sign of this effect, suggesting that replacing founders improves the performance of venture-backed entrepreneurial firms. Replacement helps more when founders hold CXO roles and when the incoming replacement has substantial work experience. The evidence points to the replacement of founders as a specific mechanism by which VCs add value.
 </details>
 
 ---
@@ -185,7 +185,7 @@ text
 
 ### Summary
 
-text
+Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO underpricing in a nonlinear way.
 
 #### [Download] (http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf)
 
@@ -228,7 +228,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Sociological investigations of economic exchange reveal how insti- tutions and social structures shape transaction patterns among ec- onomic actors. This article explores how interfirm networks in the U.S. venture capital (VC) market affect spatial patterns of exchange. Evidence suggests that information about potential investment op- portunities generally circulates within geographic and industry spaces. In turn, the circumscribed flow of information within these spaces contributes to the geographic- and industry-localization of VC investments. Empirical analyses demonstrate that the social net- works in the VC community—built up through the industry’s ex- tensive use of syndicated investing—diffuse information across boundaries and therefore expand the spatial radius of exchange. Venture capitalists that build axial positions in the industry’s coin- vestment network invest more frequently in spatially distant com- panies. Thus, variation in actors’ positioning within the structure of the market appears to differentiate market participants’ ability to overcome boundaries that otherwise would curtail exchange.
+> Sociological investigations of economic exchange reveal how institutions and social structures shape transaction patterns among economic actors. This article explores how interfirm networks in the U.S. venture capital (VC) market affect spatial patterns of exchange. Evidence suggests that information about potential investment opportunities generally circulates within geographic and industry spaces. In turn, the circumscribed flow of information within these spaces contributes to the geographic- and industry-localization of VC investments. Empirical analyses demonstrate that the social networks in the VC community — built up through the industry’s extensive use of syndicated investing — diffuse information across boundaries and therefore expand the spatial radius of exchange. Venture capitalists that build axial positions in the industry’s coinvestment network invest more frequently in spatially distant companies. Thus, variation in actors’ positioning within the structure of the market appears to differentiate market participants’ ability to overcome boundaries that otherwise would curtail exchange.
 </details>
 
 ---
@@ -256,7 +256,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> An important type of product differentiation in the venture capital (VC) market is industry specialization. We estimate a market structure model to assess competition among VCs—some of which specialize in a particular industry and others of which are generalists—and find that the incremental effect of additional same-type competitors increases as the number of same-type competitors increases. Furthermore, we find that the effects of generalist VCs on specialists are substantial, and larger than the effect of same-type competitors. Estimates from other industries typically show the incremental effects falling as the number of same-type com- petitors increases and the effects of same-type competitors as always being larger than the effects of different-type competitors. Consistent with the presence of net- work effects that soften competition, these patterns are more pronounced in markets that exhibit dense organizational networks among incumbent VCs. Markets with sparser incumbent networks, by contrast, exhibit competitive patterns that resemble those of other, non-networked industries.
+> An important type of product differentiation in the venture capital (VC) market is industry specialization. We estimate a market structure model to assess competition among VCs — some of which specialize in a particular industry and others of which are generalists — and find that the incremental effect of additional same-type competitors increases as the number of same-type competitors increases. Furthermore, we find that the effects of generalist VCs on specialists are substantial, and larger than the effect of same-type competitors. Estimates from other industries typically show the incremental effects falling as the number of same-type competitors increases and the effects of same-type competitors as always being larger than the effects of different-type competitors. Consistent with the presence of network effects that soften competition, these patterns are more pronounced in markets that exhibit dense organizational networks among incumbent VCs. Markets with sparser incumbent networks, by contrast, exhibit competitive patterns that resemble those of other, non-networked industries.
 </details>
 
 ---
