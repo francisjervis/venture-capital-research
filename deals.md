@@ -258,120 +258,126 @@ text
 
 ---
 
-## title
+## What matters, matters differently: a conjoint analysis of the decision policies of angel and venture capital investors
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.researchgate.net/profile/Dan_Hsu2/publication/259192950_What_matters_matters_differently_a_conjoint_analysis_of_the_decision_policies_of_angel_and_venture_capital_investors/links/55115afa0cf24e9311ce1957.pdf?origin=publication_detail)
 
 
 <details>
 
-### source
+### [Venture Capital, 2014](http://www.tandfonline.com/doi/abs/10.1080/13691066.2013.825527)
 
 ### Authors
-* people
+* Dan K. Hsua - Appalachian State University
+* J. Michael Haynieb - Syracuse University
+* Sharon A. Simmonsc - William Paterson University, Wayne, NJ
+* Alexander McKelvie - Syracuse University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Prior studies have examined the importance of economic, strategic, and human factors to decision policies of angel investors and venture capitalists. As more angels professionalize into angel funds and as markets for technologies and ideas become more competitive, it is becoming more important to compare their decision policies with those of venture capitalists. Drawing upon agency theory, we examine whether economic potential, specific human capital, strategic readiness, and passion matter differently to venture capitalists and angel investors. Our study is an experimental conjoint analysis of more than 2700 investment decisions nested within a mixed sample of venture capitalists and angel investors. We find that strategic readiness for funding and affective passion matter more to angel investors, while economic potential matters more to venture capitalists. We also find that both investor types place similar weights on the specific human capital of entrepreneurs. These findings support the agency view that differences in the investment decision policies of angel investors and venture capitalists can be explained by examining the agency costs, market risks, information asymmetry, and control mechanisms that are structured into angel and venture capital deals.
+
 </details>
 
 ---
 
-## title
+## Managing the Unknowable: The Effectiveness of Early-Stage Investor Gut Feel in Entrepreneurial Investment Decisions
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://escholarship.org/uc/item/54j7z903)
 
 
 <details>
 
-### source
+### Administrative Science Quarterly, 2015
 
 ### Authors
-* people
-
+* Laura Huang - The Wharton School, University of Pennsylvania
+* Jone L. Pearce - University of California, Irvine
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Based on an inductive theory-development study, a field experiment, and a longitudinal field test, we examine early-stage entrepreneurial investment decision making under conditions of extreme uncertainty. Building on existing literature on decision making and risk in organizations, intuition, and theories of entrepreneurial financing, we test the effectiveness of angel investors’ criteria for making investment decisions. We use this prior work as an integrated lens to ground our empirical findings, and discover that angel investors’ decisions have several characteristics that have not been adequately captured in existing theory: angel investors have clear objectives (extraordinarily profitable investments rather than seeking to maximize return on each investment), and they rely on a combination of expertise-based intuition and formal analysis in which intuition trumps analysis, contrary to reports in other investment contexts. We also found, as proposed, that their reported emphasis on assessments of the entrepreneur accurately predict extraordinarily profitable venture success four years later. We develop this theory by examining situations in which uncertainty is so extreme that it qualifies as unknowable and propose using the term of art, “gut feel,” to describe their dynamic emotion-cognitions in which they blend analysis and intuition in ways that do not impair intuitive processes, and in turn, effectively predict extraordinarily profitable investments.
 </details>
 
 ---
-## title
+## Experienced entrepreneurial founders, organizational capital, and venture capital funding
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2163&rep=rep1&type=pdf)
 
 
 <details>
 
-### source
+### Research Policy, 2006
 
 ### Authors
-* people
+* David H. Hsu - University of Pennsylvania
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper empirically investigates the sourcing and valuation of venture capital (VC) funding among entrepreneurs with varied levels of prior start-up founding experience, academic training, and social capital. Social ties with VCs have been identified as an important precursor to organizational resource attainment and performance, and so this study analyzes the correlates of heterogeneous social links with VCs. I also examine venture valuation, as it reflects enterprise quality and entrepreneurs’ cost of financial capital. Using data from a survey of 149 early stage technology-based start-up firms, I find several notable results. First, prior founding experience (especially financially successful experience) increases both the likelihood of VC funding via a direct tie and venture valuation. Second, founders’ ability to recruit executives via their own social network (as opposed to the VC’s network) is positively associated with venture valuation. Finally, in the emerging (at the time) Internet industry, founding teams with a doctoral degree holder are more likely to be funded via a direct VC tie and receive higher valuations, suggesting a signaling effect. The paper therefore underscores some important dimensions of heterogeneity among VC-backed entrepreneurs.
 </details>
 
 ---
 
-## title
+##  Swept Away by the Crowd? Crowdfunding, Venture Capital, and the Selection of Entrepreneurs
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239204)
 
 
 <details>
 
-### source
+### Working paper
 
 ### Authors
-* people
+* Ethan R. Mollick - University of Pennsylvania 
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Venture Capitalists (VCs) are experts in assessing the quality of entrepreneurial ventures. A long tradition of research has examined the signals of quality that VCs look for in new ventures, and the biases that result from the VC selection process. Recently, an alternative form of new venture funding has arisen in the form of crowdfunding, which relies on the judgement of millions of amateurs about which entrepreneurial projects are worth funding. Little is known about the degree to which amateurs respond to the same signals of quality as VCs, and whether they are subject to the same biases. To address this gap, I examine 2,101 crowdfunded projects that match characteristics of more traditional VC-backed seed ventures. Despite the radical differences in selection environments, I find that entrepreneurial quality is assessed in similar ways by both VCs and crowdfunders, but that crowdfunding alleviates some of geographic and gender biases associated with the way that VCs look for signals of quality.
 </details>
 
 ---
-## title
+
+## Venture-Backed Firms: How Does Venture Capital Involvement Affect Their Likelihood of Going Public or Being Acquired?
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.researchgate.net/publication/273330703_Venture-Backed_Firms_How_Does_Venture_Capital_Involvement_Affect_Their_Likelihood_of_Going_Public_or_Being_Acquired)
 
 
 <details>
 
-### source
+### Entrepreneurship: Theory and Practice, 2015
 
 ### Authors
-* people
+* Roberto Ragozzino -  University of Tennessee
+* Dane Blevins - Clemson University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper investigates how venture capitalists' involvement in new ventures affects the likelihood of entrepreneurial exit, either via an acquisition or via an initial public offering. We examine the prominence of venture capitals (VCs), the number of VCs invested in a company, as well as the timing, duration, and magnitude of their investments in new ventures. We find that each of these dimensions directly explains entrepreneurial exit, although their effects tend to differ depending on whether the exit occurs via an acquisition or an initial public offering (IPO). These results withstand several robustness checks and offer a more precise account of how the relationship between new ventures and VC firms unfolds in the early years of the entrepreneurial cycle.
 </details>
 
 ---
