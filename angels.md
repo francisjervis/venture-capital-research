@@ -499,52 +499,80 @@ text
 
 ---
 
-## title
+## Motivational Cues and Angel Investing: Interactions Among Enthusiasm, Preparedness, and Commitment
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.researchgate.net/profile/Melissa_Cardon/publication/305619822_Motivational_Cues_and_Angel_Investing_Interactions_Among_Enthusiasm_Preparedness_and_Commitment/links/5795f96008ae33e89fad7027.pdf)
 
 
 <details>
 
-### source
+### Entrepreneurship Theory & Practice, 2016
 
 ### Authors
-* people
-
+* Melissa S. Cardon - Pace University
+* Cheryl Mitteness - Northeastern University
+* Richard Sudek - University of California, Irvine
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Angel investors often make investment decisions based on motivational cues communicated during pitches – including enthusiasm, preparedness, and commitment – to evaluate potentially important qualities of entrepreneurs. We tested the independent and interaction effects of these cues by having 72 angels complete 1,995 evaluations of 133 live pitches. We found a positive effect of preparedness on angel evaluations, an effect enhanced by one form of commitment. The relationship between enthusiasm and evaluations of funding potential varies depending on the type of commitment considered. Our findings suggest that enthusiasm, preparedness, and commitment should be treated as conceptually and empirically distinct.
+
 </details>
 
 ---
-## title
+## The importance angels place on passion when making investment decisions : why does it matter to some and not all angels?
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1875&context=fer)
 
 
 <details>
 
-### source
+### Frontiers of Entrepreneurship Research, 2010
 
 ### Authors
-* people
+* Cheryl R. Mitteness - Northeastern University
+* Melissa S. Cardon - Pace University
+* Richard Sudek - Chapman University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Despite increasing interest in understanding the role passion plays in investor decision making, little is known about the conditions under which displayed passion is likely to play a significant role in this process. This study seeks to explain the individual characteristics of angel investors that influence the importance angels place on the passion displayed by the entrepreneur when angels make investment decisions. We use affective reactivity as our theoretical framework and integrate literature specific to each individual characteristic to explain how each characteristic likely impacts individuals’ affective reactivity and ultimately the importance these individuals place on passion when making investment decisions. 
 </details>
 
 ---
+
+## Hacking AngelList: Third Party Signaling in Equity Crowdfunding
+
+### Summary
+
+text
+
+#### [Download] (http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1066&context=bus_admin_diss)
+
+
+<details>
+
+### Dissertation, Executive Doctorate in Business, Georgia State University
+
+### Authors
+* Matthew C. Klein - Georgia State University
+
+
+### <summary>Abstract</summary>
+
+> This dissertation examines the effectiveness of third party affiliation signals that entrepreneurs use to convince investors to commit financial resources in an equity crowdfunding context. I investigate the importance of third party affiliation signals (business accelerators, investor syndicates, and startups featured on the equity crowdfunding platform) on subsequent online funding amounts. The data indicates that affiliation with an investor syndicate is an effective third party affiliation signal and can therefore strongly impact the probability of online funding amounts. Business accelerators and startups featured on the equity crowdfunding platform, by contrast, have little or no impact on online funding amounts. I discuss the implications of the results for theory, future research, and practice.
+</details>
+---
+
 ## title
 
 ### Summary
