@@ -11,3 +11,5 @@
 [Venture Finance] (../master/finance.md)
 
 [VC Deal Selection and Decision Making] (../master/deals.md)
+
+[Diversity and Equality] (../master/diversity.md)
