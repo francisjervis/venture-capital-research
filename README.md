@@ -1,5 +1,5 @@
 # Venture Capital Research 
-### A collection of up-to-date empirical research on VC, entrepreneurship &amp; fundraising
+### A curated collection of up-to-date empirical research and theoretical scholarship on venture capital, entrepreneurship &amp; fundraising
 ---
 
 [Entrepreneurship and Innovation] (../master/entrepreneurship.md)
