@@ -206,3 +206,140 @@ text
 </details>
 
 ---
+
+## Direct and Indirect Effects of Passion on Growing Technology Ventures
+
+### Summary
+
+text
+
+#### [Download] (http://onlinelibrary.wiley.com/doi/10.1002/sej.1213/abstract)
+
+
+<details>
+
+### Strategic Entrepreneurship Journal, 2016
+
+### Authors
+* Mateja Drnovsek - University in Ljubljana, Slovenia
+* Melissa S. Cardon - Pace University
+* Pankaj C. Patel - Ball State University, Muncie, Indiana
+
+
+### <summary>Abstract</summary>
+
+> Entrepreneurial passion has gained credence in recent years in explaining entrepreneurial efforts, yet examination of the dynamics of this emotion and its effects on venture growth is still in its infancy. Building on the literature on entrepreneurial motivation and entrepreneurial passion, we develop and test a model of entrepreneurial passion, goals, and venture growth. We utilize path analysis on a two-wave sample of founders from 122 high technology firms. We find direct positive effects of passion for developing on venture growth and an indirect positive effect mediated by goal commitment, but not goal challenge. Implications for research and practice are discussed.
+</details>
+
+---
+## Understanding the value proposition as a cocreated claim
+
+### Summary
+
+text
+
+#### [Download] (https://repositories.lib.utexas.edu/bitstream/handle/2152/31275/london-2015-value-proposition-as-a-co-created-claim.pdf?sequence=2)
+
+
+<details>
+
+### IEEE professional communication society international professional communication conference, 2015
+
+### Authors
+* Noelle London - University of Texas at Austin
+* Gregory Pogue - IC2 Institute
+* Clay Spinuzzi - University of Texas at Austin
+
+### <summary>Abstract</summary>
+
+> In this paper, we examine five cases of technology commercialization in terms of how entrepreneurs advance a specific kind of claim: the value proposition. The value proposition can describe the characteristics of the innovation itself (Goods- Dominant Logic) or propose how the innovation will co- create value with stakeholders (Service-Dominant Logic); in the examined cases, the value proposition transitions between these two “logics,” addressing different needs in the ongoing argument. We conclude by discussing the needs that each “logic” serves and the implications for better understanding entrepreneurship communication
+
+</details>
+
+---
+## Absolutely fabulous!: Fabulation and organisation-creation in processes of becoming-entrepreneur
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* Daniel Hjorth - Copenhagen Business School
+
+
+### <summary>Abstract</summary>
+
+> This paper seeks to apply a processual thinking of subjectivity in the study of “becoming entrepreneur”. Design/methodology/approach – Through analysing Foucault's idea of subjectification, by the help of Deleuze's comments and elaborations, the paper seeks to clarify one opacity in entrepreneurship research – the “vanishing presence” of the entrepreneur in processual studies of entrepreneurship. To avoid performative contradiction, the paper seeks to contextualise this attempt in guiding principles provided by process philosophy. Findings – Without a process view, “the subject” as entity and self-constitutive res cogitans (thinking thing or mind) will take priority over subjectification, and the paper will loose the possibility to think and study the process of becoming-subject in its own terms. Originality/value – Understanding entrepreneurship as organisation-creation, the paper here adds a processual conceptualisation to the study of such processes by focusing on the arrangements (/agancements/ [sic] as Deleuze called this, or /dispositifs/ as Foucault preferred to use) in which subjectification into “entrepreneur” happens.
+</details>
+---
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>---
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>---
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
