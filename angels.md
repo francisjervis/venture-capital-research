@@ -210,3 +210,285 @@ text
 </details>
 
 ---
+
+## Trustworthiness: A Critical Ingredient for Entrepreneurs Seeking Investors
+
+### Summary
+
+text
+
+#### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1874&context=fer)
+
+
+<details>
+
+### Entrepreneurship Theory & Practice, 2014
+
+### Authors
+* Andrew L. Maxwell - University of Waterloo, CA
+* Moren Lévesque - York University, CA
+
+
+### <summary>Abstract</summary>
+
+>We investigate how specific behaviors by an entrepreneur during an initial interaction with a business angel investor build, damage or violate trust, and how the investor’s changes in his or her level of trust affects the decision to make an investment offer, or not. Our empirical analysis shows that entrepreneurs who receive offers are expected to exhibit a larger number of trustbuilding behaviors, a smaller number of trust-damaging behaviors, and to be unlikely to display trust-violating behaviors, as compared to those who do not receive an offer. We further observe that the offer of a trust-repair mechanism by the investor is a prerequisite for all of the entrepreneurs who damage or violate trust to receive an investment offer. 
+</details>
+
+---
+
+
+## How Does Angel Investor–Entrepreneur Conflict Affect Venture Innovation? It Depends
+
+### Summary
+
+text
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2776841)
+
+
+<details>
+
+### source
+
+### Authors
+* Veroniek Collewaert - Vlerick Business School
+* Harry J. Sapienza - University of Minnesota
+
+
+### <summary>Abstract</summary>
+
+> This study examines how angel investor–entrepreneur task conflicts are related to portfolio company innovativeness and how this relationship is moderated by the level of agreement on priorities, diversity of entrepreneurial experience, and the level of communication. Using survey data gathered from 54 teams of angels and entrepreneurs in Belgium and the United States, we show that the negative relationship between task conflict and innovativeness is more severe when the teams have lower levels of agreement on priorities, when there is less diversity of experience in the team, and when the teams communicate more frequently.
+
+</details>
+
+---
+
+
+## Experience, Heuristics And Learning: The Angel Investment Process
+
+### Summary
+
+text
+
+#### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1876&context=fer)
+
+
+<details>
+
+### source
+
+### Authors
+* Donald J. Smith - Discovery Investment Fund Limited
+* Richard T. Harrison - Queens University Belfast
+* Colin M. Mason - University of Strathclyde
+
+
+### <summary>Abstract</summary>
+
+> This paper extends the literature on the investment decision-making of business angels. Using insights from entrepreneurial learning theory we explore whether angels learn from experience, how they learn and what they learn. These issues are addressed using Verbal Protocol Analysis, a methodology for examining decision-making in real time, on three groups of business angels with differing levels of investment experience, and follow-up interviews with these angels. This reveals
+some differences in the speed of decision making and the emphasis given to various investment criteria. The relatively limited extent of the contrasts can be attributed to two factors. First, angel learning has been in terms of their approach to investing rather than fundamentals. Second, this learning has had more effect on how they conduct their due diligence on opportunities that pass their initial screening than on the initial screening stage itself. Learning from other investors is
+important. 
+</details>
+
+---
+
+
+## Entrepreneur's Experience and Angels' Decision Process: A Longitudinal Analysis
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### Working paper
+
+### Authors
+* Cécile Carpentier - Laval University
+* Jean-Marc Suret - Laval University
+
+
+### <summary>Abstract</summary>
+
+> To determine if and why entrepreneurs’ experience determines their propensity to be financed by angels, we conduct the first longitudinal analysis of the decision process of a business angel network. We code the rejection reasons recorded by the network in each file to estimate the preparedness and outcome of 636 applications. We score the entrepreneurs’ experience from their résumés. Non industry-experienced promoters have no chance of obtaining financing because of the weakness of their proposal, but are not rejected due to team weakness. We evidence several differences with the commonly accepted description of the selection process.
+</details>
+
+---
+
+
+## Horse vs. Jockey? How stage of funding process and industry experience affect the evaluations of angel investors
+
+### Summary
+
+text
+
+#### [Download] (http://www.tandfonline.com/doi/abs/10.1080/13691066.2012.689474)
+
+
+<details>
+
+### [Venture Capital, 2012](http://www.tandfonline.com/doi/abs/10.1080/13691066.2012.689474)
+
+### Authors
+* Cheryl R. Mittenessa - Northeastern University
+* Melissa S. Baucusb - University of Louisville
+* Richard Sudekc - Chapman University
+
+
+### <summary>Abstract</summary>
+
+> Angel investors make evaluations at different stages of the funding process; so we explore how the importance angels place on different investment criteria varies and how industry experience impacts their evaluations. Data were collected at the screening stage as angel investors evaluated the strength of the entrepreneur and the opportunity, and made decisions regarding whether the deal should proceed to due diligence, as well as their personal interest in making an investment. Additional data were collected regarding whether these angels made an invest- ment at the funding stage. We tested our hypotheses using a multilevel approach to account for the nested nature of the data – multiple evaluations nested within each angel, nested within each screening presentation. Our results show that the entrepreneur matters most when angels are deciding whether a deal should proceed to due diligence; opportunity strength represents a more important investment criterion when angels switch to determining whether a deal matches their own investment goals as the deal progresses through the funding process. Additionally, we find that three types of industry experience differ in their impact on the evaluation process. The findings offer new insights and underscore the importance of considering how individual characteristics impact evaluations of funding potential.
+</details>
+
+---
+
+
+## Business angel syndicates: an exploratory study of gatekeepers
+
+### Summary
+
+text
+
+#### [Download] (http://www.hban.org/_fileupload/Business_Angel_Syndicates_in_Scotland_-_Gatekeepers.pdf)
+
+
+<details>
+
+### [Venture Capital, 2010](http://www.tandfonline.com/doi/abs/10.1080/13691061003711438)
+
+### Authors
+* Stuart Paul - University of the West of Scotland
+* Geoff Whittam - University of the West of Scotland
+
+
+### <summary>Abstract</summary>
+
+> The objective of this paper is to examine the role of the individuals who control access to and manage much of the day-to-day operation of informal investment syndicates. We give these people the name business angel gatekeepers. Guided by an analytical framework developed from the research and development literature, empirical findings are presented from a series of in-depth interviews with a representative sample of Scotland-based gatekeepers. The paper proposes a definition of the term ‘business angel gatekeeper’, identifies the function and roles of gatekeepers and examines the skills required to perform the role. The paper concludes by considering the implications for stakeholders in the business angel market.
+</details>
+
+---
+
+## Angel Financing and the Performance of High-Tech Start-Ups
+
+### Summary
+
+text
+
+#### [Download] (http://onlinelibrary.wiley.com/doi/10.1111/jsbm.12250/abstract)
+
+
+<details>
+
+### Journal of Small Business Management 2016
+
+### Authors
+* Annalisa Croce - Politecnico di Milano
+* Massimiliano Guerini - Politecnico di Milano
+* Elisa Ughetto - Politecnico di Torino
+
+
+### <summary>Abstract</summary>
+
+> In this paper, we investigate what drives the performance of high-tech start-ups receiving angel financing, while taking a closer look at the capabilities (i.e., experience) and investment behavior of business angels (BAs). We exploit a new data set (extracted from Crunchbase), which consists of 1,933 high-tech start-ups that received at least one financing round from a BA. The results indi- cate that the experience of BAs in early stage investments is positively associated with additional receipt of follow-on rounds of financing and sequential capital injections from venture capitalists (VCs). Later-stage experience is positively associated with the start-up’s success (i.e., probability to be listed or acquired), but reduces the need for new VCs to invest in the start-up. Furthermore, we find consistent evidence that start-ups that combine BA and VC financing experience higher levels of funding amounts, additional VC financing, and an improved likelihood of success. Finally, we find that the co-localization of BA investors and start-ups in the same area facilitates the attrac- tion of VC financing.
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
