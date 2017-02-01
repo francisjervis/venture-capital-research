@@ -4,7 +4,7 @@
 
 ### Summary
 
-text
+This article discusses the roots of the Lean Startup movement and its relationship to planning and effectuation in entrepreneurial thinking.
 
 #### [Download] (http://link.springer.com/article/10.1007/s11365-016-0411-x)
 
@@ -30,7 +30,7 @@ text
 
 ### Summary
 
-text
+This paper proposes a theory of "entrepreneuring" as a processes of solution discovery - one which is most likely to be hindered by the cognitive biases of entrepreneurs themselves.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747458)
 
@@ -58,7 +58,7 @@ text
 
 ### Summary
 
-text
+The relationship between investors' failure tolerance and the level of risk of ventures leads to the exclusion of some highly experimental projects, and helps explain when and where radical innovation occurs.
 
 #### [Download] (http://www.hbs.edu/faculty/Publication%20Files/13-038_d67d2459-9770-4297-8b02-0fe43a6cdebf.pdf)
 
@@ -85,7 +85,7 @@ text
 
 ### Summary
 
-text
+The phenomenon of employees leaving to become entrepreneurs is discussed in terms of Schumpeter's influential theory of entrepreneurship, and this theory is tested using data on actual entrepreneurs.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1347063)
 
@@ -111,7 +111,7 @@ text
 
 ### Summary
 
-text
+A price-based theory of when engineers choose to join startups is used to predict VC investment and the "minimum quality" of startup ideas that can be funded, along with engineer wages.
 
 #### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.978.7735&rep=rep1&type=pdf)
 
@@ -137,7 +137,7 @@ funding “standard”. This funding standard I inversely related to the number 
 
 ### Summary
 
-text
+Startup teams with more creative social networks produce better company ideas. 
 
 #### [Download] (https://www.gsb.stanford.edu/sites/gsb/files/phd-job-market-paper/koning_job_market_paper.pdf)
 
@@ -152,7 +152,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Do networks plentiful in ideas provide early stage startups with performance advantages? On the one hand, network positions that provide access to a multitude of ideas are thought to increase team performance. On the other hand, research on network formation argues that such positional advantages should be fleeting as entrepreneurs both strategically compete for the most valuable network positions and form relationships with others who have similar char- acteristics and abilities. I embed a field experiment in a three-week-long startup bootcamp to test if networks that are plentiful in ideas lead to performance advantages. Using detailed data from the bootcamp’s custom-designed learning management platform, I find support for the first hypothesis. Teams with networks more plentiful in ideas receive better peer evaluations and more crowdfunding page views. I find little evidence that entrepreneurs actively build net- works to others who could have provided a greater quantity of information and ideas. Instead, entrepreneurs seek feedback from those they have collaborated with in the past or who share similar ascriptive characteristics. These findings provide first-order evidence for the importance of knowledge spillovers within bootcamps, incubators, and accelerators. Furthermore, the find- ings provide a potential explanation for the durability of idea and information-based network advantages.
+> Do networks plentiful in ideas provide early stage startups with performance advantages? On the one hand, network positions that provide access to a multitude of ideas are thought to increase team performance. On the other hand, research on network formation argues that such positional advantages should be fleeting as entrepreneurs both strategically compete for the most valuable network positions and form relationships with others who have similar characteristics and abilities. I embed a field experiment in a three-week-long startup bootcamp to test if networks that are plentiful in ideas lead to performance advantages. Using detailed data from the bootcamp’s custom-designed learning management platform, I find support for the first hypothesis. Teams with networks more plentiful in ideas receive better peer evaluations and more crowdfunding page views. I find little evidence that entrepreneurs actively build networks to others who could have provided a greater quantity of information and ideas. Instead, entrepreneurs seek feedback from those they have collaborated with in the past or who share similar ascriptive characteristics. These findings provide first-order evidence for the importance of knowledge spillovers within bootcamps, incubators, and accelerators. Furthermore, the findings provide a potential explanation for the durability of idea and information-based network advantages.
 
 </details>
 
@@ -162,7 +162,7 @@ text
 
 ### Summary
 
-text
+Crowdfunding serves an important role as a tool for entrepreneurial learning.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637699)
 
