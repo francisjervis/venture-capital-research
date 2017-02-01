@@ -29,7 +29,7 @@ Inexperienced angel investors are influenced by all kinds of information about a
 
 ### Summary
 
-text
+There is an inter-dependence between the angel and VC markets which limits the power of VCs: if VCs "hold up" angel investors, they may encourage new startups to avoid VC funding altogether.
 
 #### [Download] (http://eureka.sbs.ox.ac.uk/5223/1/HellmannThiele(2014)JFEforthcoming.pdf)
 
@@ -45,7 +45,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> We examine the interrelationship between angel and venture capital markets, using a model with free entry and search frictions. Venture capitalists rely on the supply of angel-backed deals, and angels depend on competitive valuations from venture capitalists. Ex-post, ven- ture capitalists have an incentive to hold-up angel investors, but ex-ante this may endanger their deal flow from angels. Endogenous entry limits the hold-up power of venture cap- italists. In equilibrium, angels may encourage companies to exit early, in order to avoid venture capital funding altogether. The model also explains how hold-up and competition affect the valuations paid by angels and venture capitalists.
+> We examine the interrelationship between angel and venture capital markets, using a model with free entry and search frictions. Venture capitalists rely on the supply of angel-backed deals, and angels depend on competitive valuations from venture capitalists. Ex-post, venture capitalists have an incentive to hold-up angel investors, but ex-ante this may endanger their deal flow from angels. Endogenous entry limits the hold-up power of venture capitalists. In equilibrium, angels may encourage companies to exit early, in order to avoid venture capital funding altogether. The model also explains how hold-up and competition affect the valuations paid by angels and venture capitalists.
 
 </details>
 
@@ -56,7 +56,7 @@ text
 
 ### Summary
 
-text
+Trustworthiness of the entrepreneur, quality of the management team, enthusiasm of the lead entrepreneur, and exit opportunities are angels’ top criteria for investment selection.
 
 #### [Download] (https://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/5%20Sudek_JSBS_Article_-_Investment_Criteria.pdf)
 
@@ -80,7 +80,7 @@ text
 
 ### Summary
 
-text
+Angel investment appears to substitute for VC funding: companies that obtain angel financing subsequently obtain less venture capital, and vice versa.
 
 #### [Download] (http://eureka.sbs.ox.ac.uk/5264/1/2015-2.pdf)
 
@@ -107,10 +107,9 @@ text
 
 ### Summary
 
-text
+Where angels and VCs both participate in a round, firm outcomes are worse than if just angels or just VCs invest.
 
 #### [Download] (https://www.angelcapitalassociation.org/data/ACEF/ACEFDocuments/Does%20Angel%20Participation%20Matter%20-%20Analysis%20of%20Early%20Venture%20Financing.pdf)
-
 
 <details>
 
@@ -135,7 +134,7 @@ text
 
 ### Summary
 
-text
+Angels that successfully lead a portfolio company to the next financing stage gain more co-investment connections relative to their unsuccessful peers, and are rewarded with more new investment opportunities.
 
 #### [Download] (http://www.bauer.uh.edu/yerramilli/VenugopalYerramilli.pdf)
 
@@ -151,7 +150,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> We use the angel investor market to examine the e↵ect of performance on the network con- nectedness of individual angel investors. We collect data on start-ups and angel investors from CrunchBase (www.crunchbase.com), the largest crowd-sourced database on start-ups and investors, and AngelList (www.angel.co), the leading online fund-raising platform for start-ups. We find that angels that successfully lead a portfolio company to the next fi- nancing stage, especially from seed stage to series A stage, experience an increase in both the quantity and quality of their co-investment connections relative to their unsuccessful peers, and are rewarded with more new investment opportunities, both as lead investors and as participants. Success begets more success, making it more likely that other seed-stage portfolio companies of a successful angel also progress to the next financing stage. Finally, successful performance also expands the online followership of angels, and makes it more likely that their existing followers establish a new co-investment connection. Overall, our results highlight that reputation for good performance enhances the network capital of angel investors.
+> We use the angel investor market to examine the effect of performance on the network connectedness of individual angel investors. We collect data on start-ups and angel investors from CrunchBase (www.crunchbase.com), the largest crowd-sourced database on start-ups and investors, and AngelList (www.angel.co), the leading online fund-raising platform for start-ups. We find that angels that successfully lead a portfolio company to the next financing stage, especially from seed stage to series A stage, experience an increase in both the quantity and quality of their co-investment connections relative to their unsuccessful peers, and are rewarded with more new investment opportunities, both as lead investors and as participants. Success begets more success, making it more likely that other seed-stage portfolio companies of a successful angel also progress to the next financing stage. Finally, successful performance also expands the online followership of angels, and makes it more likely that their existing followers establish a new co-investment connection. Overall, our results highlight that reputation for good performance enhances the network capital of angel investors.
 </details>
 
 ---
@@ -161,7 +160,7 @@ text
 
 ### Summary
 
-text
+Ventures that are funded by successful angel groups experience superior outcomes to those that are rejected, although there is no difference in access to additional financing.
 
 #### [Download] (http://www.hbs.edu/faculty/Publication%20Files/10-086.pdf)
 
@@ -189,7 +188,7 @@ text
 
 ### Summary
 
-text
+VC investments follow crowdfunding investments; crowdfunding seems to help VC investors in assessing future trends rather than crowding them out of the market.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2829777)
 
@@ -206,7 +205,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Recent years have seen an upsurge of novel sources of new venture financing through crowdfunding (CF). We draw on 54,943 successfully crowdfunded projects and 3,313 venture capital (VC) investments through- out the period 04/2012-06/2015 to investigate, on the aggregate level, how crowdfunding is related to a more traditional source of entrepreneurial finance, venture capital. Granger causality tests support the view that VC investments follow crowdfunding investments. Cointegration tests also suggest a long-run relationship between crowdfunding and VC investments, while impulse response functions (IRF) indicate a positive effect running from CF to VC within two to six months. Crowdfunding seems to help VC investors in assessing future trends rather than crowding them out of the market.
+> Recent years have seen an upsurge of novel sources of new venture financing through crowdfunding (CF). We draw on 54,943 successfully crowdfunded projects and 3,313 venture capital (VC) investments throughout the period 04/2012-06/2015 to investigate, on the aggregate level, how crowdfunding is related to a more traditional source of entrepreneurial finance, venture capital. Granger causality tests support the view that VC investments follow crowdfunding investments. Cointegration tests also suggest a long-run relationship between crowdfunding and VC investments, while impulse response functions (IRF) indicate a positive effect running from CF to VC within two to six months. Crowdfunding seems to help VC investors in assessing future trends rather than crowding them out of the market.
 </details>
 
 ---
