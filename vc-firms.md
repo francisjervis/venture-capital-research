@@ -1,5 +1,8 @@
+# Venture Capital Firm Strategy and Structure
 
+A curated list of academic studies on the venture capital market structure, firm strategies and networks.
 
+---
 ## Does Reputation Limit Opportunistic Behavior in the VC Industry? Evidence from Litigation against VCs
 
 ### Summary
@@ -212,7 +215,7 @@ Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO
 
 ### Summary
 
-text
+VC investments are typically concentrated in one geographical area; however, investors who are active in syndicated deals invest more often in more distant companies.
 
 #### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf)
 
@@ -239,7 +242,7 @@ text
 
 ### Summary
 
-text
+The more VCs are active in a market (whether "generalists" or industry specialists"), the more competitive pressure is added by each new player - particularly in densely-networked regions. Generalist VCs also compete strongly against industry specialists.
 
 #### [Download] (http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf)
 
@@ -267,7 +270,7 @@ text
 
 ### Summary
 
-text
+The outcome of startups depends to some extent on their relative rank among their VCs' other investments: companies that are among a VC firm's best investments do better.
 
 #### [Download] (https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf)
 
@@ -285,32 +288,6 @@ text
 
 > This study argues and demonstrates that the value of a venture’s affiliations depends in part on its relative standing in the portfolio of affiliations held by its partners. Relative standing refers to how the venture ranks among other ventures in the partner’s portfolio with respect to observable signals of quality. The relative standing of a venture in its partner’s portfolio influences the venture’s access to the partner’s resources and, subsequently, the venture’s performance. We
 also argue that a venture’s relative standing becomes a more important predictor of performance when the partner has a larger portfolio or higher status. An empirical test of the equity investments by venture capital firms in 878 private biotechnology ventures between 1980 and 2004 provides support for the hypotheses.
-</details>
-
----
-
-
-
-## title
-
-### Summary
-
-text
-
-#### [Download] (link)
-
-
-<details>
-
-### source
-
-### Authors
-* people
-
-
-### <summary>Abstract</summary>
-
-> abstract
 </details>
 
 ---
