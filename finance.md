@@ -48,37 +48,4 @@ The authors propose a model of the startup lifecycle based on Christensen's S-cu
 </details>
 
 ---
-## title
-
-### Summary
-
-text
-
-#### [Download] (link)
-
-
-<details>
-
-### source
-
-### Authors
-* people
-
-
-### <summary>Abstract</summary>
-
-> abstract
-</details>
-
----
-## title
-
-### Summary
-
-text
-
-#### [Download] (link)
-
-
-<details>
 
