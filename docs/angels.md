@@ -214,7 +214,7 @@ VC investments follow crowdfunding investments; crowdfunding seems to help VC in
 
 ### Summary
 
-text
+Trust-building behaviors (and the absence of trust-damaging behaviors) on the part of founders are critical to angels' investment decisions.
 
 #### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1874&context=fer)
 
@@ -240,7 +240,7 @@ text
 
 ### Summary
 
-text
+This study examines how angel investor–entrepreneur task conflicts are related to portfolio company innovativeness and how this relationship is moderated by the level of agreement on priorities, diversity of entrepreneurial experience, and the level of communication.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2776841)
 
@@ -267,7 +267,7 @@ text
 
 ### Summary
 
-text
+Using a "thinking out loud" method, this paper examines the cognitive processes behind angels' decision making and learning processes. More experienced angels make decisions faster, and place more emphasis on financial data than novices.
 
 #### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1876&context=fer)
 
@@ -296,7 +296,7 @@ important.
 
 ### Summary
 
-text
+Founders without industry experience have difficulty securing angel investment; however, their pitches are not rejected because of the weakness of the team per se.
 
 #### [Download] (link)
 
@@ -322,7 +322,7 @@ text
 
 ### Summary
 
-text
+The entrepreneur matters most when angels are deciding whether a deal should proceed to due diligence; opportunity strength is more important when angels move on to determining whether a deal matches their own investment goals.
 
 #### [Download] (http://www.tandfonline.com/doi/abs/10.1080/13691066.2012.689474)
 
@@ -339,7 +339,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Angel investors make evaluations at different stages of the funding process; so we explore how the importance angels place on different investment criteria varies and how industry experience impacts their evaluations. Data were collected at the screening stage as angel investors evaluated the strength of the entrepreneur and the opportunity, and made decisions regarding whether the deal should proceed to due diligence, as well as their personal interest in making an investment. Additional data were collected regarding whether these angels made an invest- ment at the funding stage. We tested our hypotheses using a multilevel approach to account for the nested nature of the data – multiple evaluations nested within each angel, nested within each screening presentation. Our results show that the entrepreneur matters most when angels are deciding whether a deal should proceed to due diligence; opportunity strength represents a more important investment criterion when angels switch to determining whether a deal matches their own investment goals as the deal progresses through the funding process. Additionally, we find that three types of industry experience differ in their impact on the evaluation process. The findings offer new insights and underscore the importance of considering how individual characteristics impact evaluations of funding potential.
+> Angel investors make evaluations at different stages of the funding process; so we explore how the importance angels place on different investment criteria varies and how industry experience impacts their evaluations. Data were collected at the screening stage as angel investors evaluated the strength of the entrepreneur and the opportunity, and made decisions regarding whether the deal should proceed to due diligence, as well as their personal interest in making an investment. Additional data were collected regarding whether these angels made an investment at the funding stage. We tested our hypotheses using a multilevel approach to account for the nested nature of the data – multiple evaluations nested within each angel, nested within each screening presentation. Our results show that the entrepreneur matters most when angels are deciding whether a deal should proceed to due diligence; opportunity strength represents a more important investment criterion when angels switch to determining whether a deal matches their own investment goals as the deal progresses through the funding process. Additionally, we find that three types of industry experience differ in their impact on the evaluation process. The findings offer new insights and underscore the importance of considering how individual characteristics impact evaluations of funding potential.
 </details>
 
 ---
@@ -349,7 +349,7 @@ text
 
 ### Summary
 
-text
+This paper describes the role of "gatekeepers" in controlling entrepreneurs' access to angel investor syndicates.
 
 #### [Download] (http://www.hban.org/_fileupload/Business_Angel_Syndicates_in_Scotland_-_Gatekeepers.pdf)
 
@@ -374,7 +374,7 @@ text
 
 ### Summary
 
-text
+Startups backed by angels with experience in early stage investments are more successful at raising follow-on VC funding; angels with later stage experience have a positive effect on exit outcomes, and firms that combine angel and VC funding do best.
 
 #### [Download] (http://onlinelibrary.wiley.com/doi/10.1111/jsbm.12250/abstract)
 
@@ -391,7 +391,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> In this paper, we investigate what drives the performance of high-tech start-ups receiving angel financing, while taking a closer look at the capabilities (i.e., experience) and investment behavior of business angels (BAs). We exploit a new data set (extracted from Crunchbase), which consists of 1,933 high-tech start-ups that received at least one financing round from a BA. The results indi- cate that the experience of BAs in early stage investments is positively associated with additional receipt of follow-on rounds of financing and sequential capital injections from venture capitalists (VCs). Later-stage experience is positively associated with the start-up’s success (i.e., probability to be listed or acquired), but reduces the need for new VCs to invest in the start-up. Furthermore, we find consistent evidence that start-ups that combine BA and VC financing experience higher levels of funding amounts, additional VC financing, and an improved likelihood of success. Finally, we find that the co-localization of BA investors and start-ups in the same area facilitates the attrac- tion of VC financing.
+> In this paper, we investigate what drives the performance of high-tech start-ups receiving angel financing, while taking a closer look at the capabilities (i.e., experience) and investment behavior of business angels (BAs). We exploit a new data set (extracted from Crunchbase), which consists of 1,933 high-tech start-ups that received at least one financing round from a BA. The results indicate that the experience of BAs in early stage investments is positively associated with additional receipt of follow-on rounds of financing and sequential capital injections from venture capitalists (VCs). Later-stage experience is positively associated with the start-up’s success (i.e., probability to be listed or acquired), but reduces the need for new VCs to invest in the start-up. Furthermore, we find consistent evidence that start-ups that combine BA and VC financing experience higher levels of funding amounts, additional VC financing, and an improved likelihood of success. Finally, we find that the co-localization of BA investors and start-ups in the same area facilitates the attrac- tion of VC financing.
 </details>
 
 ---
@@ -400,7 +400,7 @@ text
 
 ### Summary
 
-text
+This paper describes the shift from angels investing individually to the current dominance of angel groups and syndicates.
 
 #### [Download] (http://www.gla.ac.uk/media/media_302219_en.pdf)
 
@@ -417,7 +417,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Business angel investing – a key source of  nance for entrepreneurial businesses – is rapidly evolving from a fragmented and largely anonymous activity dominated by individuals investing on their own to one that is increasingly characterised by groups of investors investing together through managed angel groups. The implications of this change have been largely ignored by scholars. The paper examines the investment activity and operation of angel groups in Scotland to highlight the implications of this change for the nature of angel investing. It goes on to argue that this transformation challenges both the ongoing relevance of prior research on business angels and current methodological practices, and raises a set of new research questions.
+> Business angel investing – a key source of finance for entrepreneurial businesses – is rapidly evolving from a fragmented and largely anonymous activity dominated by individuals investing on their own to one that is increasingly characterised by groups of investors investing together through managed angel groups. The implications of this change have been largely ignored by scholars. The paper examines the investment activity and operation of angel groups in Scotland to highlight the implications of this change for the nature of angel investing. It goes on to argue that this transformation challenges both the ongoing relevance of prior research on business angels and current methodological practices, and raises a set of new research questions.
 </details>
 
 ---
@@ -426,7 +426,7 @@ text
 
 ### Summary
 
-text
+Founder characteristics are the most common reason for angels to reject a pitch.
 
 #### [Download] (http://www.anzam.org/wp-content/uploads/pdf-manager/2734_468.PDF)
 
@@ -451,7 +451,7 @@ text
 
 ### Summary
 
-text
+Angels are most likely to reject proposals at an early stage based on first the innovativeness of the idea (at the "pre-screening" stage), then the founding team ("screening"), with profitability a concern only at the last stage.  
 
 #### [Download] (http://journals.sagepub.com/doi/abs/10.1177/0266242615622675)
 
@@ -477,7 +477,7 @@ text
 
 ### Summary
 
-text
+Angel group members focus more on market risk than agency risk; inexperienced entrepreneurs are rejected for market and product reasons.
 
 #### [Download] (link)
 
@@ -502,7 +502,7 @@ text
 
 ### Summary
 
-text
+Enthusiasm, preparedness, and commitment are separate constructs in angels' evaluation of pitches; perceived preparedness improves angels' response.
 
 #### [Download] (https://www.researchgate.net/profile/Melissa_Cardon/publication/305619822_Motivational_Cues_and_Angel_Investing_Interactions_Among_Enthusiasm_Preparedness_and_Commitment/links/5795f96008ae33e89fad7027.pdf)
 
@@ -527,7 +527,7 @@ text
 
 ### Summary
 
-text
+The importance of founders' passion varies according to their personality - specifically their "emotional reactivity."
 
 #### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1875&context=fer)
 
@@ -553,7 +553,7 @@ text
 
 ### Summary
 
-text
+Affiliation with an AngelList syndicate leads to higher funding amounts; being "featured" has little or no effect.
 
 #### [Download] (http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1066&context=bus_admin_diss)
 
@@ -572,26 +572,4 @@ text
 </details>
 ---
 
-## title
 
-### Summary
-
-text
-
-#### [Download] (link)
-
-
-<details>
-
-### source
-
-### Authors
-* people
-
-
-### <summary>Abstract</summary>
-
-> abstract
-</details>
-
----
