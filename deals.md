@@ -30,7 +30,7 @@ Experienced entrepreneurs can predict the quality of startup ideas in science-ba
 
 ### Summary
 
-text
+A new model for assessing startup quality based on highly granular geographic data and other factors.
 
 #### [Download] (http://www.nber.org/chapters/c13493.pdf)
 
@@ -56,7 +56,7 @@ text
 
 ### Summary
 
-text
+A "two-sided matching" model of the process by which more experienced "top-tier" VCs end up investing in the highest quality startups.
 
 #### [Download] (https://pdfs.semanticscholar.org/0c4b/21c7d6ffeddda24ede8df99f5ac8cb89ad24.pdf)
 
@@ -70,7 +70,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> In capital markets, top-tier investors may have better abilities to monitor and manage their investments. In addition, there may be sorting in these markets, with top-tier in- vestors investing in the best deals, second-tier investors investing in the second-best deals, and so forth. To separate and quantify these two effects, a structural model of the market for venture capital is developed and estimated. The model is a two-sided matching model that allows for sorting in equilibrium. It is found that more experienced venture capitalists make more successful investments. This is explained both by their value-adding influence on their investments, and by their access to late stage and biotechnology companies, com- panies that are more successful on average. Sorting is found to be prevalent and has general implications for the interpretation of empirical evidence of the impact of investors on their investments.
+> In capital markets, top-tier investors may have better abilities to monitor and manage their investments. In addition, there may be sorting in these markets, with top-tier investors investing in the best deals, second-tier investors investing in the second-best deals, and so forth. To separate and quantify these two effects, a structural model of the market for venture capital is developed and estimated. The model is a two-sided matching model that allows for sorting in equilibrium. It is found that more experienced venture capitalists make more successful investments. This is explained both by their value-adding influence on their investments, and by their access to late stage and biotechnology companies, companies that are more successful on average. Sorting is found to be prevalent and has general implications for the interpretation of empirical evidence of the impact of investors on their investments.
 </details>
 
 ---
@@ -79,7 +79,7 @@ text
 
 ### Summary
 
-text
+Entrepreneurs with a track record of success are more likely to succeed than first time entrepreneurs and those who have previously failed, and funding by more experienced venture capital firms enhances the chance of success, but only for entrepreneurs without a successful track record.
 
 #### [Download] (http://www.nber.org/papers/w12592.pdf)
 
@@ -106,7 +106,7 @@ text
 
 ### Summary
 
-text
+Changes in management lead to improved firm outcomes, suggesting that the business is more important to success than the founders.
 
 #### [Download] (http://faculty.chicagobooth.edu/steven.kaplan/research/kss.pdf)
 
@@ -131,7 +131,7 @@ text
 
 ### Summary
 
-text
+A wide-ranging survey of decision making processes, deal structures and outcomes, comparing VC to private equity.
 
 #### [Download] (https://www.gsb.stanford.edu/faculty-research/working-papers/how-do-venture-capitalists-make-decisions)
 
@@ -158,7 +158,7 @@ text
 
 ### Summary
 
-text
+A review of the existing literature on VC investment criteria; the most significant factors in investment decisions are identified.
 
 #### [Download] (http://hrcak.srce.hr/file/221353)
 
@@ -173,7 +173,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about invest- ment criteria set by di erent suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  Thee most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
+> Different funders, like bankers, business angels or venture capitalists, put the accent on various investment criteria while making investment decisions. Entrepreneurs need to be familiar with these criteria or different requirements of potential investors in order to adjust their business plans. Motivated by the phenomenon of venture capital, numerous researchers worldwide are trying to identify the venture capitalists’ investment criteria. Despite the large number of studies, there is still no unambiguous answer to what the key venture capitalists’ investment criteria are. This paper provides an overview of research about investment criteria set by different suppliers of capital with a special emphasis on venture capitalists’ investment criteria.  The most used VCs’ investment criteria discussed in the literature are identifed and analysed in order to provide a new set of VC investment criteria.
 </details>
 
 ---
@@ -183,7 +183,7 @@ text
 
 ### Summary
 
-text
+A discussion of the research on VC decision making and the gaps in the research in this field, and suggestions for improving pitches based on the evidence.
 
 #### [Download] (http://epubs.scu.edu.au/cgi/viewcontent.cgi?article=1078&context=jesp)
 
@@ -210,7 +210,7 @@ text
 
 ### Summary
 
-text
+A proposed new method for early stage venture valuation and the prediction of firm performance.
 
 #### [Download] (https://business.illinois.edu/working_papers/papers/05-0124.pdf)
 
@@ -227,7 +227,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> How to valuate accurately a new venture is a critical and under-researched question in entrepreneurial financing. Leveraging established theories in strategic management, this research study develops an integrative theoretical framework to examine whether venture capitalists’ valuation of a new venture can be explained by variables identified in the strategy literature as important to predicting firm-level economic performance. A systematic linkage between well- developed theories in strategy and venture capital valuation practice are corroborated empirically. This research study proposes a complementary method to extant valuation methods to valuate a new venture.
+> How to valuate accurately a new venture is a critical and under-researched question in entrepreneurial financing. Leveraging established theories in strategic management, this research study develops an integrative theoretical framework to examine whether venture capitalists’ valuation of a new venture can be explained by variables identified in the strategy literature as important to predicting firm-level economic performance. A systematic linkage between well-developed theories in strategy and venture capital valuation practice are corroborated empirically. This research study proposes a complementary method to extant valuation methods to valuate a new venture.
 </details>
 
 ---
@@ -237,7 +237,7 @@ text
 
 ### Summary
 
-text
+A discussion of the issues arising from using VCs' self-reports of their decision making criteria in research.
 
 #### [Download] (http://www.seaanz.org/sites/seaanz/documents/1997SEAANZConference/1997-12.pdf)
 
@@ -262,7 +262,7 @@ text
 
 ### Summary
 
-text
+Angel investors are more concerned about strategic readiness and founder passion than VCs; VCs are more concerned with economic potential, and both groups are interested in the "human capital" of entrepreneurs.
 
 #### [Download] (https://www.researchgate.net/profile/Dan_Hsu2/publication/259192950_What_matters_matters_differently_a_conjoint_analysis_of_the_decision_policies_of_angel_and_venture_capital_investors/links/55115afa0cf24e9311ce1957.pdf?origin=publication_detail)
 
@@ -290,7 +290,7 @@ text
 
 ### Summary
 
-text
+Angel investors rely on a combination of expertise-based intuition and formal analysis in which intuition trumps analysis, and their intuition effectively predicts venture success.
 
 #### [Download] (http://escholarship.org/uc/item/54j7z903)
 
