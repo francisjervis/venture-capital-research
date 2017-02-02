@@ -186,7 +186,7 @@ Crowdfunding serves an important role as a tool for entrepreneurial learning.
 
 ### Summary
 
-text
+A model which, it is claimed, predicts the number of startups formed and their success probability, the wages of engineers, the share of equity retained by founders, the fraction of engineers pursuing entrepreneurship, and the profits of successful startups.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2442439)
 
@@ -210,8 +210,7 @@ text
 ## Direct and Indirect Effects of Passion on Growing Technology Ventures
 
 ### Summary
-
-text
+Founder passion has a direct positive effect on venture growth and an indirect positive effect mediated by "goal commitment," but not "goal challenge".
 
 #### [Download] (http://onlinelibrary.wiley.com/doi/10.1002/sej.1213/abstract)
 
@@ -236,7 +235,7 @@ text
 
 ### Summary
 
-text
+Entrepreneurs' presentation of their "value proposition" encompasses both a product-focussed ("goods-dominant") logic, and a "service-dominant logic" centered on how the innovation will co-create value with stakeholders.
 
 #### [Download] (https://repositories.lib.utexas.edu/bitstream/handle/2152/31275/london-2015-value-proposition-as-a-co-created-claim.pdf?sequence=2)
 
@@ -252,7 +251,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> In this paper, we examine five cases of technology commercialization in terms of how entrepreneurs advance a specific kind of claim: the value proposition. The value proposition can describe the characteristics of the innovation itself (Goods- Dominant Logic) or propose how the innovation will co- create value with stakeholders (Service-Dominant Logic); in the examined cases, the value proposition transitions between these two “logics,” addressing different needs in the ongoing argument. We conclude by discussing the needs that each “logic” serves and the implications for better understanding entrepreneurship communication
+> In this paper, we examine five cases of technology commercialization in terms of how entrepreneurs advance a specific kind of claim: the value proposition. The value proposition can describe the characteristics of the innovation itself (Goods- Dominant Logic) or propose how the innovation will co-create value with stakeholders (Service-Dominant Logic); in the examined cases, the value proposition transitions between these two “logics,” addressing different needs in the ongoing argument. We conclude by discussing the needs that each “logic” serves and the implications for better understanding entrepreneurship communication.
 
 </details>
 
@@ -261,7 +260,7 @@ text
 
 ### Summary
 
-text
+A philosophical-theoretical discussion of the making of the "entrepreneurial subject."
 
 #### [Download] (https://www.researchgate.net/publication/262822320_Absolutely_fabulous_Fabulation_and_organisation-creation_in_processes_of_becoming-entrepreneur)
 
@@ -284,7 +283,7 @@ text
 
 ### Summary
 
-text
+This article discusses the relationship between lean startup methods and firm internationalization.
 
 #### [Download] (http://findresearcher.sdu.dk/portal/files/117858292/RasmussenTanev_TIMReview_November2015.pdf)
 
@@ -300,7 +299,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> This article contributes to the interplay between international entrepreneurship, innova- tion networks, and early internationalization research by emphasizing the need to concep- tualize and introduce a new type of firm: the lean global startup. It discussed two different paths in linking the lean startup and born-global internationalization strategies. The first path refers to generic lean startups that have undertaken a rapid internationalization strategy (i.e., lean-to-global startups). The second path refers to startups that have started operating on global scale since their inception and adopted the lean startup approach by seamlessly synergizing their global and lean product development activities. The article emphasizes several aspects that could be used as part of the theoretical foundation for con- ceptualizing lean global startups as a special new type of firm: i) the emergent nature of their business models, including the challenges of partnership development on a global scale; ii) the inherently relational nature of the global resource allocation processes; iii) the integration of the entrepreneurial, effectuation, and global marketing perspectives; iv) the need to deal with a high degree of uncertainty, including the uncertainty associated with cross-border business operations; and v) linking the ex-ante characteristics of lean startups with the ex-post characteristics of born-global firms in order to develop a technology adop- tion marketing perspective that considers the “crossing the chasm” process as a successful entry into a global market niche.
+> This article contributes to the interplay between international entrepreneurship, innovation networks, and early internationalization research by emphasizing the need to conceptualize and introduce a new type of firm: the lean global startup. It discussed two different paths in linking the lean startup and born-global internationalization strategies. The first path refers to generic lean startups that have undertaken a rapid internationalization strategy (i.e., lean-to-global startups). The second path refers to startups that have started operating on global scale since their inception and adopted the lean startup approach by seamlessly synergizing their global and lean product development activities. The article emphasizes several aspects that could be used as part of the theoretical foundation for conceptualizing lean global startups as a special new type of firm: i) the emergent nature of their business models, including the challenges of partnership development on a global scale; ii) the inherently relational nature of the global resource allocation processes; iii) the integration of the entrepreneurial, effectuation, and global marketing perspectives; iv) the need to deal with a high degree of uncertainty, including the uncertainty associated with cross-border business operations; and v) linking the ex-ante characteristics of lean startups with the ex-post characteristics of born-global firms in order to develop a technology adop- tion marketing perspective that considers the “crossing the chasm” process as a successful entry into a global market niche.
 </details>
 
 ---
@@ -309,7 +308,7 @@ text
 
 ### Summary
 
-text
+The impact of VC funding on product iterations is diverse, and the sooner product iterations happen (if needed), the better.
 
 #### [Download] (https://www.researchgate.net/publication/285384131_Product_Iterations_in_Venture_Capital_Funded_Technology-Based_Start-Ups_Pivoting_as_Critical_Success_Factor)
 
