@@ -313,7 +313,7 @@ Angel investors rely on a combination of expertise-based intuition and formal an
 
 ### Summary
 
-text
+Prior experience as a founder (particularly when financially successful) increases likelihood of funding and valuation; higher valuations improve founders' ability to recruit managers themselves, and founding teams with at least one PhD receive higher valuations.
 
 #### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2163&rep=rep1&type=pdf)
 
@@ -337,7 +337,7 @@ text
 
 ### Summary
 
-text
+Entrepreneurial quality is assessed in similar ways by both VCs and crowdfunders, but crowdfunding alleviates some of the geographic and gender biases associated with the way that VCs look for signals of quality.
 
 #### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239204)
 
@@ -361,7 +361,7 @@ text
 
 ### Summary
 
-text
+The prominence of VCs, the number of VCs invested in a company, and the timing, duration, and magnitude of investments all affect exit outcomes, although their effects tend to differ depending on whether the exit occurs via an acquisition or IPO.
 
 #### [Download] (https://www.researchgate.net/publication/273330703_Venture-Backed_Firms_How_Does_Venture_Capital_Involvement_Affect_Their_Likelihood_of_Going_Public_or_Being_Acquired)
 
