@@ -3,7 +3,7 @@
 
 ### Summary
 
-text
+Investors prefer pitches presented by male entrepreneurs compared with pitches made by female entrepreneurs, even when the content of the pitch is the same; attractive males were particularly persuasive, whereas physical attractiveness did not matter among female entrepreneurs.
 
 #### [Download] (http://www.hbs.edu/faculty/Publication%20Files/Brooks%20Huang%20Kearney%20Murray_59b551a9-8218-4b84-be15-eaff58009767.pdf)
 
@@ -21,7 +21,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Entrepreneurship is a central path to job creation, economic growth, and prosperity. In the earliest stages of start-up business creation, the matching of entrepreneurial ventures to investors is critically important. The entrepreneur’s business proposition and previous experience are regarded as the main criteria for investment deci- sions. Our research, however, documents other critical criteria that investors use to make these decisions: the gender and physical at- tractiveness of the entrepreneurs themselves. Across a field setting (three entrepreneurial pitch competitions in the United States) and two experiments, we identify a profound and consistent gender gap in entrepreneur persuasiveness. Investors prefer pitches pre- sented by male entrepreneurs compared with pitches made by fe- male entrepreneurs, even when the content of the pitch is the same. This effect is moderated by male physical attractiveness: attractive males were particularly persuasive, whereas physical attractiveness did not matter among female entrepreneurs.
+> Entrepreneurship is a central path to job creation, economic growth, and prosperity. In the earliest stages of start-up business creation, the matching of entrepreneurial ventures to investors is critically important. The entrepreneur’s business proposition and previous experience are regarded as the main criteria for investment decisions. Our research, however, documents other critical criteria that investors use to make these decisions: the gender and physical attractiveness of the entrepreneurs themselves. Across a field setting (three entrepreneurial pitch competitions in the United States) and two experiments, we identify a profound and consistent gender gap in entrepreneur persuasiveness. Investors prefer pitches presented by male entrepreneurs compared with pitches made by female entrepreneurs, even when the content of the pitch is the same. This effect is moderated by male physical attractiveness: attractive males were particularly persuasive, whereas physical attractiveness did not matter among female entrepreneurs.
 </details>
 
 ---
@@ -30,7 +30,7 @@ text
 
 ### Summary
 
-text
+Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s.
 
 #### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf)
 
@@ -45,7 +45,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> In this article, I develop and empirically test the theoretical argument that widely shared cultural beliefs about men’s and women’s abilities in entrepreneurship (i.e., “gender status beliefs”) systematically in uence the social interactions during which an entrepreneur, particularly an innovative entrepreneur, seeks support from potential stakeholders for his or her new organization. To evaluate this argument, I conducted three experimental studies in the United Kingdom and the United States in which student participants were asked to evaluate the pro les of two entrepreneurs and to make investment decisions for each. The studies manipulated the gender of the entrepreneur and the innovativeness of the business plan. The main  nding is consistent across studies: gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s. However, the strength of these patterns varies signi cantly depending on the societal and industry context of the new venture in question. Findings indicate that gender status beliefs can be understood as an impor- tant “demand-side” mechanism contributing to gender inequality in aggregate entrepreneurship rates and a micro-level factor affecting the likelihood that a new and novel organization will emerge and survive.
+> In this article, I develop and empirically test the theoretical argument that widely shared cultural beliefs about men’s and women’s abilities in entrepreneurship (i.e., “gender status beliefs”) systematically influence the social interactions during which an entrepreneur, particularly an innovative entrepreneur, seeks support from potential stakeholders for his or her new organization. To evaluate this argument, I conducted three experimental studies in the United Kingdom and the United States in which student participants were asked to evaluate the pro les of two entrepreneurs and to make investment decisions for each. The studies manipulated the gender of the entrepreneur and the innovativeness of the business plan. The main finding is consistent across studies: gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s. However, the strength of these patterns varies significantly depending on the societal and industry context of the new venture in question. Findings indicate that gender status beliefs can be understood as an important “demand-side” mechanism contributing to gender inequality in aggregate entrepreneurship rates and a micro-level factor affecting the likelihood that a new and novel organization will emerge and survive.
 </details>
 ---
 
@@ -53,7 +53,7 @@ text
 
 ### Summary
   
-text
+African-American fundraisers on Kickstarter achieve significantly lower success than other groups.
 
 #### [Download] (http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1408&context=icis2015)
 
@@ -68,7 +68,8 @@ text
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Crowdfunding platforms like Kickstarter are expected to “democratize” funding by increasing the availability of capital to traditionally underrepresented groups, but there is conflicting evidence about racial disparities in success rates. This paper contributes to the information systems literature on crowdfunding by examining the racial dynamics in the crowdfunding platform Kickstarter. The race of subjects in project and user photos are determined with facial recognition software for 138,778 fundraising projects, and matched sample techniques are used to control for observable differences in project
+categories among racial groups. Even controlling for these observable differences, this study finds that projects with African-American photo subjects achieve lower success rates. African-American fundraisers also achieve significantly lower success than other groups, and this effect is larger than the effect from project photos. This study has practical implications for individuals seeking capital in these markets as well as design implications for the platforms themselves.
 </details>
 ---
 
@@ -76,7 +77,7 @@ text
 
 ### Summary
 
-text
+Crowdfunding may reduce gender inequalities in the fundraising arena by benefitting the communication style of women.
 
 #### [Download] (http://faculty.haas.berkeley.edu/gorbatai/working%20papers%20and%20word/Crowdfunding-GenderGorbataiNelson.pdf)
 
