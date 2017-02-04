@@ -49,3 +49,365 @@ The authors propose a model of the startup lifecycle based on Christensen's S-cu
 
 ---
 
+## A Founder's Guide to Unicorn Creation: How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation
+
+### Summary
+
+Unicorn valuations are unreliable measures for firm value for the same reason that all start-up valuations are unreliable measures of firm value — namely, the common practice among VC investors to price VC financings as if they are purchasing common stock when they are acquiring preferred stock with downside economic protections.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664236)
+
+
+<details>
+
+### Research Handbook on Mergers and Acquisitions (Davidoff-Solomon & Hill, eds.), Forthcoming 
+
+### Authors
+* Robert P. Bartlett III - University of California, Berkeley
+
+
+### <summary>Abstract</summary>
+
+> This chapter, written for a Research Handbook on Mergers and Acquisitions (Davidoff-Solomon & Hill, eds.), investigates the widespread claim that the billion dollar valuations of “unicorn” start-ups are unreliable because of the manner in which founders bargain for these valuations with their venture capital (VC) investors. In particular, unicorn skeptics posit that VC investors agree to use these valuations in exchange for receiving enhanced preferred stock preferences, particularly enhanced liquidation preferences that are payable on a sale of the company. 
+
+By examining how liquidation preferences affect expected returns of founders and VC investors, this chapter argues that unicorn valuations are indeed unreliable measures of firm value but not for the reasons suggested by unicorn skeptics. While offering enhanced liquidation preferences to an investor can overcome the reduction in expected returns caused by financing a firm at a higher valuation, doing so will generally be more detrimental to a founder’s expected returns than financing the company at a lower valuation using a conventional liquidation preference. Rather, this chapter argues that unicorn valuations are unreliable measures for firm value for the same reason that all start-up valuations are unreliable measures of firm value — namely, the common practice among VC investors to price VC financings as if they are purchasing common stock when they are acquiring preferred stock with downside economic protections. As a result of this practice, the reported valuations of unicorns and non-unicorns alike can be significantly higher than the enterprise value an investor is implicitly placing on a firm when financing it. For founders and prior stockholders, this insight has important implications for understanding the effective enterprise value being used in a financing and avoiding unintended dilution.
+</details>
+
+---
+
+## Accelerators and the Regional Supply of Venture Capital Investment
+
+
+### Summary
+
+Data suggests that the founding of an accelerator has a large impact on the level of entrepreneurial finance activity in a metropolitan area.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518668)
+
+
+<details>
+
+### Working paper
+
+### Authors
+* Daniel C. Fehder - MIT
+* Yael V. Hochberg - NBER; Rice University
+
+
+### <summary>Abstract</summary>
+
+> Recent years have seen the rapid emergence of a new type of program aimed at seeding startup companies. These programs, often referred to as accelerators, differ from previously known seed-stage institutions such as incubators and angel groups. While proliferation of such accelerators is evident, evidence on efficacy and role of these programs is scant. Nonetheless, local governments and founders of such programs often cite the motivation for their establishment and funding as the desire to transform their local economies through the establishment of a startup technology cluster in their region. In this paper, we attempt to assess the impact that such programs can have on the entrepreneurial ecosystem of the regions in which they are established, by exploring the effects of accelerators on the availability and provision of seed and early stage venture capital funding in the local region.
+</details>
+
+---
+
+
+## Insider Financing and Venture Capital Returns
+
+### Summary
+
+Inside financings lead to a higher likelihood of failure, lower probability of IPOs, and lower cash on cash multiples than rounds with new (outside) investors.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849681##)
+
+
+<details>
+
+### Stanford University Graduate School of Business Research Paper No. 16-45 
+
+### Authors
+* Michael Ewens - California Institute of Technology
+* Matthew Rhodes-Kropf - Harvard Business School; NBER
+* Ilya A. Strebulaev - Stanford University; NBER
+
+
+### <summary>Abstract</summary>
+
+> Staged financing of venture capital-backed firms is valuable to both investors and entrepreneurs, but comes with a potential cost: hold-up. With asymmetric information and strong control rights, financial intermediaries may earn rents on their inside knowledge. We find that environments where insiders have the significant potential to hold-up the entrepreneur -- financings where only previous investors participate -- have predictable outcomes and returns. However, in contrast to predictions from the theory of hold-up, we show that these inside financings lead to a higher likelihood of failure, lower probability of IPOs, and lower cash on cash multiples than rounds with new (outside) investors. Inside financings also appear to be negative NPV, suggesting that investors make inefficient continuation decisions. We propose a novel alternative and show how the findings are consistent with a manifestation of an agency problem driven by changing opportunity costs over the VC fund life-cycle.
+</details>
+
+---
+
+
+## Changing Capital: Emerging Trends in Entrepreneurial Finance
+
+
+### Summary
+
+text
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859883)
+
+
+<details>
+
+### Kauffman Foundation
+
+### Authors
+* Ewing Marion - Kauffman Foundation 
+
+
+### <summary>Abstract</summary>
+
+> Capital is obviously vital to entrepreneurs, and the sources and types of capital available to them are changing. The gaps that exist between investors and entrepreneurs have narrowed due to networks created by new technologies. Easier communication has created new ways for investors to aggregate and deploy capital. Furthermore, the transaction costs of capital formation are falling rapidly, as evidenced by the growth of phenomena such as crowdfunding, online angel syndicates, online lending, and new venture funds operating beyond traditional hubs and with novel investing goals.
+
+The Kauffman Foundation seeks to provide improved data and analysis about trends in entrepreneurial capital formation so that we can encourage efforts to enhance the success rates of entrepreneurs everywhere. This report examines current developments in the field, draws out some broad trends, and considers their implications for entrepreneurs. 
+
+Data collection was carried out across several parts of the emerging capital landscape. Fourteen interviews were completed with experts across venture capital (VC), angel, crowdfunding, microfinance, and others involved with new financial technologies and products. Datasets and key industry publications were analyzed for venture capital (National Venture Capital Association and Thomson Reuters), angel syndicate investments (Angel Capital Association, Angel Resource Institute, Halo, and Pitchbook), angel investors (Center for Venture Research), and crowdfunding (Equity crowdfunding portals, Crowdnetic, and Kickstarter). More information on methodology and the datasets used can be made available upon request.
+</details>
+
+---
+
+
+## Entrepreneurship and the Business Cycle: Stylized Facts from US Venture Capital Activity
+
+
+### Summary
+
+VC entry is more strongly correlated and is contemporaneous with the business cycle while VC exit lags the cycle by two quarters. There is strong evidence for a bi-directional causality between entrepreneurship and economic activity. A positive shock to VC activity has a positive effect on real GDP.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2796458)
+
+
+<details>
+
+### Carleton Economic Papers
+
+### Authors
+* Hashmat U Khan - Carleton University
+* Pythagoras Petratos - University of Oxford, Said Business School
+
+
+### <summary>Abstract</summary>
+
+> We consider US Venture Capital (VC) activity as a measure of entrepreneurship and study its relationship with the business cycle. This measure addresses some biases in alternative measures such as self-employment and business ownership that have been considered in previous literature. Despite the well-known volatility in VC activity, it remains an important source of funding for entrepreneurs engaging in innovative business creation. We document key stylized facts for VC entry (seed and start-up stage) and VC exit (late stage) at the aggregate and sectoral level. VC entry is more strongly correlated and is contemporaneous with the business cycle while VC exit lags the cycle by two quarters. There is strong evidence for a bi-directional causality between entrepreneurship and economic activity. A positive shock to VC activity has a positive effect on real GDP. Our findings can help inform policies designed to support entrepreneurship.
+
+
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* auth - inst
+
+
+### <summary>Abstract</summary>
+
+> abs
+</details>
+
+---
+
