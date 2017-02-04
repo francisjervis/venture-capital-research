@@ -319,3 +319,50 @@ Intraorganizational politics, as well as coercive and normative pressures from c
 
 ---
 
+
+## Venture Capital Investment: The Role of Predator-Prey Dynamics with Learning by Doing
+
+### Summary
+
+text
+
+#### [Download] (http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf)
+
+
+<details>
+
+### source
+
+### Authors
+* James A. Brander - University of British Columbia
+* Jean-Etienne de Bettignies - University of British Columbia
+
+
+### <summary>Abstract</summary>
+
+> This paper suggests that endogenous dynamics of the “predator-prey” type can provide a contributing explanation for both high venture capital concentration by industry and “boom and bust” industry-level investment dynamics. We propose a model based on the idea that venture capitalists favor industries where they have significant experience and industries with a large pool of good investment opportunities. However, investment “uses up” opportunities and therefore tends to deplete the pool of unexploited opportunities. The resulting industry-level interactive dynamics naturally give rise to venture capital investment cycles similar to observed patterns.
+</details>
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
