@@ -358,26 +358,31 @@ Prominent-investor participation increases the incidence of CEO replacement, but
 ---
 
 
-## title
+## Financing and Advising with (Over)Confident Entrepreneurs: An Experimental Investigation
+
 
 ### Summary
 
-text
+Self-confident entrepreneurs issue more debt-like securities and receive less assistance; entrepreneurs learn not to offer pure debt and that initial ignorance of their own skills reinforces entrepreneurs’ ability to learn through risky choices.
 
-#### [Download] (link)
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609297)
 
 
 <details>
 
-### source
+### Working paper, 2015
 
 ### Authors
-* people
+* Laurent Vilanova - University of Lyon 2
+* Nadege Marchand - Groupe d' Analyse et de Theorie Economique (GATE)
+* Walid Hichri - University of Lyon 2 - Groupe d'Analyse et de Théorie Economique (GATE)
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> We test in the laboratory how entrepreneurs’ skill perceptions influence the design of financing and advising contracts. Our theoretical framework proposes that self-confident entrepreneurs prefer issuing debt whereas low self-confident ones prefer equity which induces strong investor assistance. The prevalence of overconfidence makes investors more reluctant to accept debt offers and constrains self-confident entrepreneurs to finance through mixed securities. Experimental results show that self-confident entrepreneurs issue more debt-like securities and receive less assistance. We also show that entrepreneurs learn not to offer pure debt and that initial ignorance of their own skills reinforces entrepreneurs’ ability to learn through risky choices.
+
+
 </details>
 ---
 
