@@ -344,25 +344,28 @@ text
 </details>
 ---
 
-## title
+## Venture Capital Investment Strategies under Financing Constraints: Evidence from the 2008 Financial Crisis
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781674)
 
 
 <details>
 
-### source
+### Working paper, 2016
 
 ### Authors
-* people
+* Annamaria Conti - Georgia Institute of Technology
+* Nishant Dass - Georgia Institute of Technology
+* Stuart J.H. Graham - Georgia Institute of Technology
+
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Employing the 2008 financial crisis as an empirical setting, we examine the investment strategies of venture capitalists (VCs) in response to liquidity supply shocks. While predictably VCs reduce investment, our difference-in-differences approach demonstrates that VCs reposition by increasing their share of, and per- round funding to, startups operating in the VCs’ core sectors. These effects are driven by more-experienced VCs, and are strongest in early-stage portfolio startups. Complementing these results, we find superior ex- post performance among crisis-funded portfolio startups operating in more-experienced VCs’ core sectors. Overall, our findings point to more-experienced VCs possessing information advantages, especially in their core sectors.
 </details>
 ---
