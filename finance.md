@@ -188,75 +188,80 @@ VC entry is more strongly correlated and is contemporaneous with the business cy
 ---
 
 
-## title
+## Do Venture Capitalists Affect Commercialization Strategies at Start-ups?
 
 ### Summary
 
-text
+VC backing skews commercialization strategies across industries toward cooperating, and VCs make their portfolio firms more sensitive to the business environment.
 
-#### [Download] (link)
+#### [Download] (https://www.files.ethz.ch/isn/29335/globalization%202000-006.pdf)
 
 
 <details>
 
-### source
+### MIT IPC Globalization Working Paper 00-006
 
 ### Authors
-* auth - inst
+* David Hsu - MIT
 
 
 ### <summary>Abstract</summary>
 
-> abs
+> I empirically study the effect of venture capital (VC) on product development and commercialization strategy of start-up organizations. In doing so, I segment entrant commercialization strategies into two camps according to competitive effect: to
+“cooperate” is to license-out technology or be acquired, while to “compete” is to develop technology independently. Building on the work of Gans, Hsu, and Stern (2000) on the drivers of entrant commercialization strategy, this paper examines the direct and indirect effects of VC on product development and competition. I start with two important determinants of start-up commercialization strategy: (1) the entrant’s relative investment cost of acquiring and controlling complementary assets needed to successfully commercialize its innovation, and (2) the entrant’s ability to effectively protect its intellectual property. I then test a novel sample of 118 technology-based projects divided almost evenly between two mechanisms of entrepreneurial finance. These two mechanisms differ in institutional detail in ways that allow a quasi-experiment of the
+effect of VC on start-up commercialization strategy. The U.S. Small Business Innovative Research (SBIR) program provides a grant to R&D without taking equity in a start-up or changing the corporate governance of project development. In contrast, VCs take an equity stake and participate in corporate governance in exchange for capital. Neither of these financing mechanisms, however, alters the underlying complementary asset or intellectual property regime associated with the project. Two main findings about the commercialization strategy and product market effects of venture capital emerge: (1) VC backing skews commercialization strategies across industries toward cooperating, and (2) VCs make their portfolio firms more sensitive to the business environment.
 </details>
 
 ---
 
 
-## title
+## Conservatism and Innovation in Venture Capital Contracting 
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.cambridge.org/core/journals/european-business-organization-law-review-ebor/article/div-classtitleconservatism-and-innovation-in-venture-capital-contractingdiv/CD7B41F711EC2D6787900988643B3D43)
 
 
 <details>
 
-### source
+### European Business Organization Law Review, 2014
 
 ### Authors
-* auth - inst
+* Joseph A. McCahery - Tilburg Law School
+* Erik P.M. Vermeulen - Tilburg Law School
 
 
 ### <summary>Abstract</summary>
 
-> abs
+> We conjecture that venture capitalists and their investors often fall prey to what is known as ‘collective conservatism’. We investigate this conjecture by analysing boilerplate provisions in limited partnership agreements. When investors accept suboptimal boilerplate provisions it is not because they believe that the standardised terms and conditions sufficiently align the interests of investors and fund managers, but merely because they think their peers, including their competitors, prefer to include them in the limited partnership agreement. We find that the financial crisis has facilitated some notable deviations in the boilerplate provisions that are designed to facilitate the return of confidence in the venture capital industry. We argue that a gradual shift may be taking place towards more investor-favourable limited partnership agreements or separate account and pledge fund arrangements. These shifts — which do not lead to significant changes in limited partnership agreements — appear to be particularly effective for bigger funds that increasingly focus on later-stage investments. We show that early-stage funds are more inclined to enter into innovative collaborative agreements. Collaborative agreements differ from traditional limited partnership agreements in that they focus less on curtailing principal-agent problems and more on joint development and value creation.
+
 </details>
 
 ---
 
-## title
+## Trust and Control: The Value Effect of Venture Capital Term Sheet Provisions as Risk Allocation Tools
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://repository.law.umich.edu/cgi/viewcontent.cgi?article=1031&context=mbelr)
 
 
 <details>
 
-### source
+### Michigan Business & Entrepreneurial Law Review, 2015
 
 ### Authors
-* auth - inst
+* Jason M. Gordon - Georgia Gwinnett College School of Business
+* David Orozco - Florida State University College of Business
 
 
 ### <summary>Abstract</summary>
 
-> abs
+> The parties to a venture funding agreement are in a state of coopetition. The parties account for perceived risk in the entrepreneur-investor relationship through varying levels of control demanded from and trust afforded to the other party. The level of risk perceived by each party may differ along individual aspects of the prospective equity deal. The provisions of the term sheet delineate the subjective risk perceptions of each party to the transaction by allocating control or trusting a party with decision-making rights. When negotiating term sheet provisions, a party should seek to understand and recognize the risk perceived by the other party and attempt to afford the level of control or trust necessary to achieve a relational agreement that provides the greatest value for the parties collectively. An optimal allocation of control and trust adequately captures the perceived risk of each party, promotes cooperation between the parties, and ultimately facilitates the performance of the business venture. Understanding the subjective risk perceptions of each party to the investment transaction will facilitate the objective of negotiating a term sheet that maximizes the value created for all parties.
 </details>
 
 ---
