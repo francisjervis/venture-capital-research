@@ -331,6 +331,128 @@ The impact of VC funding on product iterations is diverse, and the sooner produc
 
 ---
 
+## Prominent Investor Influence on Startup CEO Replacement and Performance
+
+### Summary
+
+Prominent-investor participation increases the incidence of CEO replacement, but that these successor CEOs are drawn overwhelmingly from one pool: outside candidates with previous CEO experience at other investor-backed startups.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2738835)
+
+
+<details>
+
+### Georgia Tech Scheller College of Business Research Paper No. 2016-48 
+
+### Authors
+* Annamaria Conti - Georgia Institute of Technology
+* Stuart J.H. Graham - Georgia Institute of Technology
+
+
+### <summary>Abstract</summary>
+
+> This paper empirically examines and provides causal evidence on how startup-investor involvement influences CEO turnover, and its performance implications. Using a large dataset of investors, startups, executives and their characteristics, we focus on how the participation of more prominent investors affects CEO replacement in startup companies, identifying the conditions associated with these leadership transitions, and relating CEO replacement to ex post financial and innovative performance. By implementing a Coarsened Exact Matching (CEM) algorithm, we generate causal evidence showing not only that prominent-investor participation increases the incidence of CEO replacement, but that these successor CEOs are drawn overwhelmingly from one pool: Outside candidates with previous CEO experience at other investor-backed startups. We provide additional causal evidence demonstrating that CEO replacement produces superior company performance, and that this performance effect is enhanced when the new CEO comes from outside the company, and boosted even more when the individual has prior startup CEO experience. We demonstrate that these performance-increasing effects are driven specifically by CEO replacements caused by prominent-investor participation, and that the involvement of prominent investors produces large independent performance premiums in startups.
+
+
+</details>
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
+
 ## title
 
 ### Summary
