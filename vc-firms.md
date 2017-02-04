@@ -292,3 +292,30 @@ also argue that a venture’s relative standing becomes a more important predict
 
 ---
 
+## Throwing Good Money after Bad? A Multi-Level Study of Sequential Decision Making in the Venture Capital Industry
+
+
+### Summary
+
+Venture capital firms become less likely to terminate investments as they participate in more rounds of financing, despite evidence that expected returns are declining over rounds.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864595)
+
+
+<details>
+
+### Administrative Science Quarterly, 2016
+
+### Authors
+* Isin Guler - University of North Carolina at Chapel Hill 
+
+
+### <summary>Abstract</summary>
+
+> This study focuses on the political and institutional influences that lead organizational decision makers to avoid terminating unsuccessful investments, even when there is competition and they have the experience and incentives to maximize profits. I examine multilevel influences on sequential investment decisions in the U.S. venture capital industry through a qualitative study of the investment process and a quantitative examination of venture capital investments between 1989 and 2004. Results show that venture capital firms become less likely to terminate investments as they participate in more rounds of financing, despite evidence that expected returns are declining over rounds. 
+
+Intraorganizational politics, as well as coercive and normative pressures from co-investors and limited partners, may influence the decisions to continue or terminate investments, regardless of the expected returns. The findings suggest that organizational safeguards designed to mitigate individual biases may give rise to political and institutional influences, which may in turn undermine the effectiveness of the decision process.
+</details>
+
+---
+
