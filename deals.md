@@ -381,6 +381,112 @@ The prominence of VCs, the number of VCs invested in a company, and the timing, 
 </details>
 
 ---
+
+
+## The Rise of the Unicorns - How Media Affects Start-Up Valuations
+
+### Summary
+
+Investors who are typically not primarily active in the VC market are most affected by increasing media coverage; valuations are driven to a large extent by increasing media coverage before a funding round.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2808458)
+
+
+<details>
+
+### source
+
+### Authors
+* Severin Johannes Zörgiebel - Goethe University Frankfurt
+
+
+### <summary>Abstract</summary>
+
+> Within the last years, start-ups have achieved extraordinary high valuation levels which have never been seen in such dimensions before. These high-valued start-ups with valuations above or equal to US$1bn are also called unicorns. Similarly, media coverage of start-ups has increased significantly. In this paper the impact of media coverage on global unicorn valuations between 1990 and October 2015 is empirically analyzed. In addition, the impact of technology advancements on the media and start-ups is discussed. The here presented results indicate that technology advancements increase media coverage for start-ups. Investors which are typically not primarily active in the VC market are most affected by increasing media coverage. Start-up and especially unicorn valuations are driven to a large extent by increasing media coverage before a funding round. These results add new insights on the driving factors of start-up valuations and are consistent across a variety of different regression models and robustness checks.
+</details>
+
+---
+
+## The Persistent Effect of Initial Success: Evidence from Venture Capital
+
+
+### Summary
+
+Each additional IPO among a VC's first five investments predicted a 13% higher IPO rate for its subsequent 50 investments; early success in venture investing appears to yield better deal flow in subsequent investments.
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2900862)
+
+
+<details>
+
+### Harvard Business School Entrepreneurial Management Working Paper No. 17-065
+
+### Authors
+* Ramana Nanda - Harvard University 
+* Sampsa Samila - National University of Singapore Business School
+* Olav Sorenson - Yale School of Management
+
+
+### <summary>Abstract</summary>
+
+> We used data on individual investments in the portfolios of venture capital firms to study persistence in their performance. Each additional IPO among a VC's first five investments predicted a 13% higher IPO rate for its subsequent 50 investments. Roughly half of this performance persistence stemmed from investment "styles" ― investing in particular regions and industries. We found no evidence of performance persistence stemming from a differential ability to select or govern portfolio companies. Rather, our results suggest that early success in venture investing yields better deal flow in subsequent investments, thereby perpetuating differences in the outcomes of initial investments.
+
+</details>
+
+---
+
+## Economies of Extremes: Lessons from Venture-Capital Decision Making
+
+### Summary
+
+text
+
+#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2458867)
+
+
+<details>
+
+### Journal of Operations Management
+
+### Authors
+* Suzanne de Treville - University of Lausanne 
+* Jeffrey S Petty - University of Lausanne
+* Stefan Wager - Stanford University
+
+
+### <summary>Abstract</summary>
+
+> An organization's ability to exploit extreme events - such as exceptional opportunities - depends on its capacity strategy. The venture capital industry illustrates the interplay of expensive capacity and negative externalities from high utilization. The cost of adding a venture capitalist provides a strong incentive to run lean, but such leanness may make it impossible to evaluate all interesting investment opportunities. Using concepts from extreme-value theory, we analyze the trade-off between the costs and benefits arising from an increase in the number of evaluated deals. We ground our analysis in 11 years of archival data from a venture capital firm, representing 3,631 deals, the decisions made, the reasons for those decisions, and the decision lead times. The firm identified 20% of arriving deals as worth evaluating during the screening process, but was not able to evaluate approximately 9% of those interesting deals due to a lack of capacity. We show that the value of increasing the number of deals evaluated increases with the tail weight of the distribution of deal values. When the right tail is light, increasing the number of deals evaluated may provide too modest a benefit to justify the cost. When, however, the right tail is heavy, the value of increasing the number of deals is likely to more than compensate for the cost of capacity. Our results provide new insight into the relative value of a chase capacity strategy that emphasizes responsiveness versus a high-utilization heuristic that emphasizes productivity. Our approach can be applied to other search operations such as personnel selection, quality circles seeking to identify root causes, and making employee capacity available for innovation.
+
+
+</details>
+
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+
+---
+
 ## title
 
 ### Summary
