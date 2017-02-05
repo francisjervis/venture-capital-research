@@ -65,7 +65,7 @@ The relationship between investors' failure tolerance and the level of risk of v
 
 <details>
 
-### source
+### NBER Working Paper No. 19379, 2013
 
 ### Authors
 * Ramana Nanda - Harvard University
@@ -387,13 +387,13 @@ Self-confident entrepreneurs issue more debt-like securities and receive less as
 ---
 
 
-## title
+## Seeking the Roots of Entrepreneurship: Insights from Behavioral Economics
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.791&rep=rep1&type=pdf)
 
 
 <details>
@@ -401,36 +401,43 @@ text
 ### source
 
 ### Authors
-* people
+* Thomas Åstebro - HEC Paris
+* Holger Herz - University of Zurich
+* Ramana Nanda - Harvard Business School
+* Roberto A. Weber - NBER
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> In this article, we critically evaluate what the existing research shows regarding the individual determinants of entrepreneurship. We begin by documenting a set of facts that seem to pose a challenge for interpretations of entrepreneurship based on the standard expected utility framework. Drawing on research in behavioral economics we then review three sets of possible interpretations — risk aversion, overconfidence, and non-pecuniary, taste-based factors — for understanding the empirical facts related to the entry into, and persistence in entrepreneurship. The central thesis of this article is that while all these candidate explanations have merit and can account for some aspects of the facts above, there is little evidence of a “smoking gun” that can completely account for all the puzzling patterns we observe.
+
+
 </details>
 ---
 
 
-## title
+## Financing Risk and Innovation
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://ssrn.com/abstract=1657937)
 
 
 <details>
 
-### source
+### NBER Working Paper 11-013, 2014
 
 ### Authors
-* people
+*  Ramana Nanda - Harvard University
+* Matthew Rhodes-Kropf - Harvard University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> We provide a model of investment into new ventures that demonstrates why some places, times and industries should be associated with a greater degree of experimentation by investors. Investors respond to financing risk – a forecast of limited future funding – by modifying their focus to finance less innovative firms. Potential shocks to the supply of capital create the need for increased upfront financing, but this protection lowers the real option value of the new venture. In equilibrium, financing risk disproportionately impacts innovative ventures with the greatest real option value. We propose that extremely novel technologies may need ‘hot’ financial markets to get through the initial period of discovery or diffusion.
+
 </details>
 ---
 
