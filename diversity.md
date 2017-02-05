@@ -97,7 +97,72 @@ Crowdfunding may reduce gender inequalities in the fundraising arena by benefitt
 ---
 
 
+## Gender	and	Venture	Capital	Decision-Making: The	Effects	of	Technical	Background	and	Social	Capital	on	Entrepreneurial	Evaluations
 
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
 ## title
 
 ### Summary
