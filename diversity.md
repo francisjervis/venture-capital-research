@@ -103,7 +103,7 @@ Crowdfunding may reduce gender inequalities in the fundraising arena by benefitt
 
 text
 
-#### [Download] (link)
+#### [Download] (https://pdfs.semanticscholar.org/97fd/9b1eb81f1adf24e992dd9c1513bba8f89af3.pdf)
 
 
 <details>
@@ -111,15 +111,21 @@ text
 ### source
 
 ### Authors
-* people
+* Justine	E. Tinkler - University of Georgia
+* Manwai C. Ku - Stanford	University
+* Kjersten Bunker	Whittington - Reed College
+* Andrea Rees Davies - Stanford University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Research on gender and workplace decision-making tends to address either supply-side disparities between men’s and women’s human and social capital, or demand-side differences in the status expectations of women and men workers. In addition, this work often relies on causal inferences drawn from empirical data collected on worker characteristics and their workplace outcomes. In this study, we demonstrate how tangible education and work history credentials - typically associated with supply-side characteristics - work in tandem with cultural beliefs about gender to influence the evaluative process that
+underlies venture capital decisions made in high-growth, high-tech entrepreneurship. Using an experimental design, we simulate funding decisions by venture capitalists (VCs) for men and women entrepreneurs that differ in technical background and the presence of important social ties. We demonstrate the presence of two distinct aspects of VCs’ evaluation: that of the venture and that of the entrepreneur, and find that the gender of the entrepreneur influences evaluations most when the person,
+rather than the venture, is the target of evaluation. Technical background qualifications moderate the influence of gendered expectations, and women receive more of a payoff than men from having a close contact to the evaluating VC. We discuss the implications for future research on gender and work.
 </details>
 ---
-## title
+
+## Gender, ethnicity and entrepreneurship in initial public offerings: illustrations from an open database
 
 ### Summary
 
@@ -133,21 +139,48 @@ text
 ### source
 
 ### Authors
-* people
+* Martin Kenney - University of California, Davis
+* Donald Patton - University of California, Davis
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This paper describes the variables in a freely available database of all emerging growth firms (EGF) that made an initial stock offering (IPO) on US public markets from 1990 through 2010. Our expectation is that researchers from a variety of disciplines can use this data to answer a wide variety of social science questions and combine it with other databases. To illustrate how the data can be used, we describe the gender and nationality of the top management teams (TMTs) and board of directors (BoDs) of these firms. We confirm that women are under-represented in all functional positions, but, in contrast to much of the popular press, we find that statistically Silicon Valley firms perform better than the national average. Gender ratios differ by function with women most prevalent at the CFO position and are most prevalent in the biomedical industry. Using undergraduate education, as an identifier for nationality, we find that, contrary to the popular press, there are more European than Asian immigrants in the TMTs. This suggests that European immigrants are more likely to immigrate with advanced degrees, while the Asian immigrants have only Bachelor’s degrees. In the immigration literature, it has been observed that specific immigrant groups concentrate in particular occupations. To test for this effect, we study the backgrounds of all identifiable Taiwanese immigrants. A remarkably high concentration of Taiwanese TMT members were from two Taiwanese universities’ electrical engineering departments, then received U.S. graduate degrees, particularly from UC Berkeley, and entered semiconductor-related industries. This database will contribute to reproducible social science as the same quality-controlled data is now available to all researchers.
+
+
 </details>
 ---
-## title
+
+## Effect of Human Capital on the Entrepreneurship Gender Gap
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (http://repository.upenn.edu/cgi/viewcontent.cgi?article=1014&context=joseph_wharton_scholars)
+
+
+<details>
+
+### source
+
+### Authors
+* Andrea Lin - Wharton, UPenn
+
+
+### <summary>Abstract</summary>
+
+> The presence of a gender gap in entrepreneurship has been well studied in previous literature. There are various contributing factors, including differences in human capital, which has been reviewed less so than social capital. Through a career survey of Wharton MBAs, this research paper 1) examines the presence of an entrepreneurship gender gap; 2) identifies human capital variables that predict entry into entrepreneurship; and 3) determines whether or not there is a human capital gender gap. The results showed both an entrepreneurship and human capital gender gap. Furthermore, experience working at small companies, more years of experience, and experience in finance-related industries were found to be good predictors of entry. Overall, the human capital predictor model explained 6.4% of the variability of entry into entrepreneurship. Though applicability is limited due to the biases of the sample, there are tangible implications for decreasing the entrepreneurship gender gap.
+</details>
+---
+
+## Incubation or Induction? Gendered Identity Work in the Context of Technology Business Incubation
+
+### Summary
+
+text
+
+#### [Download] (http://pure.qub.ac.uk/portal/files/11648035/Incubation_or_Induction.pdf)
 
 
 <details>
@@ -160,9 +193,36 @@ text
 
 ### <summary>Abstract</summary>
 
-> abstract
+> Whilst there is a substantial body of literature which seeks to establish, or dispute, the beneficial influence of business incubation, this debate remains almost entirely gender blind. This article challenges this assumption by adopting a feminist perspective to reveal business incubation to be a gendered process which shapes the identity work undertaken by women seeking legitimacy as technology venturers. In so doing, we critically evaluate prevailing normative analyses of the business incubation process and entrepreneurial legitimation. To illustrate this argument, we draw upon empirical evidence which reveals technology incubation as a legitimating induction process encouraging women to reproduce masculinised representations of the normative technology entrepreneur.
 </details>
 ---
+
+## Postcolonial feminist analysis of high-technology entrepreneuring
+
+### Summary
+
+text
+
+#### [Download] (https://www.researchgate.net/profile/Banu_Ozkazanc-Pan/publication/263245483_Postcolonial_feminist_analysis_of_high-technology_entrepreneuring/links/543fee210cf21227a11b9bfb.pdf)
+
+
+<details>
+
+### International Journal of Entrepreneurial Behaviour & Research, 2014
+
+### Authors
+* Banu Ozkazanc-Pan - University of Massachusetts, Boston
+
+
+### <summary>Abstract</summary>
+
+> Purpose – The purpose of this paper is to examine identity formation and networking practices relevant for high-technology entrepreneuring or the enactment of entrepreneurship in Silicon Valley by Turkish business people.
+Design/methodology/approach – Guided by postcolonial feminist frameworks, the author conducted a combination of ethnographic and auto-ethnographic fieldwork at high-technology conferences in Silicon Valley by focussing on talk and text as relevant for understanding entrepreneuring. Through a reflexive stance, the author analyzed observations, conversations, and experiences inclusive of her own positionality during the research process as they related to entrepreneurial identity formation and networking.
+Findings – During business networking conferences taking place among Turkish business people in Silicon Valley, women and older males became marginalized through the emergence of a hegemonic masculinity associated with young Turkish male entrepreneurs. In addition, local context impacted whether and how actors engaged in practices that produced marginalization and resistance simultaneously.
+Originality/value – The research is of value for scholars interested in understanding how identity formation and networking in high-technology entrepreneuring take place through gendered practices and ideas. Scholars interested in deploying postcolonial feminist perspectives will also benefit by understanding how key analytic tools and research methods from these lenses can be used for conducting fieldwork in other contexts.
+</details>
+---
+
 ## title
 
 ### Summary
