@@ -463,7 +463,7 @@ text
 
 ---
 
-## title
+## Early Teams: The Impact of Team Demography on VC Financing and Going Public
 
 ### Summary
 
@@ -477,36 +477,67 @@ text
 ### source
 
 ### Authors
-* people
+* Christine M. Beckman - University of California, Irvine
+* M. Diane Burton - Cornell University
+* Charles O'Reilly - Stanford University
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> This study investigates how top management team (TMT) demographic characteristics affect firm outcomes for young high technology firms in Silicon Valley. We study how team composition and turnover shape an entrepreneurial firm’s ability to attract venture capital and its ability to successfully complete an initial public offering. We find that broad access to information by virtue of having top management team members that have worked for many different employers (diverse prior company affiliations) and have diverse prior experiences (functional diversity) tend to be associated with positive outcomes. In addition, entrants to and founder exits from the TMT increase the likelihood that affirm achieves an IPO. TMT exits, in turn, reduce the likelihood of achieving an IPO. Results also suggest that prior human capital experience is consistently associated with positive firm outcomes. These findings suggest that team experiences, composition and turnover are all important for bringing new insights to the firm and are associated with the likelihood that an entrepreneurial firm will succeed.
 </details>
 
 ---
 
-## title
+## Values and judgment under uncertainty: evidence from venture capitalist assessments of founders
 
 ### Summary
 
 text
 
-#### [Download] (link)
+#### [Download] (https://www.researchgate.net/publication/229741196_Values_and_judgment_under_uncertainty_evidence_from_venture_capitalist_assessments_of_founders)
 
 
 <details>
 
-### source
+### [Strategic Entrepreneurship Journal, 2008](http://onlinelibrary.wiley.com/doi/10.1002/sej.45/full)
 
 ### Authors
-* people
+* Sharon F. Matusik - University of Colorado Boulder
+* Jennifer M. George - Rice University
+* Michael B. Heeley - Colorado School of Mines
 
 
 ### <summary>Abstract</summary>
 
-> abstract
+> We examine how judgments in the context of uncertainty vary, depending on the values of those making these judgments. We test these ideas in the context of venture capitalists' (VCs') evaluations of founders. Drawing on theoretical and empirical research on the role of values in judgment and decision making and on Schwartz's (1992, 1996) conceptualization of the basic motivational dimensions underlying human values, we hypothesize and find that decision makers' process values (i.e., values governing the types of means to an end that an individual values) influence the perceived worth of founders' human capital. We discuss implications of these findings for judgment and decision-making research, as well as practical implications for entrepreneurs and venture capitalists.
 </details>
 
 ---
+
+## The Role of Prediction in New Venture Investing
+
+### Summary
+
+text
+
+#### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1490&context=fer)
+
+
+<details>
+
+### Frontiers of Entrepreneurship Research, 2009
+
+### Authors
+* Robert Wiltbank - Willamette University
+* Richard Sudek - Chapman University
+* Stuart Read - IMD, Switzerland
+
+
+### <summary>Abstract</summary>
+
+> Early stage investors openly discount/ignore the predictions that entrepreneurs show in their business plans as they pitch to investors. At the same time, many predictions about the venture continue to anchor investor evaluations. However, investors’ use of predictive and non-predictive information varies based on their own approach to dealing with uncertainty, their own entrepreneurial experience, and the steps in the evaluation process (i.e. screening, due diligence, and funding). Evaluating data from more than 2,700 individual investor evaluations of 150 new ventures, we find that investors with more entrepreneurial experience are more effectual in how they approach the development of new ventures. We also find that investors grade their area of emphasis more stringently, i.e. those who weight predictive information grade it “tougher.”
+Overall, investors emphasize predictive information more than they might suppose, especially early in the selection process, but once a venture has moved through the funding process to due diligence and investment, non-predictive information is the key factor. 
+</details>
+---
+
