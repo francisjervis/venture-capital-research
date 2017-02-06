@@ -492,3 +492,26 @@ text
 > Motivated by a significant disconnect between research, teaching and practice regarding the role of strategy in entrepreneurial ventures, this paper develops an integrated framework that defines and delineates the scope of entrepreneurial strategy, clarifies the choices and complementarities that shape entrepreneurial strategy, and proposes a choice-oriented process for implementing entrepreneurial strategy. We take an axiomatic approach, highlighting four interrelated premises: (i) Freedom: there is more than one alternative path by which value can be created and captured from a given idea; (ii) Constraint: resource and strategic constraints prevent the entrepreneur from pursuing more than one of these alternatives at once; (iii) Uncertainty: even after undertaking cost-benefit analysis to deselect some alternatives, there is unresolved uncertainty preventing a ranking of at least two alternatives, and (iv) Learning by Commitment: partial movement down a path to learn more about an option changes both the value of and the information available about alternative paths. Together, these conditions give rise to our central organizing insight, the paradox of entrepreneurship: choosing between equally viable alternative strategic commitments requires knowledge that can only be gained through experimentation and learning of the type that inevitably results in (at least some level) of commitment that forecloses particular strategic options. Entrepreneurial strategy is a choice-oriented approach to overcoming the paradox of entrepreneurship. Specifically, entrepreneurial strategy is the set (or sequence) of choices founders (and their teams) make in order to test a value creation and value capture hypothesis when entrepreneurial experimentation requires partial commitment. This approach yields three principles of entrepreneurial strategy. First, Choice Matters: when learning requires partial commitment, start-ups will not simply be able to optimize by identifying a best approach, but will instead be required to select an alternative that results in leaving equally viable yet conflicting alternatives behind. Second, These Choice Matter: there are specific choices start-ups face – Customers, Technology, Identity, and Competition – where the interplay between experimentation and commitment are salient; a choice- oriented approach yields a reconceptualization of traditional frameworks endemic to teaching and research in these domains. Finally, These Choices Matter Together: structured complementarities and interdependencies among these choices results in the identification of four alternative strategic directions for a given idea. Together, these principles motivate a new class of choice-oriented decision- making tools for entrepreneurs. We highlight one new tool – Test Two, Choose One – that offers a novel approach for how to undertake entrepreneurial decision-making under uncertainty.
 </details>
 ---
+
+## Accelerating Entrepreneurs and Ecosystems: The Seed Accelerator Model
+
+### Summary
+
+text
+
+#### [Download] (http://yael-hochberg.com/assets/portfolio/IPEHochberg.pdf)
+
+
+<details>
+
+### Conference Draft: April 3, 2015
+
+### Authors
+* Yael V. Hochberg - Rice University, MIT & NBER
+
+
+### <summary>Abstract</summary>
+
+> Recent years have seen the emergence of a new institutional form in the entrepreneurial ecosystem: the seed accelerator. These fixed-term, cohort-based, "boot camps" for startups offer educational and mentorship programs for startup founders, exposing them to wide variety of mentors, including former entrepreneurs, venture capitalists, angel investors, and corporate executives; and culminate in a public pitch event, or "demo day," during which the graduating cohort of startup companies pitch their businesses to a large group of potential investors. In practice, accelerator programs are a combination of previously distinct services or functions that were each individually costly for an entrepreneur to find and obtain. The accelerator approach has been widely adopted by private groups, public and government efforts, and by corporations. While proliferation of accelerators is clearly evident, with worldwide estimates of 3000+ programs in existence, research on the role and efficacy of these programs has been limited. In this article, I provide an introduction to the accelerator model and summarize recent evidence on their effects on the regional entrepreneurial environment.
+</details>
+---
