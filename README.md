@@ -14,4 +14,4 @@
 
 [VC Deal Selection and Decision Making](../master/deals.md)
 
-[Diversity and Equality](https://github.com/francisjervis/venture-capital-research/blob/master/docs/diversity.md)
+[Diversity and Equality](diversity.md)
