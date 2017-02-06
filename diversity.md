@@ -223,6 +223,30 @@ Originality/value – The research is of value for scholars interested in unders
 </details>
 ---
 
+## Does Social Proximity Enhance Business Partnerships? Theory and Evidence from Ethnicity's Role in U.S. Venture Capital
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+###  Management Science, 2014
+
+### Authors
+* Deepak Hegde - New York University
+* Justin Tumlinson - University of Munich
+
+
+### <summary>Abstract</summary>
+
+> We develop a formal model to understand the selection and influence effects of social proximity (homophily) between business partners. Consistent with the model’s predictions, we find that U.S. venture capitalists (VCs) are more likely to select start-ups with coethnic executives for investment, particularly when the probability of the start-up’s success appears low. Ethnic proximity between VCs and the start-ups they invest in is positively related to performance, measured by the probability of the companies’ successful exit through acquisitions and initial public offerings (IPOs) and net income after IPO. Two-stage regression estimates suggest that these positive performance outcomes are largely due to influence, that is, superior communication and coordination between coethnic VCs and start-up executives after the investment. To the extent that VCs expect to work better with coethnic start-ups, they invest in coethnic ventures that are of lower observable quality than noncoethnic ventures.
+</details>
+---
+
 ## title
 
 ### Summary
@@ -245,3 +269,50 @@ text
 > abstract
 </details>
 ---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
+## title
+
+### Summary
+
+text
+
+#### [Download] (link)
+
+
+<details>
+
+### source
+
+### Authors
+* people
+
+
+### <summary>Abstract</summary>
+
+> abstract
+</details>
+---
+
