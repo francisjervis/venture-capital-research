@@ -369,3 +369,79 @@ text
 > Employing the 2008 financial crisis as an empirical setting, we examine the investment strategies of venture capitalists (VCs) in response to liquidity supply shocks. While predictably VCs reduce investment, our difference-in-differences approach demonstrates that VCs reposition by increasing their share of, and per- round funding to, startups operating in the VCs’ core sectors. These effects are driven by more-experienced VCs, and are strongest in early-stage portfolio startups. Complementing these results, we find superior ex- post performance among crisis-funded portfolio startups operating in more-experienced VCs’ core sectors. Overall, our findings point to more-experienced VCs possessing information advantages, especially in their core sectors.
 </details>
 ---
+
+## The Impact of Venture Capital Monitoring
+
+### Summary
+
+text
+
+#### [Download] (http://www.mit.edu/~xgiroud/VC.pdf)
+
+
+<details>
+
+### [Journal of Finance, 2016](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12370/abstract)
+
+### Authors
+* Shai Bernstein - Stanford University
+* Xavier Giroud - MIT; NBER
+* Richard R. Townsend - University of California, San Diego
+
+### <summary>Abstract</summary>
+
+> We show that venture capitalists’ (VCs) on-site involvement with their portfolio companies leads to an increase in (1) innovation and (2) the likelihood of a successful exit. We rule out selection effects by exploiting an exogenous source of variation in VC involvement: the introduction of new airline routes that reduce VCs’ travel times to their existing portfolio companies. We confirm the importance of this channel by conducting a large-scale survey of VCs, of whom almost 90% indicate that direct flights increase their interaction with their portfolio companies and management, and help them better understand companies’ activities.
+</details>
+---
+
+
+## When Do Entrepreneurs Accurately Evaluate Venture Capital Firms’ Track Records? A Bounded Rationality Perspective
+
+### Summary
+
+text
+
+#### [Download] (https://www.researchgate.net/publication/299567302_When_Do_Entrepreneurs_Accurately_Evaluate_Venture_Capital_Firms'_Track_Records_A_Bounded_Rationality_Perspective)
+
+
+<details>
+
+### [Academy of Management Journal, 2016](http://amj.aom.org/content/59/5/1535.abstract)
+
+### Authors
+* Benjamin L. Hallen - 
+* Emily Cox Pahnke - 
+
+
+### <summary>Abstract</summary>
+
+> There has been substantial research on the value of young firms engaging high-quality partners. This literature, as well as the broader firm reputation literature, has tended to assume that individuals leading such firms find it relatively easy to accurately assess potential partner quality as reflected in their track record of past performance and behavior. Yet this prior work has largely focused on information-rich environments where potential partners are generally large and receive substantial public attention, and with whom evaluators may have high familiarity. In contrast, we draw on bounded rationality to theorize about how in information-sparse environments, individuals may misperceive the quality indicated by a firm’s objective track record. We argue that accurate evaluations depend not only on individuals’ motivation and ability to access information but on the convergence of these factors with attributes of the potential partner being evaluated. We test and find support for our framework using a novel dataset of 1,278 ratings of the quality of 153 early-stage venture capital firms by entrepreneurs that approached these firms for investments. Overall, this paper extends understanding of firm reputation dynamics to information-sparse contexts, and explores why individuals such as entrepreneurs may at times have difficulty accurately evaluating partners.
+</details>
+---
+
+
+## (Un)Tangled: Exploring the Asymmetric Coevolution of New Venture Capital Firms’ Reputation and Status
+
+### Summary
+
+text
+
+#### [Download] (http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
+
+
+<details>
+
+### [Administrative Science Quarterly, 2015](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
+
+### Authors
+* Timothy G. Pollock - Pennsylvania State University
+* Peggy M. Lee - Arizona State University
+* Kyuho Jin - Seoul National University
+* Kisha Lashley - University of Virginia
+
+
+### <summary>Abstract</summary>
+
+> We explore the relationship between status and reputation, examining how its dynamics change over time as these two intangible assets coevolve and how reputation and status are influenced by participation in highly visible events. Using a sample of more than 400 newly founded venture capital (VC) firms, we find that reputation and status positively influence each other but that reputation has a greater effect on status, particularly when firms are older. We also find that the effect of past status on current status weakens as VC firms age, but the relationship between past and current reputation remains consistent with age. Furthermore, our findings show that participating in big hits—blockbuster initial public offerings—has a positive relationship with status when firms are young and a positive relationship with reputation when firms are older, and it helps low-status and low-reputation firms more than it helps high-status and high-reputation firms. This study helps differentiate status and reputation, shows how they coevolve, and provides insight into how new firms build these important intangible assets.
+</details>
+---
