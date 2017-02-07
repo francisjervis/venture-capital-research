@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 markdown:    kramdown
 baseurl: /venture-capital-research
+url: https://studying.vc
