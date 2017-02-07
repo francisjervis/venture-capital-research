@@ -578,7 +578,7 @@ Affiliation with an AngelList syndicate leads to higher funding amounts; being "
 
 ### Summary
 
-text
+Venture capital partners, acting independently with their personal funds, make investments into younger firms with less educated and younger founding teams than their employing VC firms, but these investments perform financially similarly or better on some metrics even when controlling for investment size, stage, and industry.
 
 #### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656896)
 
