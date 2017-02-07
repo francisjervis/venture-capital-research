@@ -5,7 +5,7 @@
 
 The quality of "fit" between VCs and firms has a significant effect on the success of those firms (and investments).
 
-#### [Download] (http://amj.aom.org/content/59/3/930.abstract)
+#### [Download](http://amj.aom.org/content/59/3/930.abstract)
 
 
 <details>
@@ -30,7 +30,7 @@ The quality of "fit" between VCs and firms has a significant effect on the succe
 
 The authors propose a model of the startup lifecycle based on Christensen's S-curve model of technological development.
 
-#### [Download] (http://www.iijournals.com/doi/abs/10.3905/jpe.2015.18.2.023)
+#### [Download](http://www.iijournals.com/doi/abs/10.3905/jpe.2015.18.2.023)
 
 
 <details>
@@ -55,7 +55,7 @@ The authors propose a model of the startup lifecycle based on Christensen's S-cu
 
 Unicorn valuations are unreliable measures for firm value for the same reason that all start-up valuations are unreliable measures of firm value — namely, the common practice among VC investors to price VC financings as if they are purchasing common stock when they are acquiring preferred stock with downside economic protections.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664236)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664236)
 
 
 <details>
@@ -82,7 +82,7 @@ By examining how liquidation preferences affect expected returns of founders and
 
 Data suggests that the founding of an accelerator has a large impact on the level of entrepreneurial finance activity in a metropolitan area.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518668)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2518668)
 
 
 <details>
@@ -108,7 +108,7 @@ Data suggests that the founding of an accelerator has a large impact on the leve
 
 Inside financings lead to a higher likelihood of failure, lower probability of IPOs, and lower cash on cash multiples than rounds with new (outside) investors.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849681##)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2849681##)
 
 
 <details>
@@ -136,7 +136,7 @@ Inside financings lead to a higher likelihood of failure, lower probability of I
 
 text
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859883)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859883)
 
 
 <details>
@@ -166,7 +166,7 @@ Data collection was carried out across several parts of the emerging capital lan
 
 VC entry is more strongly correlated and is contemporaneous with the business cycle while VC exit lags the cycle by two quarters. There is strong evidence for a bi-directional causality between entrepreneurship and economic activity. A positive shock to VC activity has a positive effect on real GDP.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2796458)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2796458)
 
 
 <details>
@@ -194,7 +194,7 @@ VC entry is more strongly correlated and is contemporaneous with the business cy
 
 VC backing skews commercialization strategies across industries toward cooperating, and VCs make their portfolio firms more sensitive to the business environment.
 
-#### [Download] (https://www.files.ethz.ch/isn/29335/globalization%202000-006.pdf)
+#### [Download](https://www.files.ethz.ch/isn/29335/globalization%202000-006.pdf)
 
 
 <details>
@@ -221,7 +221,7 @@ effect of VC on start-up commercialization strategy. The U.S. Small Business Inn
 
 text
 
-#### [Download] (https://www.cambridge.org/core/journals/european-business-organization-law-review-ebor/article/div-classtitleconservatism-and-innovation-in-venture-capital-contractingdiv/CD7B41F711EC2D6787900988643B3D43)
+#### [Download](https://www.cambridge.org/core/journals/european-business-organization-law-review-ebor/article/div-classtitleconservatism-and-innovation-in-venture-capital-contractingdiv/CD7B41F711EC2D6787900988643B3D43)
 
 
 <details>
@@ -247,7 +247,7 @@ text
 
 text
 
-#### [Download] (http://repository.law.umich.edu/cgi/viewcontent.cgi?article=1031&context=mbelr)
+#### [Download](http://repository.law.umich.edu/cgi/viewcontent.cgi?article=1031&context=mbelr)
 
 
 <details>
@@ -273,7 +273,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -298,7 +298,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -323,7 +323,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -348,7 +348,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -373,7 +373,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -398,7 +398,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
