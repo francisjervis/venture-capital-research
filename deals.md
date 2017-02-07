@@ -7,7 +7,7 @@
 
 Experienced entrepreneurs can predict the quality of startup ideas in science-based fields, but not consumer or enterprise software.
 
-#### [Download] (http://www.hbs.edu/faculty/Publication%20Files/16-013_41f3750a-9d54-49be-a8f4-51a6489d514e.pdf)
+#### [Download](http://www.hbs.edu/faculty/Publication%20Files/16-013_41f3750a-9d54-49be-a8f4-51a6489d514e.pdf)
 
 
 <details>
@@ -32,7 +32,7 @@ Experienced entrepreneurs can predict the quality of startup ideas in science-ba
 
 A new model for assessing startup quality based on highly granular geographic data and other factors.
 
-#### [Download] (http://www.nber.org/chapters/c13493.pdf)
+#### [Download](http://www.nber.org/chapters/c13493.pdf)
 
 
 <details>
@@ -58,12 +58,12 @@ A new model for assessing startup quality based on highly granular geographic da
 
 A "two-sided matching" model of the process by which more experienced "top-tier" VCs end up investing in the highest quality startups.
 
-#### [Download] (https://pdfs.semanticscholar.org/0c4b/21c7d6ffeddda24ede8df99f5ac8cb89ad24.pdf)
+#### [Download](https://pdfs.semanticscholar.org/0c4b/21c7d6ffeddda24ede8df99f5ac8cb89ad24.pdf)
 
 
 <details>
 
-### [Journal of Finance, November 2007] (http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2007.01291.x/abstract)
+### [Journal of Finance, November 2007](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.2007.01291.x/abstract)
 
 ### Authors
 * Morten Sørensen - Stanford
@@ -81,7 +81,7 @@ A "two-sided matching" model of the process by which more experienced "top-tier"
 
 Entrepreneurs with a track record of success are more likely to succeed than first time entrepreneurs and those who have previously failed, and funding by more experienced venture capital firms enhances the chance of success, but only for entrepreneurs without a successful track record.
 
-#### [Download] (http://www.nber.org/papers/w12592.pdf)
+#### [Download](http://www.nber.org/papers/w12592.pdf)
 
 
 <details>
@@ -108,7 +108,7 @@ Entrepreneurs with a track record of success are more likely to succeed than fir
 
 Changes in management lead to improved firm outcomes, suggesting that the business is more important to success than the founders.
 
-#### [Download] (http://faculty.chicagobooth.edu/steven.kaplan/research/kss.pdf)
+#### [Download](http://faculty.chicagobooth.edu/steven.kaplan/research/kss.pdf)
 
 
 <details>
@@ -133,7 +133,7 @@ Changes in management lead to improved firm outcomes, suggesting that the busine
 
 A wide-ranging survey of decision making processes, deal structures and outcomes, comparing VC to private equity.
 
-#### [Download] (https://www.gsb.stanford.edu/faculty-research/working-papers/how-do-venture-capitalists-make-decisions)
+#### [Download](https://www.gsb.stanford.edu/faculty-research/working-papers/how-do-venture-capitalists-make-decisions)
 
 
 <details>
@@ -160,7 +160,7 @@ A wide-ranging survey of decision making processes, deal structures and outcomes
 
 A review of the existing literature on VC investment criteria; the most significant factors in investment decisions are identified.
 
-#### [Download] (http://hrcak.srce.hr/file/221353)
+#### [Download](http://hrcak.srce.hr/file/221353)
 
 
 <details>
@@ -185,7 +185,7 @@ A review of the existing literature on VC investment criteria; the most signific
 
 A discussion of the research on VC decision making and the gaps in the research in this field, and suggestions for improving pitches based on the evidence.
 
-#### [Download] (http://epubs.scu.edu.au/cgi/viewcontent.cgi?article=1078&context=jesp)
+#### [Download](http://epubs.scu.edu.au/cgi/viewcontent.cgi?article=1078&context=jesp)
 
 
 <details>
@@ -212,7 +212,7 @@ A discussion of the research on VC decision making and the gaps in the research 
 
 A proposed new method for early stage venture valuation and the prediction of firm performance.
 
-#### [Download] (https://business.illinois.edu/working_papers/papers/05-0124.pdf)
+#### [Download](https://business.illinois.edu/working_papers/papers/05-0124.pdf)
 
 
 <details>
@@ -239,7 +239,7 @@ A proposed new method for early stage venture valuation and the prediction of fi
 
 A discussion of the issues arising from using VCs' self-reports of their decision making criteria in research.
 
-#### [Download] (http://www.seaanz.org/sites/seaanz/documents/1997SEAANZConference/1997-12.pdf)
+#### [Download](http://www.seaanz.org/sites/seaanz/documents/1997SEAANZConference/1997-12.pdf)
 
 
 <details>
@@ -264,7 +264,7 @@ A discussion of the issues arising from using VCs' self-reports of their decisio
 
 Angel investors are more concerned about strategic readiness and founder passion than VCs; VCs are more concerned with economic potential, and both groups are interested in the "human capital" of entrepreneurs.
 
-#### [Download] (https://www.researchgate.net/profile/Dan_Hsu2/publication/259192950_What_matters_matters_differently_a_conjoint_analysis_of_the_decision_policies_of_angel_and_venture_capital_investors/links/55115afa0cf24e9311ce1957.pdf?origin=publication_detail)
+#### [Download](https://www.researchgate.net/profile/Dan_Hsu2/publication/259192950_What_matters_matters_differently_a_conjoint_analysis_of_the_decision_policies_of_angel_and_venture_capital_investors/links/55115afa0cf24e9311ce1957.pdf?origin=publication_detail)
 
 
 <details>
@@ -292,7 +292,7 @@ Angel investors are more concerned about strategic readiness and founder passion
 
 Angel investors rely on a combination of expertise-based intuition and formal analysis in which intuition trumps analysis, and their intuition effectively predicts venture success.
 
-#### [Download] (http://escholarship.org/uc/item/54j7z903)
+#### [Download](http://escholarship.org/uc/item/54j7z903)
 
 
 <details>
@@ -315,7 +315,7 @@ Angel investors rely on a combination of expertise-based intuition and formal an
 
 Prior experience as a founder (particularly when financially successful) increases likelihood of funding and valuation; higher valuations improve founders' ability to recruit managers themselves, and founding teams with at least one PhD receive higher valuations.
 
-#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2163&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2163&rep=rep1&type=pdf)
 
 
 <details>
@@ -339,7 +339,7 @@ Prior experience as a founder (particularly when financially successful) increas
 
 Entrepreneurial quality is assessed in similar ways by both VCs and crowdfunders, but crowdfunding alleviates some of the geographic and gender biases associated with the way that VCs look for signals of quality.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239204)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239204)
 
 
 <details>
@@ -363,7 +363,7 @@ Entrepreneurial quality is assessed in similar ways by both VCs and crowdfunders
 
 The prominence of VCs, the number of VCs invested in a company, and the timing, duration, and magnitude of investments all affect exit outcomes, although their effects tend to differ depending on whether the exit occurs via an acquisition or IPO.
 
-#### [Download] (https://www.researchgate.net/publication/273330703_Venture-Backed_Firms_How_Does_Venture_Capital_Involvement_Affect_Their_Likelihood_of_Going_Public_or_Being_Acquired)
+#### [Download](https://www.researchgate.net/publication/273330703_Venture-Backed_Firms_How_Does_Venture_Capital_Involvement_Affect_Their_Likelihood_of_Going_Public_or_Being_Acquired)
 
 
 <details>
@@ -389,7 +389,7 @@ The prominence of VCs, the number of VCs invested in a company, and the timing, 
 
 Investors who are typically not primarily active in the VC market are most affected by increasing media coverage; valuations are driven to a large extent by increasing media coverage before a funding round.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2808458)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2808458)
 
 
 <details>
@@ -414,7 +414,7 @@ Investors who are typically not primarily active in the VC market are most affec
 
 Each additional IPO among a VC's first five investments predicted a 13% higher IPO rate for its subsequent 50 investments; early success in venture investing appears to yield better deal flow in subsequent investments.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2900862)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2900862)
 
 
 <details>
@@ -441,7 +441,7 @@ Each additional IPO among a VC's first five investments predicted a 13% higher I
 
 text
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2458867)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2458867)
 
 
 <details>
@@ -469,7 +469,7 @@ text
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -495,7 +495,7 @@ text
 
 text
 
-#### [Download] (https://www.researchgate.net/publication/229741196_Values_and_judgment_under_uncertainty_evidence_from_venture_capitalist_assessments_of_founders)
+#### [Download](https://www.researchgate.net/publication/229741196_Values_and_judgment_under_uncertainty_evidence_from_venture_capitalist_assessments_of_founders)
 
 
 <details>
@@ -521,7 +521,7 @@ text
 
 text
 
-#### [Download] (http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1490&context=fer)
+#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1490&context=fer)
 
 
 <details>
