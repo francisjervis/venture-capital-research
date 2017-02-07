@@ -9,7 +9,7 @@ A curated list of academic studies on venture capital market structure, firm str
 
 VCs who are sued by founders do fewer, and less successful deals; more experienced VCs are less likely to be sued.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1343981)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1343981)
 
 
 <details>
@@ -35,7 +35,7 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 
 The most reliable predictor of a VC's future performance is their past market share of VC-backed IPOs.
 
-#### [Download] (http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf)
+#### [Download](http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf)
 
 
 <details>
@@ -62,7 +62,7 @@ The most reliable predictor of a VC's future performance is their past market sh
 
 The more interconnected the established players in a region's VC sector are, the harder it is for new entrants to establish themselves - making deals "cheaper" for the incumbents.
 
-#### [Download] (http://yael-hochberg.com/assets/portfolio/HLL2.pdf)
+#### [Download](http://yael-hochberg.com/assets/portfolio/HLL2.pdf)
 
 
 <details>
@@ -87,12 +87,12 @@ The more interconnected the established players in a region's VC sector are, the
 
 VCs who share the same ethnic, educational, or career background are more likely to syndicate with each other; this gives rise to "groupthink" and worse performance.
 
-#### [Download] (http://www.nber.org/papers/w18141.pdf)
+#### [Download](http://www.nber.org/papers/w18141.pdf)
 
 
 <details>
 
-### [Journal of Financial Economics, 2016] (http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
+### [Journal of Financial Economics, 2016](http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
 
 ### Authors
 * Paul A. Gompers - Harvard Business School
@@ -114,7 +114,7 @@ VCs who share the same ethnic, educational, or career background are more likely
 
 VCs appear to delay the release of bad news about their portfolio until after they have finished raising a new fund.
 
-#### [Download] (http://www.its.caltech.edu/~mewens/papers/vc-delay.pdf)
+#### [Download](http://www.its.caltech.edu/~mewens/papers/vc-delay.pdf)
 
 
 <details>
@@ -139,12 +139,12 @@ VCs appear to delay the release of bad news about their portfolio until after th
 
 The "human capital" of individual VCs is more important than their firm's organizational capital, and specific investors (even at the same firm at the same time) have recognizable differences in strategy.
 
-#### [Download] (https://dash.harvard.edu/handle/1/15788004)
+#### [Download](https://dash.harvard.edu/handle/1/15788004)
 
 
 <details>
 
-### [Journal of Finance, 2015] (http://onlinelibrary.wiley.com/doi/10.1111/jofi.12249/abstract)
+### [Journal of Finance, 2015](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12249/abstract)
 
 ### Authors
 * Michael Ewens - Carnegie Mellon University
@@ -164,7 +164,7 @@ The "human capital" of individual VCs is more important than their firm's organi
 
 When VCs replace startup founders, they improve the performance of their portfolios - particularly when they replace them with executives with substantial industry experience.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124)
 
 
 <details>
@@ -190,7 +190,7 @@ When VCs replace startup founders, they improve the performance of their portfol
 
 Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO underpricing in a nonlinear way.
 
-#### [Download] (http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf)
+#### [Download](http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf)
 
 
 <details>
@@ -217,7 +217,7 @@ Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO
 
 VC investments are typically concentrated in one geographical area; however, investors who are active in syndicated deals invest more often in more distant companies.
 
-#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf)
 
 
 <details>
@@ -244,7 +244,7 @@ VC investments are typically concentrated in one geographical area; however, inv
 
 The more VCs are active in a market (whether "generalists" or industry specialists"), the more competitive pressure is added by each new player - particularly in densely-networked regions. Generalist VCs also compete strongly against industry specialists.
 
-#### [Download] (http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf)
+#### [Download](http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf)
 
 
 <details>
@@ -272,7 +272,7 @@ The more VCs are active in a market (whether "generalists" or industry specialis
 
 The outcome of startups depends to some extent on their relative rank among their VCs' other investments: companies that are among a VC firm's best investments do better.
 
-#### [Download] (https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf)
+#### [Download](https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf)
 
 
 <details>
@@ -299,7 +299,7 @@ also argue that a venture’s relative standing becomes a more important predict
 
 Venture capital firms become less likely to terminate investments as they participate in more rounds of financing, despite evidence that expected returns are declining over rounds.
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864595)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864595)
 
 
 <details>
@@ -326,7 +326,7 @@ Intraorganizational politics, as well as coercive and normative pressures from c
 
 text
 
-#### [Download] (http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf)
+#### [Download](http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf)
 
 
 <details>
@@ -350,7 +350,7 @@ text
 
 text
 
-#### [Download] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781674)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781674)
 
 
 <details>
@@ -376,7 +376,7 @@ text
 
 text
 
-#### [Download] (http://www.mit.edu/~xgiroud/VC.pdf)
+#### [Download](http://www.mit.edu/~xgiroud/VC.pdf)
 
 
 <details>
@@ -401,7 +401,7 @@ text
 
 text
 
-#### [Download] (https://www.researchgate.net/publication/299567302_When_Do_Entrepreneurs_Accurately_Evaluate_Venture_Capital_Firms'_Track_Records_A_Bounded_Rationality_Perspective)
+#### [Download](https://www.researchgate.net/publication/299567302_When_Do_Entrepreneurs_Accurately_Evaluate_Venture_Capital_Firms'_Track_Records_A_Bounded_Rationality_Perspective)
 
 
 <details>
@@ -426,7 +426,7 @@ text
 
 text
 
-#### [Download] (http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
+#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
 
 
 <details>
