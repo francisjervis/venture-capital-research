@@ -25,8 +25,9 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 ### <summary>Abstract</summary>
 
 > We examine the role of reputation in limiting opportunistic behavior by venture capitalists towards four types of counterparties: entrepreneurs, investors, other VCs, and buyers of VC-backed startups. Using a hand-collected database of lawsuits, we document that more reputable VCs (i.e., VCs that are older, have more deals and funds under management, and syndicate with larger networks of VCs) are less likely to be litigated. We also find that litigated VCs suffer declines in future business relative to matched peers. These declines are larger for more reputable VCs, and for VCs that are defendants to multiple lawsuits or sued by entrepreneurs.
-</details>
 </div>
+</details>
+
 ---
 
 
