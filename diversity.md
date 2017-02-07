@@ -7,7 +7,7 @@ layout: default
 
 Investors prefer pitches presented by male entrepreneurs compared with pitches made by female entrepreneurs, even when the content of the pitch is the same; attractive males were particularly persuasive, whereas physical attractiveness did not matter among female entrepreneurs.
 
-#### [Download] (http://www.hbs.edu/faculty/Publication%20Files/Brooks%20Huang%20Kearney%20Murray_59b551a9-8218-4b84-be15-eaff58009767.pdf)
+#### [Download](http://www.hbs.edu/faculty/Publication%20Files/Brooks%20Huang%20Kearney%20Murray_59b551a9-8218-4b84-be15-eaff58009767.pdf)
 
 
 <details>
@@ -34,7 +34,7 @@ Investors prefer pitches presented by male entrepreneurs compared with pitches m
 
 Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s.
 
-#### [Download] (http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf)
 
 
 <details>
@@ -57,7 +57,7 @@ Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their
   
 African-American fundraisers on Kickstarter achieve significantly lower success than other groups.
 
-#### [Download] (http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1408&context=icis2015)
+#### [Download](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1408&context=icis2015)
 
 
 <details>
@@ -81,7 +81,7 @@ categories among racial groups. Even controlling for these observable difference
 
 Crowdfunding may reduce gender inequalities in the fundraising arena by benefitting the communication style of women.
 
-#### [Download] (http://faculty.haas.berkeley.edu/gorbatai/working%20papers%20and%20word/Crowdfunding-GenderGorbataiNelson.pdf)
+#### [Download](http://faculty.haas.berkeley.edu/gorbatai/working%20papers%20and%20word/Crowdfunding-GenderGorbataiNelson.pdf)
 
 
 <details>
@@ -105,7 +105,7 @@ Crowdfunding may reduce gender inequalities in the fundraising arena by benefitt
 
 text
 
-#### [Download] (https://pdfs.semanticscholar.org/97fd/9b1eb81f1adf24e992dd9c1513bba8f89af3.pdf)
+#### [Download](https://pdfs.semanticscholar.org/97fd/9b1eb81f1adf24e992dd9c1513bba8f89af3.pdf)
 
 
 <details>
@@ -133,7 +133,7 @@ rather than the venture, is the target of evaluation. Technical background quali
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
@@ -159,7 +159,7 @@ text
 
 text
 
-#### [Download] (http://repository.upenn.edu/cgi/viewcontent.cgi?article=1014&context=joseph_wharton_scholars)
+#### [Download](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1014&context=joseph_wharton_scholars)
 
 
 <details>
@@ -182,7 +182,7 @@ text
 
 text
 
-#### [Download] (http://pure.qub.ac.uk/portal/files/11648035/Incubation_or_Induction.pdf)
+#### [Download](http://pure.qub.ac.uk/portal/files/11648035/Incubation_or_Induction.pdf)
 
 
 <details>
@@ -205,7 +205,7 @@ text
 
 text
 
-#### [Download] (https://www.researchgate.net/profile/Banu_Ozkazanc-Pan/publication/263245483_Postcolonial_feminist_analysis_of_high-technology_entrepreneuring/links/543fee210cf21227a11b9bfb.pdf)
+#### [Download](https://www.researchgate.net/profile/Banu_Ozkazanc-Pan/publication/263245483_Postcolonial_feminist_analysis_of_high-technology_entrepreneuring/links/543fee210cf21227a11b9bfb.pdf)
 
 
 <details>
@@ -231,7 +231,7 @@ Originality/value – The research is of value for scholars interested in unders
 
 text
 
-#### [Download] (link)
+#### [Download](link)
 
 
 <details>
