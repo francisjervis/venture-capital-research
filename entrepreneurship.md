@@ -391,7 +391,7 @@ Self-confident entrepreneurs issue more debt-like securities and receive less as
 
 ### Summary
 
-text
+A behavioral approach to the question of why people become entrepreneurs, exploring the relationship between "risk aversion, overconfidence, and non-pecuniary, taste-based factors" and the choice to start a firm.
 
 #### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.791&rep=rep1&type=pdf)
 
@@ -420,7 +420,7 @@ text
 
 ### Summary
 
-text
+A model that demonstrates why some places, times and industries should be associated with a greater degree of experimentation by investors, based on the influence of financing risk on VCs' decision making: extremely novel technologies may need ‘hot’ financial markets to get through the initial period of discovery or diffusion.
 
 #### [Download](http://ssrn.com/abstract=1657937)
 
@@ -445,7 +445,7 @@ text
 
 ### Summary
 
-text
+For the United States during the 2000-2004 period, the link of home prices to the rate of entrepreneurship through home equity channels is modest in economic magnitude.
 
 #### [Download](http://ssrn.com/abstract=2638045)
 
@@ -462,7 +462,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> We examine the relationship between house prices and entrepreneurship using micro data from the US Census Bureau. Increases in house prices are often thought to drive entrepreneurship through unlocking the collateral channel for bank loans, but this interpretation is challenged by worries regarding omitted variable biases (e.g., rising local demand) or wealth e§ects (i.e., that people with more valuable homes are more likely to enter entrepreneurship for reasons other than access to collateral). We construct an empirical environment that utilizes very localized price changes, exploits variations in initial home values across residents in the same zip code, and embeds multiple comparisons (e.g., owners vs. renters, homestead exemption laws by state). For the United States during the 2000-2004 period, the link of home prices to the rate of entrepreneurship through home equity channels is modest in economic magnitude. This is despite a focus on a time period that experienced the largest concentration of US home price growth over the last two decades. Even when we do connect home equity to entrepreneurship, part of the e§ect is linked to an increased demand for entrepreneurship. While housing collateral plays a role in the entry that we observe, it does not seem to be a major barrier to entrepreneurship in our context.
+> We examine the relationship between house prices and entrepreneurship using micro data from the US Census Bureau. Increases in house prices are often thought to drive entrepreneurship through unlocking the collateral channel for bank loans, but this interpretation is challenged by worries regarding omitted variable biases (e.g., rising local demand) or wealth e§ects (i.e., that people with more valuable homes are more likely to enter entrepreneurship for reasons other than access to collateral). We construct an empirical environment that utilizes very localized price changes, exploits variations in initial home values across residents in the same zip code, and embeds multiple comparisons (e.g., owners vs. renters, homestead exemption laws by state). For the United States during the 2000-2004 period, the link of home prices to the rate of entrepreneurship through home equity channels is modest in economic magnitude. This is despite a focus on a time period that experienced the largest concentration of US home price growth over the last two decades. Even when we do connect home equity to entrepreneurship, part of the effect is linked to an increased demand for entrepreneurship. While housing collateral plays a role in the entry that we observe, it does not seem to be a major barrier to entrepreneurship in our context.
 
 </details>
 ---
@@ -472,7 +472,7 @@ text
 
 ### Summary
 
-text
+An integrated framework that defines and delineates the scope of entrepreneurial strategy, clarifies the choices and complementarities that shape entrepreneurial strategy, and proposes a choice-oriented process for implementing entrepreneurial strategy.
 
 #### [Download](http://ssrn.com/abstract=2844843)
 
@@ -497,7 +497,7 @@ text
 
 ### Summary
 
-text
+An introduction to the accelerator model and summary of recent evidence on their effects on the regional entrepreneurial environment.
 
 #### [Download](http://yael-hochberg.com/assets/portfolio/IPEHochberg.pdf)
 
