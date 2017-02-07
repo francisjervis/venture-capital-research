@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 markdown:    kramdown
 url: https://studying.vc
 
+title: Studying Venture Capital
+
 gems:
   - jekyll-seo-tag
