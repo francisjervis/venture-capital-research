@@ -439,7 +439,7 @@ Each additional IPO among a VC's first five investments predicted a 13% higher I
 
 ### Summary
 
-text
+The value of increasing the number of deals evaluated increases with the tail weight of the distribution of deal values; when the right tail is heavy, the value of increasing the number of deals is likely to more than compensate for the cost of capacity.
 
 #### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2458867)
 
@@ -469,7 +469,7 @@ text
 
 text
 
-#### [Download](link)
+#### [Download](http://digitalcommons.ilr.cornell.edu/articles/249/)
 
 
 <details>
@@ -493,7 +493,7 @@ text
 
 ### Summary
 
-text
+VCs' "process values" (values governing the types of means to an end that an individual values) influence the perceived worth of founders' human capital.
 
 #### [Download](https://www.researchgate.net/publication/229741196_Values_and_judgment_under_uncertainty_evidence_from_venture_capitalist_assessments_of_founders)
 
@@ -519,7 +519,7 @@ text
 
 ### Summary
 
-text
+Investors emphasize predictive information more than they might suppose, especially early in the selection process, but once a venture has moved through the funding process to due diligence and investment, non-predictive information is the key factor. 
 
 #### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1490&context=fer)
 
