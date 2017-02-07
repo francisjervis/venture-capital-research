@@ -3,6 +3,7 @@
 A curated list of academic studies on venture capital market structure, firm strategies and networks.
 
 ---
+
 ## Does Reputation Limit Opportunistic Behavior in the VC Industry? Evidence from Litigation against VCs
 
 ### Summary
