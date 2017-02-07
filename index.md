@@ -2,4 +2,4 @@
 layout: default
 ---
 
-foo
+bar
