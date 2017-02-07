@@ -1,0 +1,5 @@
+---
+template: default
+---
+
+foo
