@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 ## Investors prefer entrepreneurial ventures pitched by attractive men
 
 ### Summary
