@@ -1,8 +1,6 @@
 # Studying Venture Capital 
 ### A curated collection of up-to-date empirical research and theoretical scholarship on venture capital, entrepreneurship &amp; fundraising
 
-b
-
 ---
 
 [Entrepreneurship and Innovation](../master/entrepreneurship.md)
@@ -13,6 +11,6 @@ b
 
 [Venture Finance](../master/finance.md)
 
-[VC Deal Selection and Decision Making](../master/deals.md)
+[VC Deal Selection and Decision Making](/deals.md)
 
 [Diversity and Equality](diversity.md)
