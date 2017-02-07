@@ -10,7 +10,7 @@ A curated list of academic studies on venture capital market structure, firm str
 
 VCs who are sued by founders do fewer, and less successful deals; more experienced VCs are less likely to be sued.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1343981)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1343981){:target="_blank"}
 
 
 <details>
@@ -38,7 +38,7 @@ VCs who are sued by founders do fewer, and less successful deals; more experienc
 
 The most reliable predictor of a VC's future performance is their past market share of VC-backed IPOs.
 
-#### [Download](http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf)
+#### [Download](http://www.efmaefm.org/0EFMSYMPOSIUM/2008-Oxford/papers/ronald1.pdf){:target="_blank"}
 
 
 <details>
@@ -65,7 +65,7 @@ The most reliable predictor of a VC's future performance is their past market sh
 
 The more interconnected the established players in a region's VC sector are, the harder it is for new entrants to establish themselves - making deals "cheaper" for the incumbents.
 
-#### [Download](http://yael-hochberg.com/assets/portfolio/HLL2.pdf)
+#### [Download](http://yael-hochberg.com/assets/portfolio/HLL2.pdf){:target="_blank"}
 
 
 <details>
@@ -90,7 +90,7 @@ The more interconnected the established players in a region's VC sector are, the
 
 VCs who share the same ethnic, educational, or career background are more likely to syndicate with each other; this gives rise to "groupthink" and worse performance.
 
-#### [Download](http://www.nber.org/papers/w18141.pdf)
+#### [Download](http://www.nber.org/papers/w18141.pdf){:target="_blank"}
 
 
 <details>
@@ -117,7 +117,7 @@ VCs who share the same ethnic, educational, or career background are more likely
 
 VCs appear to delay the release of bad news about their portfolio until after they have finished raising a new fund.
 
-#### [Download](http://www.its.caltech.edu/~mewens/papers/vc-delay.pdf)
+#### [Download](http://www.its.caltech.edu/~mewens/papers/vc-delay.pdf){:target="_blank"}
 
 
 <details>
@@ -142,7 +142,7 @@ VCs appear to delay the release of bad news about their portfolio until after th
 
 The "human capital" of individual VCs is more important than their firm's organizational capital, and specific investors (even at the same firm at the same time) have recognizable differences in strategy.
 
-#### [Download](https://dash.harvard.edu/handle/1/15788004)
+#### [Download](https://dash.harvard.edu/handle/1/15788004){:target="_blank"}
 
 
 <details>
@@ -167,7 +167,7 @@ The "human capital" of individual VCs is more important than their firm's organi
 
 When VCs replace startup founders, they improve the performance of their portfolios - particularly when they replace them with executives with substantial industry experience.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2717124){:target="_blank"}
 
 
 <details>
@@ -327,7 +327,7 @@ Intraorganizational politics, as well as coercive and normative pressures from c
 
 ### Summary
 
-text
+A model based on the idea that venture capitalists favor industries where they have significant experience and industries with a large pool of good investment opportunities; investment (predation) then “uses up” opportunities and therefore tends to deplete the pool of unexploited opportunities (prey).
 
 #### [Download](http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf)
 
@@ -369,7 +369,7 @@ text
 
 ### <summary>Abstract</summary>
 
-> Employing the 2008 financial crisis as an empirical setting, we examine the investment strategies of venture capitalists (VCs) in response to liquidity supply shocks. While predictably VCs reduce investment, our difference-in-differences approach demonstrates that VCs reposition by increasing their share of, and per- round funding to, startups operating in the VCs’ core sectors. These effects are driven by more-experienced VCs, and are strongest in early-stage portfolio startups. Complementing these results, we find superior ex- post performance among crisis-funded portfolio startups operating in more-experienced VCs’ core sectors. Overall, our findings point to more-experienced VCs possessing information advantages, especially in their core sectors.
+> Employing the 2008 financial crisis as an empirical setting, we examine the investment strategies of venture capitalists (VCs) in response to liquidity supply shocks. While predictably VCs reduce investment, our difference-in-differences approach demonstrates that VCs reposition by increasing their share of, and per-round funding to, startups operating in the VCs’ core sectors. These effects are driven by more-experienced VCs, and are strongest in early-stage portfolio startups. Complementing these results, we find superior ex-post performance among crisis-funded portfolio startups operating in more-experienced VCs’ core sectors. Overall, our findings point to more-experienced VCs possessing information advantages, especially in their core sectors.
 </details>
 ---
 
@@ -377,7 +377,7 @@ text
 
 ### Summary
 
-text
+VCs' on-site involvement with their portfolio companies leads to an increase in innovation and the likelihood of a successful exit.
 
 #### [Download](http://www.mit.edu/~xgiroud/VC.pdf)
 
@@ -427,7 +427,7 @@ text
 
 ### Summary
 
-text
+Reputation and status positively influence each other but that reputation has a greater effect on status, particularly when firms are older; participating in "blockbuster initial public offerings" has a positive relationship with status when firms are young and a positive relationship with reputation when firms are older, and it helps low-status and low-reputation firms more than it helps high-status and high-reputation firms.
 
 #### [Download](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
 
