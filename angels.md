@@ -167,7 +167,7 @@ Ventures that are funded by successful angel groups experience superior outcomes
 
 <details> <div markdown="1">
 
-### [Review of Finncial Studies, 2011](https://academic.oup.com/rfs/article-abstract/27/1/20/1571221/The-Consequences-of-Entrepreneurial-Finance?redirectedFrom=fulltext)
+### [Review of Financial Studies, 2011](https://academic.oup.com/rfs/article-abstract/27/1/20/1571221/The-Consequences-of-Entrepreneurial-Finance?redirectedFrom=fulltext){:target="_blank"}
 
 ### Authors
 * William R. Kerr - Harvard University
