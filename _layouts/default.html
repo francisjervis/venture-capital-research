@@ -95,10 +95,12 @@
         console.log("complete!");
         var contentBlock = document.getElementsByClassName("docs")[0] || document.getElementsByClassName("news")[0];
         if (!contentBlock) {
+          console.log("foo");
           return;
         }
         for (var level = 1; level <= 6; level++) {
           linkifyAnchors(level, contentBlock);
+          console.log("bar");
         }
       }
     };
