@@ -145,7 +145,7 @@ Startup teams with more creative social networks produce better company ideas.
 
 <details>
 <div markdown="1">
-### source
+### Working paper, 2015
 
 ### Authors
 * Rembrand Koning - Stanford GSB
@@ -404,7 +404,7 @@ A behavioral approach to the question of why people become entrepreneurs, explor
 
 <details>
 <div markdown="1">
-### source
+### Journal of Economic Perspectives, 2014
 
 ### Authors
 * Thomas Åstebro - HEC Paris
