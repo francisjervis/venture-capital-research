@@ -144,7 +144,7 @@ A survey of the state of the angel and venture capital market.
 ### Kauffman Foundation
 
 ### Authors
-* Ewing Marion - Kauffman Foundation 
+* Ewing Marion Kauffman Foundation 
 
 
 ### Abstract
