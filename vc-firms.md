@@ -95,7 +95,7 @@ VCs who share the same ethnic, educational, or career background are more likely
 
 <details>
 
-### [Journal of Financial Economics, 2016](http://www.sciencedirect.com/science/article/pii/S0304405X16000180)
+### [Journal of Financial Economics, 2016](http://www.sciencedirect.com/science/article/pii/S0304405X16000180){:target="_blank"}
 
 ### Authors
 * Paul A. Gompers - Harvard Business School
@@ -220,7 +220,7 @@ Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO
 
 VC investments are typically concentrated in one geographical area; however, investors who are active in syndicated deals invest more often in more distant companies.
 
-#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.6834&rep=rep1&type=pdf){:target="_blank"}
 
 
 <details>
@@ -247,7 +247,7 @@ VC investments are typically concentrated in one geographical area; however, inv
 
 The more VCs are active in a market (whether "generalists" or industry specialists"), the more competitive pressure is added by each new player - particularly in densely-networked regions. Generalist VCs also compete strongly against industry specialists.
 
-#### [Download](http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf)
+#### [Download](http://www.kellogg.northwestern.edu/faculty/mazzeo/htm/hmm_rio_revision.pdf){:target="_blank"}
 
 
 <details>
@@ -275,7 +275,7 @@ The more VCs are active in a market (whether "generalists" or industry specialis
 
 The outcome of startups depends to some extent on their relative rank among their VCs' other investments: companies that are among a VC firm's best investments do better.
 
-#### [Download](https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf)
+#### [Download](https://business.illinois.edu/business-administration/wp-content/uploads/sites/39/2014/09/ozmel_paper.pdf){:target="_blank"}
 
 
 <details>
@@ -302,7 +302,7 @@ also argue that a venture’s relative standing becomes a more important predict
 
 Venture capital firms become less likely to terminate investments as they participate in more rounds of financing, despite evidence that expected returns are declining over rounds.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864595)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2864595){:target="_blank"}
 
 
 <details>
@@ -329,7 +329,7 @@ Intraorganizational politics, as well as coercive and normative pressures from c
 
 A model based on the idea that venture capitalists favor industries where they have significant experience and industries with a large pool of good investment opportunities; investment (predation) then “uses up” opportunities and therefore tends to deplete the pool of unexploited opportunities (prey).
 
-#### [Download](http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf)
+#### [Download](http://web.business.queensu.ca/faculty/jdebettignies/Docs/BranderBettigniesRevisionSubmissionEINT.pdf){:target="_blank"}
 
 
 <details>
@@ -351,9 +351,9 @@ A model based on the idea that venture capitalists favor industries where they h
 
 ### Summary
 
-text
+In response to liquidity supply shocks, VCs reposition by increasing their share of, and per-round funding to, startups operating in the VCs’ core sectors. These effects are driven by more-experienced VCs, and are strongest in early-stage portfolio startups.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781674)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2781674){:target="_blank"}
 
 
 <details>
@@ -379,12 +379,12 @@ text
 
 VCs' on-site involvement with their portfolio companies leads to an increase in innovation and the likelihood of a successful exit.
 
-#### [Download](http://www.mit.edu/~xgiroud/VC.pdf)
+#### [Download](http://www.mit.edu/~xgiroud/VC.pdf){:target="_blank"}
 
 
 <details>
 
-### [Journal of Finance, 2016](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12370/abstract)
+### [Journal of Finance, 2016](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12370/abstract){:target="_blank"}
 
 ### Authors
 * Shai Bernstein - Stanford University
@@ -402,14 +402,14 @@ VCs' on-site involvement with their portfolio companies leads to an increase in 
 
 ### Summary
 
-text
+It is proposed that founders' accurate evaluations of potential investors depend not only on their motivation and ability to access information but on the convergence of these factors with attributes of the potential investor being evaluated.
 
-#### [Download](https://www.researchgate.net/publication/299567302_When_Do_Entrepreneurs_Accurately_Evaluate_Venture_Capital_Firms'_Track_Records_A_Bounded_Rationality_Perspective)
+#### [Download](https://www.researchgate.net/publication/299567302_When_Do_Entrepreneurs_Accurately_Evaluate_Venture_Capital_Firms'_Track_Records_A_Bounded_Rationality_Perspective){:target="_blank"}
 
 
 <details>
 
-### [Academy of Management Journal, 2016](http://amj.aom.org/content/59/5/1535.abstract)
+### [Academy of Management Journal, 2016](http://amj.aom.org/content/59/5/1535.abstract){:target="_blank"}
 
 ### Authors
 * Benjamin L. Hallen - 
@@ -429,7 +429,7 @@ text
 
 Reputation and status positively influence each other but that reputation has a greater effect on status, particularly when firms are older; participating in "blockbuster initial public offerings" has a positive relationship with status when firms are young and a positive relationship with reputation when firms are older, and it helps low-status and low-reputation firms more than it helps high-status and high-reputation firms.
 
-#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
+#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602){:target="_blank"}
 
 
 <details>
