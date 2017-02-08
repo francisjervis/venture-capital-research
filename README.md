@@ -13,7 +13,7 @@ Follow [@studyingVC](https://twitter.com/studyingVC) for updates.
 
 ## Top Picks:
 
-### [How Do Venture Capitalists Make Decisions](http://studying.vc/deals.html#how-do-venture-capitalists-make-decisions){:target="_blank"}
+### [How Do Venture Capitalists Make Decisions?](http://studying.vc/deals.html#how-do-venture-capitalists-make-decisions){:target="_blank"}
 
 ### [The Consequences of Entrepreneurial Finance: Evidence from Angel Financings](http://studying.vc/angels.html#the-consequences-of-entrepreneurial-finance-evidence-from-angel-financings){:target="_blank"}
 
