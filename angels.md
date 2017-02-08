@@ -523,6 +523,7 @@ Enthusiasm, preparedness, and commitment are separate constructs in angels' eval
 </div> </details>
 
 ---
+
 ## The importance angels place on passion when making investment decisions : why does it matter to some and not all angels?
 
 ### Summary
