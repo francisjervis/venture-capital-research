@@ -158,7 +158,8 @@ Startup teams with more creative social networks produce better company ideas.
 </details>
 ---
 
-## Financial Disintermediation and Entrepreneurial Learning: Evidence from the Crowdfunding Market
+## Learning from the Crowd: The Feedback Value of Crowdfunding
+
 
 ### Summary
 
