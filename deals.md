@@ -475,7 +475,7 @@ Broad access to information by virtue of having top management team members that
 
 <details> <div markdown="1">
 
-### source
+### Journal of Business Venturing, 2007
 
 ### Authors
 * Christine M. Beckman - University of California, Irvine
