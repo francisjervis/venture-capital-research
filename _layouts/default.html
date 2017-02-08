@@ -7,6 +7,9 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://use.fontawesome.com/bceede4884.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.js"></script>
+    
     <meta name="viewport" content="width=device-width">
     
     <!--[if lt IE 9]>
@@ -67,43 +70,7 @@
     
     
     <script>
-      var anchorForId = function (id) {
-      var anchor = document.createElement("a");
-      anchor.className = "header-link";
-      anchor.href      = "#" + id;
-      anchor.innerHTML = "<i class=\"fa fa-link\"></i>";
-      console.log(anchor);
-      return anchor;
-    };
-
-    var linkifyAnchors = function (level, containingElement) {
-      console.log("linkify!");
-      var headers = containingElement.getElementsByTagName("h" + level);
-      console.log(headers);
-      for (var h = 0; h < headers.length; h++) {
-        var header = headers[h];
-
-        if (typeof header.id !== "undefined" && header.id !== "") {
-          header.appendChild(anchorForId(header.id));
-          console.log(header);
-        }
-      }
-    };
-
-    document.onreadystatechange = function () {
-      if (this.readyState === "complete") {
-        console.log("complete!");
-        var contentBlock = document.getElementsByClassName("main");
-        if (!contentBlock) {
-          console.log("foo");
-          return;
-        }
-        for (var level = 1; level <= 6; level++) {
-          linkifyAnchors(level, contentBlock);
-          console.log("bar");
-        }
-      }
-    };
+      anchors.add('h2');
     </script>
     
   </body>
