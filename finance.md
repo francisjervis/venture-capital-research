@@ -5,7 +5,7 @@
 
 The quality of "fit" between VCs and firms has a significant effect on the success of those firms (and investments).
 
-#### [Download](http://amj.aom.org/content/59/3/930.abstract)
+#### [Download](http://amj.aom.org/content/59/3/930.abstract){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -17,7 +17,7 @@ The quality of "fit" between VCs and firms has a significant effect on the succe
 * Edward J. Zajac - Northwestern University
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > This study seeks to contribute to the literature on corporate ownership and firm performance by advancing an expertise-based perspective that views owners as a contingent resource. Specifically, we propose that heterogeneous prior experiences of corporate owners creates identifiable and evolving differences in owner expertise, and that these differences in expertise, when matched appropriately to firms’ specific and changing strategic needs, will be a source of value over the life cycle of a firm. We draw from the venture capital (VC) context to identify ex ante the meaningful differences in owner expertise, as well as the firm-specific situations in which we believe a fit or misfit would exist between VC owners and these private firms. We test and find support for our predictions regarding the performance benefits of well-matched owners and firms using an extensive longitudinal dataset of the population of U.S. private firms seeking to go public from 1997 to 2004, and their VC owners. We discuss the implications of our approach as they relate to future research opportunities across the corporate governance, strategy, and entrepreneurship literatures.
 </div> </details>
@@ -42,7 +42,7 @@ The authors propose a model of the startup lifecycle based on Christensen's S-cu
 * Sean Wise - Ryerson University
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > Using the S-curve model of entrepreneurship, start-up funding, and customer development as a theoretical foundation, researchers can go in several directions. First, they can take a case study approach by investigating young start-ups and, using their financial statements, plotting performance longitudinally. Next, qualitative assessments can be done to understand potential risks that occur at each phase. Third, researchers can develop a greater understanding of the antecedents of early problems and what corrective actions can be implemented to curb the onset of trouble. Finally, large-scale quantitative assessments can be conducted to understand whether certain control variables, such as industry, culture, level of industrial development of the country, and experience of the entrepreneurs, can influence the stages in the S-curve model of entrepreneurship, start-up funding, and customer development.
 </div> </details>
@@ -66,7 +66,7 @@ Unicorn valuations are unreliable measures for firm value for the same reason th
 * Robert P. Bartlett III - University of California, Berkeley
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > This chapter, written for a Research Handbook on Mergers and Acquisitions (Davidoff-Solomon & Hill, eds.), investigates the widespread claim that the billion dollar valuations of “unicorn” start-ups are unreliable because of the manner in which founders bargain for these valuations with their venture capital (VC) investors. In particular, unicorn skeptics posit that VC investors agree to use these valuations in exchange for receiving enhanced preferred stock preferences, particularly enhanced liquidation preferences that are payable on a sale of the company. 
 
@@ -94,7 +94,7 @@ Data suggests that the founding of an accelerator has a large impact on the leve
 * Yael V. Hochberg - NBER; Rice University
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > Recent years have seen the rapid emergence of a new type of program aimed at seeding startup companies. These programs, often referred to as accelerators, differ from previously known seed-stage institutions such as incubators and angel groups. While proliferation of such accelerators is evident, evidence on efficacy and role of these programs is scant. Nonetheless, local governments and founders of such programs often cite the motivation for their establishment and funding as the desire to transform their local economies through the establishment of a startup technology cluster in their region. In this paper, we attempt to assess the impact that such programs can have on the entrepreneurial ecosystem of the regions in which they are established, by exploring the effects of accelerators on the availability and provision of seed and early stage venture capital funding in the local region.
 </div> </details>
@@ -121,7 +121,7 @@ Inside financings lead to a higher likelihood of failure, lower probability of I
 * Ilya A. Strebulaev - Stanford University; NBER
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > Staged financing of venture capital-backed firms is valuable to both investors and entrepreneurs, but comes with a potential cost: hold-up. With asymmetric information and strong control rights, financial intermediaries may earn rents on their inside knowledge. We find that environments where insiders have the significant potential to hold-up the entrepreneur -- financings where only previous investors participate -- have predictable outcomes and returns. However, in contrast to predictions from the theory of hold-up, we show that these inside financings lead to a higher likelihood of failure, lower probability of IPOs, and lower cash on cash multiples than rounds with new (outside) investors. Inside financings also appear to be negative NPV, suggesting that investors make inefficient continuation decisions. We propose a novel alternative and show how the findings are consistent with a manifestation of an agency problem driven by changing opportunity costs over the VC fund life-cycle.
 </div> </details>
@@ -147,7 +147,7 @@ text
 * Ewing Marion - Kauffman Foundation 
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > Capital is obviously vital to entrepreneurs, and the sources and types of capital available to them are changing. The gaps that exist between investors and entrepreneurs have narrowed due to networks created by new technologies. Easier communication has created new ways for investors to aggregate and deploy capital. Furthermore, the transaction costs of capital formation are falling rapidly, as evidenced by the growth of phenomena such as crowdfunding, online angel syndicates, online lending, and new venture funds operating beyond traditional hubs and with novel investing goals.
 
@@ -178,7 +178,7 @@ VC entry is more strongly correlated and is contemporaneous with the business cy
 * Pythagoras Petratos - University of Oxford, Said Business School
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > We consider US Venture Capital (VC) activity as a measure of entrepreneurship and study its relationship with the business cycle. This measure addresses some biases in alternative measures such as self-employment and business ownership that have been considered in previous literature. Despite the well-known volatility in VC activity, it remains an important source of funding for entrepreneurs engaging in innovative business creation. We document key stylized facts for VC entry (seed and start-up stage) and VC exit (late stage) at the aggregate and sectoral level. VC entry is more strongly correlated and is contemporaneous with the business cycle while VC exit lags the cycle by two quarters. There is strong evidence for a bi-directional causality between entrepreneurship and economic activity. A positive shock to VC activity has a positive effect on real GDP. Our findings can help inform policies designed to support entrepreneurship.
 
@@ -205,7 +205,7 @@ VC backing skews commercialization strategies across industries toward cooperati
 * David Hsu - MIT
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > I empirically study the effect of venture capital (VC) on product development and commercialization strategy of start-up organizations. In doing so, I segment entrant commercialization strategies into two camps according to competitive effect: to
 “cooperate” is to license-out technology or be acquired, while to “compete” is to develop technology independently. Building on the work of Gans, Hsu, and Stern (2000) on the drivers of entrant commercialization strategy, this paper examines the direct and indirect effects of VC on product development and competition. I start with two important determinants of start-up commercialization strategy: (1) the entrant’s relative investment cost of acquiring and controlling complementary assets needed to successfully commercialize its innovation, and (2) the entrant’s ability to effectively protect its intellectual property. I then test a novel sample of 118 technology-based projects divided almost evenly between two mechanisms of entrepreneurial finance. These two mechanisms differ in institutional detail in ways that allow a quasi-experiment of the
@@ -233,7 +233,7 @@ text
 * Erik P.M. Vermeulen - Tilburg Law School
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > We conjecture that venture capitalists and their investors often fall prey to what is known as ‘collective conservatism’. We investigate this conjecture by analysing boilerplate provisions in limited partnership agreements. When investors accept suboptimal boilerplate provisions it is not because they believe that the standardised terms and conditions sufficiently align the interests of investors and fund managers, but merely because they think their peers, including their competitors, prefer to include them in the limited partnership agreement. We find that the financial crisis has facilitated some notable deviations in the boilerplate provisions that are designed to facilitate the return of confidence in the venture capital industry. We argue that a gradual shift may be taking place towards more investor-favourable limited partnership agreements or separate account and pledge fund arrangements. These shifts — which do not lead to significant changes in limited partnership agreements — appear to be particularly effective for bigger funds that increasingly focus on later-stage investments. We show that early-stage funds are more inclined to enter into innovative collaborative agreements. Collaborative agreements differ from traditional limited partnership agreements in that they focus less on curtailing principal-agent problems and more on joint development and value creation.
 
@@ -259,7 +259,7 @@ text
 * David Orozco - Florida State University College of Business
 
 
-### <summary>Abstract</summary>
+### Abstract
 
 > The parties to a venture funding agreement are in a state of coopetition. The parties account for perceived risk in the entrepreneur-investor relationship through varying levels of control demanded from and trust afforded to the other party. The level of risk perceived by each party may differ along individual aspects of the prospective equity deal. The provisions of the term sheet delineate the subjective risk perceptions of each party to the transaction by allocating control or trusting a party with decision-making rights. When negotiating term sheet provisions, a party should seek to understand and recognize the risk perceived by the other party and attempt to afford the level of control or trust necessary to achieve a relational agreement that provides the greatest value for the parties collectively. An optimal allocation of control and trust adequately captures the perceived risk of each party, promotes cooperation between the parties, and ultimately facilitates the performance of the business venture. Understanding the subjective risk perceptions of each party to the investment transaction will facilitate the objective of negotiating a term sheet that maximizes the value created for all parties.
 </div> </details>
