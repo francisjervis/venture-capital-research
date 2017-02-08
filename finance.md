@@ -134,7 +134,7 @@ Inside financings lead to a higher likelihood of failure, lower probability of I
 
 ### Summary
 
-text
+A survey of the state of the angel and venture capital market.
 
 #### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2859883){:target="_blank"}
 
@@ -219,7 +219,7 @@ effect of VC on start-up commercialization strategy. The U.S. Small Business Inn
 
 ### Summary
 
-text
+A discussion of the way "boilerplate" terms end up being incorporated into investment deals, and the evolution of deal terms in favor of the investor.
 
 #### [Download](https://www.cambridge.org/core/journals/european-business-organization-law-review-ebor/article/div-classtitleconservatism-and-innovation-in-venture-capital-contractingdiv/CD7B41F711EC2D6787900988643B3D43){:target="_blank"}
 
@@ -245,7 +245,7 @@ text
 
 ### Summary
 
-text
+The provisions of the term sheet delineate the subjective risk perceptions of each party to the transaction by allocating control or trusting a party with decision-making rights. An optimal allocation of control and trust adequately captures the perceived risk of each party, promotes cooperation between the parties, and ultimately facilitates the performance of the business venture.
 
 #### [Download](http://repository.law.umich.edu/cgi/viewcontent.cgi?article=1031&context=mbelr){:target="_blank"}
 
