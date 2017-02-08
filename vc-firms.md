@@ -334,7 +334,7 @@ A model based on the idea that venture capitalists favor industries where they h
 
 <details> <div markdown="1">
 
-### source
+### Economics of Innovation and New Technology, 2009
 
 ### Authors
 * James A. Brander - University of British Columbia
@@ -412,8 +412,8 @@ It is proposed that founders' accurate evaluations of potential investors depend
 ### [Academy of Management Journal, 2016](http://amj.aom.org/content/59/5/1535.abstract){:target="_blank"}
 
 ### Authors
-* Benjamin L. Hallen - 
-* Emily Cox Pahnke - 
+* Benjamin L. Hallen - University of Washington
+* Emily Cox Pahnke - University of Washington
 
 
 ### Abstract
