@@ -30,7 +30,7 @@ The quality of "fit" between VCs and firms has a significant effect on the succe
 
 The authors propose a model of the startup lifecycle based on Christensen's S-curve model of technological development.
 
-#### [Download](http://www.iijournals.com/doi/abs/10.3905/jpe.2015.18.2.023){:target="_blank"}
+#### [Download](http://www.jstor.org/stable/43503838?seq=1){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -151,9 +151,9 @@ A survey of the state of the angel and venture capital market.
 
 > Capital is obviously vital to entrepreneurs, and the sources and types of capital available to them are changing. The gaps that exist between investors and entrepreneurs have narrowed due to networks created by new technologies. Easier communication has created new ways for investors to aggregate and deploy capital. Furthermore, the transaction costs of capital formation are falling rapidly, as evidenced by the growth of phenomena such as crowdfunding, online angel syndicates, online lending, and new venture funds operating beyond traditional hubs and with novel investing goals.
 
-The Kauffman Foundation seeks to provide improved data and analysis about trends in entrepreneurial capital formation so that we can encourage efforts to enhance the success rates of entrepreneurs everywhere. This report examines current developments in the field, draws out some broad trends, and considers their implications for entrepreneurs. 
+> The Kauffman Foundation seeks to provide improved data and analysis about trends in entrepreneurial capital formation so that we can encourage efforts to enhance the success rates of entrepreneurs everywhere. This report examines current developments in the field, draws out some broad trends, and considers their implications for entrepreneurs. 
 
-Data collection was carried out across several parts of the emerging capital landscape. Fourteen interviews were completed with experts across venture capital (VC), angel, crowdfunding, microfinance, and others involved with new financial technologies and products. Datasets and key industry publications were analyzed for venture capital (National Venture Capital Association and Thomson Reuters), angel syndicate investments (Angel Capital Association, Angel Resource Institute, Halo, and Pitchbook), angel investors (Center for Venture Research), and crowdfunding (Equity crowdfunding portals, Crowdnetic, and Kickstarter). More information on methodology and the datasets used can be made available upon request.
+> Data collection was carried out across several parts of the emerging capital landscape. Fourteen interviews were completed with experts across venture capital (VC), angel, crowdfunding, microfinance, and others involved with new financial technologies and products. Datasets and key industry publications were analyzed for venture capital (National Venture Capital Association and Thomson Reuters), angel syndicate investments (Angel Capital Association, Angel Resource Institute, Halo, and Pitchbook), angel investors (Center for Venture Research), and crowdfunding (Equity crowdfunding portals, Crowdnetic, and Kickstarter). More information on methodology and the datasets used can be made available upon request.
 </div> </details>
 
 ---
@@ -221,7 +221,7 @@ effect of VC on start-up commercialization strategy. The U.S. Small Business Inn
 
 A discussion of the way "boilerplate" terms end up being incorporated into investment deals, and the evolution of deal terms in favor of the investor.
 
-#### [Download](https://www.cambridge.org/core/journals/european-business-organization-law-review-ebor/article/div-classtitleconservatism-and-innovation-in-venture-capital-contractingdiv/CD7B41F711EC2D6787900988643B3D43){:target="_blank"}
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2215896){:target="_blank"}
 
 
 <details> <div markdown="1">
