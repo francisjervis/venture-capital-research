@@ -231,6 +231,7 @@ Founder passion has a direct positive effect on venture growth and an indirect p
 </details>
 
 ---
+
 ## Understanding the value proposition as a cocreated claim
 
 ### Summary
@@ -256,6 +257,7 @@ Entrepreneurs' presentation of their "value proposition" encompasses both a prod
 </details>
 
 ---
+
 ## Absolutely fabulous!: Fabulation and organisation-creation in processes of becoming-entrepreneur
 
 ### Summary
