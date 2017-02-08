@@ -61,7 +61,7 @@ This paper proposes a theory of "entrepreneuring" as a processes of solution dis
 
 The relationship between investors' failure tolerance and the level of risk of ventures leads to the exclusion of some highly experimental projects, and helps explain when and where radical innovation occurs.
 
-#### [Download](http://www.hbs.edu/faculty/Publication%20Files/13-038_d67d2459-9770-4297-8b02-0fe43a6cdebf.pdf){:target="_blank"}
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2318282){:target="_blank"}
 
 
 <details>
