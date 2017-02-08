@@ -7,7 +7,7 @@ layout: default
 
 Investors prefer pitches presented by male entrepreneurs compared with pitches made by female entrepreneurs, even when the content of the pitch is the same; attractive males were particularly persuasive, whereas physical attractiveness did not matter among female entrepreneurs.
 
-#### [Download](http://www.hbs.edu/faculty/Publication%20Files/Brooks%20Huang%20Kearney%20Murray_59b551a9-8218-4b84-be15-eaff58009767.pdf)
+#### [Download](http://www.hbs.edu/faculty/Publication%20Files/Brooks%20Huang%20Kearney%20Murray_59b551a9-8218-4b84-be15-eaff58009767.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -34,7 +34,7 @@ Investors prefer pitches presented by male entrepreneurs compared with pitches m
 
 Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s.
 
-#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -57,7 +57,7 @@ Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their
   
 African-American fundraisers on Kickstarter achieve significantly lower success than other groups.
 
-#### [Download](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1408&context=icis2015)
+#### [Download](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1408&context=icis2015){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -81,7 +81,7 @@ categories among racial groups. Even controlling for these observable difference
 
 Crowdfunding may reduce gender inequalities in the fundraising arena by benefitting the communication style of women.
 
-#### [Download](http://faculty.haas.berkeley.edu/gorbatai/working%20papers%20and%20word/Crowdfunding-GenderGorbataiNelson.pdf)
+#### [Download](http://faculty.haas.berkeley.edu/gorbatai/working%20papers%20and%20word/Crowdfunding-GenderGorbataiNelson.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -103,14 +103,14 @@ Crowdfunding may reduce gender inequalities in the fundraising arena by benefitt
 
 ### Summary
 
-text
+The gender of the entrepreneur influences evaluations most when the person, rather than the venture, is the target of evaluation. Technical background qualifications moderate the influence of gendered expectations, and women receive more of a payoff than men from having a close contact to the evaluating VC. 
 
-#### [Download](https://pdfs.semanticscholar.org/97fd/9b1eb81f1adf24e992dd9c1513bba8f89af3.pdf)
+#### [Download](https://pdfs.semanticscholar.org/97fd/9b1eb81f1adf24e992dd9c1513bba8f89af3.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### source
+### Social Science Research, 2015
 
 ### Authors
 * Justine	E. Tinkler - University of Georgia
@@ -122,8 +122,7 @@ text
 ### Abstract
 
 > Research on gender and workplace decision-making tends to address either supply-side disparities between men’s and women’s human and social capital, or demand-side differences in the status expectations of women and men workers. In addition, this work often relies on causal inferences drawn from empirical data collected on worker characteristics and their workplace outcomes. In this study, we demonstrate how tangible education and work history credentials - typically associated with supply-side characteristics - work in tandem with cultural beliefs about gender to influence the evaluative process that
-underlies venture capital decisions made in high-growth, high-tech entrepreneurship. Using an experimental design, we simulate funding decisions by venture capitalists (VCs) for men and women entrepreneurs that differ in technical background and the presence of important social ties. We demonstrate the presence of two distinct aspects of VCs’ evaluation: that of the venture and that of the entrepreneur, and find that the gender of the entrepreneur influences evaluations most when the person,
-rather than the venture, is the target of evaluation. Technical background qualifications moderate the influence of gendered expectations, and women receive more of a payoff than men from having a close contact to the evaluating VC. We discuss the implications for future research on gender and work.
+underlies venture capital decisions made in high-growth, high-tech entrepreneurship. Using an experimental design, we simulate funding decisions by venture capitalists (VCs) for men and women entrepreneurs that differ in technical background and the presence of important social ties. We demonstrate the presence of two distinct aspects of VCs’ evaluation: that of the venture and that of the entrepreneur, and find that the gender of the entrepreneur influences evaluations most when the person, rather than the venture, is the target of evaluation. Technical background qualifications moderate the influence of gendered expectations, and women receive more of a payoff than men from having a close contact to the evaluating VC. We discuss the implications for future research on gender and work.
 </div> </details>
 ---
 
@@ -131,14 +130,14 @@ rather than the venture, is the target of evaluation. Technical background quali
 
 ### Summary
 
-text
+A range of statistics relating to the gender and nationality of the top management teams (TMTs) and board of directors (BoDs) of all emerging growth firms (EGF) that made an initial stock offering (IPO) on US public markets from 1990 through 2010.
 
-#### [Download](link)
+#### [Download](http://isiarticles.com/bundles/Article/pre/pdf/42842.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### source
+### Research Policy, 2015
 
 ### Authors
 * Martin Kenney - University of California, Davis
@@ -153,44 +152,23 @@ text
 </div> </details>
 ---
 
-## Effect of Human Capital on the Entrepreneurship Gender Gap
-
-### Summary
-
-text
-
-#### [Download](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1014&context=joseph_wharton_scholars)
-
-
-<details> <div markdown="1">
-
-### source
-
-### Authors
-* Andrea Lin - Wharton, UPenn
-
-
-### Abstract
-
-> The presence of a gender gap in entrepreneurship has been well studied in previous literature. There are various contributing factors, including differences in human capital, which has been reviewed less so than social capital. Through a career survey of Wharton MBAs, this research paper 1) examines the presence of an entrepreneurship gender gap; 2) identifies human capital variables that predict entry into entrepreneurship; and 3) determines whether or not there is a human capital gender gap. The results showed both an entrepreneurship and human capital gender gap. Furthermore, experience working at small companies, more years of experience, and experience in finance-related industries were found to be good predictors of entry. Overall, the human capital predictor model explained 6.4% of the variability of entry into entrepreneurship. Though applicability is limited due to the biases of the sample, there are tangible implications for decreasing the entrepreneurship gender gap.
-</div> </details>
----
 
 ## Incubation or Induction? Gendered Identity Work in the Context of Technology Business Incubation
 
 ### Summary
 
-text
+Technology incubation is presented as a legitimating induction process encouraging women to reproduce masculinised representations of the normative technology entrepreneur
 
-#### [Download](http://pure.qub.ac.uk/portal/files/11648035/Incubation_or_Induction.pdf)
+#### [Download](http://pure.qub.ac.uk/portal/files/11648035/Incubation_or_Induction.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### source
+### Entrepreneurship Theory & Practice
 
 ### Authors
-* people
+* Susan Marlow - University of Nottingham
+* Maura McAdam - University of Nottingham
 
 
 ### Abstract
@@ -203,9 +181,9 @@ text
 
 ### Summary
 
-text
+During business networking conferences taking place among Turkish business people in Silicon Valley, women and older males became marginalized through the emergence of a hegemonic masculinity associated with young Turkish male entrepreneurs.
 
-#### [Download](https://www.researchgate.net/profile/Banu_Ozkazanc-Pan/publication/263245483_Postcolonial_feminist_analysis_of_high-technology_entrepreneuring/links/543fee210cf21227a11b9bfb.pdf)
+#### [Download](https://www.researchgate.net/profile/Banu_Ozkazanc-Pan/publication/263245483_Postcolonial_feminist_analysis_of_high-technology_entrepreneuring/links/543fee210cf21227a11b9bfb.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -229,9 +207,9 @@ Originality/value – The research is of value for scholars interested in unders
 
 ### Summary
 
-text
+U.S. venture capitalists (VCs) are more likely to select start-ups with coethnic executives for investment, particularly when the probability of the start-up’s success appears low.
 
-#### [Download](link)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1939587){:target="_blank"}
 
 
 <details> <div markdown="1">
