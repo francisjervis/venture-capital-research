@@ -122,7 +122,7 @@ VCs appear to delay the release of bad news about their portfolio until after th
 
 <details> <div markdown="1">
 
-### source
+### Working paper, 2015
 
 ### Authors
 * Indraneel Chakraborty - University of Miami
@@ -193,7 +193,7 @@ When VCs replace startup founders, they improve the performance of their portfol
 
 Perceived valuation change from the last pre-IPO VC round to the IPO affects IPO underpricing in a nonlinear way.
 
-#### [Download](http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf)
+#### [Download](http://www.olemissbusiness.com/financialreview/documents/Forthcoming%20(No%20Issue%20Yet)/2014-11-07%20pre%20ipo%20pricing%20(2).pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -429,12 +429,12 @@ It is proposed that founders' accurate evaluations of potential investors depend
 
 Reputation and status positively influence each other but that reputation has a greater effect on status, particularly when firms are older; participating in "blockbuster initial public offerings" has a positive relationship with status when firms are young and a positive relationship with reputation when firms are older, and it helps low-status and low-reputation firms more than it helps high-status and high-reputation firms.
 
-#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602){:target="_blank"}
+#### [Download](https://www.researchgate.net/profile/Timothy_Pollock/publication/277662040_UnTangled/links/558d4ff208aeada95566d879/UnTangled.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### [Administrative Science Quarterly, 2015](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602)
+### [Administrative Science Quarterly, 2015](http://journals.sagepub.com/doi/abs/10.1177/0001839215585602){:target="_blank"}
 
 ### Authors
 * Timothy G. Pollock - Pennsylvania State University
