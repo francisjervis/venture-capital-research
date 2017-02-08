@@ -6,7 +6,7 @@
 
 This article discusses the roots of the Lean Startup movement and its relationship to planning and effectuation in entrepreneurial thinking.
 
-#### [Download](http://link.springer.com/article/10.1007/s11365-016-0411-x)
+#### [Download](http://link.springer.com/article/10.1007/s11365-016-0411-x){:target="_blank"}
 
 
 <details>
@@ -32,7 +32,7 @@ This article discusses the roots of the Lean Startup movement and its relationsh
 
 This paper proposes a theory of "entrepreneuring" as a processes of solution discovery - one which is most likely to be hindered by the cognitive biases of entrepreneurs themselves.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747458)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747458){:target="_blank"}
 
 
 <details>
@@ -60,7 +60,7 @@ This paper proposes a theory of "entrepreneuring" as a processes of solution dis
 
 The relationship between investors' failure tolerance and the level of risk of ventures leads to the exclusion of some highly experimental projects, and helps explain when and where radical innovation occurs.
 
-#### [Download](http://www.hbs.edu/faculty/Publication%20Files/13-038_d67d2459-9770-4297-8b02-0fe43a6cdebf.pdf)
+#### [Download](http://www.hbs.edu/faculty/Publication%20Files/13-038_d67d2459-9770-4297-8b02-0fe43a6cdebf.pdf){:target="_blank"}
 
 
 <details>
@@ -87,7 +87,7 @@ The relationship between investors' failure tolerance and the level of risk of v
 
 The phenomenon of employees leaving to become entrepreneurs is discussed in terms of Schumpeter's influential theory of entrepreneurship, and this theory is tested using data on actual entrepreneurs.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1347063)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1347063){:target="_blank"}
 
 
 <details>
@@ -113,7 +113,7 @@ The phenomenon of employees leaving to become entrepreneurs is discussed in term
 
 A price-based theory of when engineers choose to join startups is used to predict VC investment and the "minimum quality" of startup ideas that can be funded, along with engineer wages.
 
-#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.978.7735&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.978.7735&rep=rep1&type=pdf){:target="_blank"}
 
 
 <details>
@@ -139,7 +139,7 @@ funding “standard”. This funding standard I inversely related to the number 
 
 Startup teams with more creative social networks produce better company ideas. 
 
-#### [Download](https://www.gsb.stanford.edu/sites/gsb/files/phd-job-market-paper/koning_job_market_paper.pdf)
+#### [Download](https://www.gsb.stanford.edu/sites/gsb/files/phd-job-market-paper/koning_job_market_paper.pdf){:target="_blank"}
 
 
 <details>
@@ -164,7 +164,7 @@ Startup teams with more creative social networks produce better company ideas.
 
 Crowdfunding serves an important role as a tool for entrepreneurial learning.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637699)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637699){:target="_blank"}
 
 
 <details>
@@ -188,7 +188,7 @@ Crowdfunding serves an important role as a tool for entrepreneurial learning.
 
 A model which, it is claimed, predicts the number of startups formed and their success probability, the wages of engineers, the share of equity retained by founders, the fraction of engineers pursuing entrepreneurship, and the profits of successful startups.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2442439)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2442439){:target="_blank"}
 
 
 <details>
@@ -212,7 +212,7 @@ A model which, it is claimed, predicts the number of startups formed and their s
 ### Summary
 Founder passion has a direct positive effect on venture growth and an indirect positive effect mediated by "goal commitment," but not "goal challenge".
 
-#### [Download](http://onlinelibrary.wiley.com/doi/10.1002/sej.1213/abstract)
+#### [Download](http://onlinelibrary.wiley.com/doi/10.1002/sej.1213/abstract){:target="_blank"}
 
 
 <details>
@@ -238,7 +238,7 @@ Founder passion has a direct positive effect on venture growth and an indirect p
 
 Entrepreneurs' presentation of their "value proposition" encompasses both a product-focussed ("goods-dominant") logic, and a "service-dominant logic" centered on how the innovation will co-create value with stakeholders.
 
-#### [Download](https://repositories.lib.utexas.edu/bitstream/handle/2152/31275/london-2015-value-proposition-as-a-co-created-claim.pdf?sequence=2)
+#### [Download](https://repositories.lib.utexas.edu/bitstream/handle/2152/31275/london-2015-value-proposition-as-a-co-created-claim.pdf?sequence=2){:target="_blank"}
 
 
 <details>
@@ -264,7 +264,7 @@ Entrepreneurs' presentation of their "value proposition" encompasses both a prod
 
 A philosophical-theoretical discussion of the making of the "entrepreneurial subject."
 
-#### [Download](https://www.researchgate.net/publication/262822320_Absolutely_fabulous_Fabulation_and_organisation-creation_in_processes_of_becoming-entrepreneur)
+#### [Download](https://www.researchgate.net/publication/262822320_Absolutely_fabulous_Fabulation_and_organisation-creation_in_processes_of_becoming-entrepreneur){:target="_blank"}
 
 
 <details>
@@ -287,7 +287,7 @@ A philosophical-theoretical discussion of the making of the "entrepreneurial sub
 
 This article discusses the relationship between lean startup methods and firm internationalization.
 
-#### [Download](http://findresearcher.sdu.dk/portal/files/117858292/RasmussenTanev_TIMReview_November2015.pdf)
+#### [Download](http://findresearcher.sdu.dk/portal/files/117858292/RasmussenTanev_TIMReview_November2015.pdf){:target="_blank"}
 
 
 <details>
@@ -312,7 +312,7 @@ This article discusses the relationship between lean startup methods and firm in
 
 The impact of VC funding on product iterations is diverse, and the sooner product iterations happen (if needed), the better.
 
-#### [Download](https://www.researchgate.net/publication/285384131_Product_Iterations_in_Venture_Capital_Funded_Technology-Based_Start-Ups_Pivoting_as_Critical_Success_Factor)
+#### [Download](https://www.researchgate.net/publication/285384131_Product_Iterations_in_Venture_Capital_Funded_Technology-Based_Start-Ups_Pivoting_as_Critical_Success_Factor){:target="_blank"}
 
 
 <details>
@@ -339,7 +339,7 @@ The impact of VC funding on product iterations is diverse, and the sooner produc
 
 Prominent-investor participation increases the incidence of CEO replacement, but that these successor CEOs are drawn overwhelmingly from one pool: outside candidates with previous CEO experience at other investor-backed startups.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2738835)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2738835){:target="_blank"}
 
 
 <details>
@@ -367,7 +367,7 @@ Prominent-investor participation increases the incidence of CEO replacement, but
 
 Self-confident entrepreneurs issue more debt-like securities and receive less assistance; entrepreneurs learn not to offer pure debt and that initial ignorance of their own skills reinforces entrepreneurs’ ability to learn through risky choices.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609297)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609297){:target="_blank"}
 
 
 <details>
@@ -395,7 +395,7 @@ Self-confident entrepreneurs issue more debt-like securities and receive less as
 
 A behavioral approach to the question of why people become entrepreneurs, exploring the relationship between "risk aversion, overconfidence, and non-pecuniary, taste-based factors" and the choice to start a firm.
 
-#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.791&rep=rep1&type=pdf)
+#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.643.791&rep=rep1&type=pdf){:target="_blank"}
 
 
 <details>
@@ -424,7 +424,7 @@ A behavioral approach to the question of why people become entrepreneurs, explor
 
 A model that demonstrates why some places, times and industries should be associated with a greater degree of experimentation by investors, based on the influence of financing risk on VCs' decision making: extremely novel technologies may need ‘hot’ financial markets to get through the initial period of discovery or diffusion.
 
-#### [Download](http://ssrn.com/abstract=1657937)
+#### [Download](http://ssrn.com/abstract=1657937){:target="_blank"}
 
 
 <details>
@@ -449,7 +449,7 @@ A model that demonstrates why some places, times and industries should be associ
 
 For the United States during the 2000-2004 period, the link of home prices to the rate of entrepreneurship through home equity channels is modest in economic magnitude.
 
-#### [Download](http://ssrn.com/abstract=2638045)
+#### [Download](http://ssrn.com/abstract=2638045){:target="_blank"}
 
 
 <details>
@@ -476,7 +476,7 @@ For the United States during the 2000-2004 period, the link of home prices to th
 
 An integrated framework that defines and delineates the scope of entrepreneurial strategy, clarifies the choices and complementarities that shape entrepreneurial strategy, and proposes a choice-oriented process for implementing entrepreneurial strategy.
 
-#### [Download](http://ssrn.com/abstract=2844843)
+#### [Download](http://ssrn.com/abstract=2844843){:target="_blank"}
 
 
 <details>
@@ -501,7 +501,7 @@ An integrated framework that defines and delineates the scope of entrepreneurial
 
 An introduction to the accelerator model and summary of recent evidence on their effects on the regional entrepreneurial environment.
 
-#### [Download](http://yael-hochberg.com/assets/portfolio/IPEHochberg.pdf)
+#### [Download](http://yael-hochberg.com/assets/portfolio/IPEHochberg.pdf){:target="_blank"}
 
 
 <details>
