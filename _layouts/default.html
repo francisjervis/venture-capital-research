@@ -40,7 +40,7 @@
         <br>
         <a href="/diversity.html">Diversity and Equality</a>
       </header>
-      <section class="main">
+      <section>
 
       {{ content }}
 
@@ -93,7 +93,7 @@
     document.onreadystatechange = function () {
       if (this.readyState === "complete") {
         console.log("complete!");
-        var contentBlock = document.getElementsByClassName("docs")[0] || document.getElementsByClassName("news")[0];
+        var contentBlock = document.getElementsByClassName("main");
         if (!contentBlock) {
           console.log("foo");
           return;
