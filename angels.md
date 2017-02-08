@@ -113,7 +113,7 @@ Where angels and VCs both participate in a round, firm outcomes are worse than i
 
 <details> <div markdown="1">
 
-### source
+### Working paper, 2013
 
 ### Authors
 * Brent Goldfarb - University of Maryland
@@ -141,7 +141,7 @@ Angels that successfully lead a portfolio company to the next financing stage ga
 
 <details> <div markdown="1">
 
-### source
+###  Paris December 2016 Finance Meeting EUROFIDAI - AFFI. 
 
 ### Authors
 * Buvaneshwaran Venugopal - University of Houston
@@ -195,7 +195,7 @@ VC investments follow crowdfunding investments; crowdfunding seems to help VC in
 
 <details> <div markdown="1">
 
-### source
+### [arXiv.org, 2016](https://arxiv.org/abs/1608.07182)
 
 ### Authors
 * Jermain Kaminski - RWTH Aachen
@@ -247,7 +247,7 @@ This study examines how angel investor–entrepreneur task conflicts are related
 
 <details> <div markdown="1">
 
-### source
+### Entrepreneurship Theory & Practice, 2014
 
 ### Authors
 * Veroniek Collewaert - Vlerick Business School
@@ -274,7 +274,7 @@ Using a "thinking out loud" method, this paper examines the cognitive processes 
 
 <details> <div markdown="1">
 
-### source
+### Entrepreneurship & Regional Development, 2015
 
 ### Authors
 * Donald J. Smith - Discovery Investment Fund Limited
