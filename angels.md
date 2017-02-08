@@ -6,12 +6,12 @@
 
 Inexperienced angel investors are influenced by all kinds of information about a startup, but more experienced investors only care about the founding team.
 
-#### [Download](http://web.stanford.edu/~shaib/BernsteinKortewegLaws_052014.pdf)
+#### [Download](http://web.stanford.edu/~shaib/BernsteinKortewegLaws_052014.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### [Journal of Finance, September 2016](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full)
+### [Journal of Finance, September 2016](http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full){:target="_blank"}
 
 ### Authors
 * Shai Bernstein - Stanford GSB
@@ -31,12 +31,12 @@ Inexperienced angel investors are influenced by all kinds of information about a
 
 There is an inter-dependence between the angel and VC markets which limits the power of VCs: if VCs "hold up" angel investors, they may encourage new startups to avoid VC funding altogether.
 
-#### [Download](http://eureka.sbs.ox.ac.uk/5223/1/HellmannThiele(2014)JFEforthcoming.pdf)
+#### [Download](http://eureka.sbs.ox.ac.uk/5223/1/HellmannThiele(2014)JFEforthcoming.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### [Journal of Financial Economics, 2015](http://www.sciencedirect.com/science/article/pii/S0304405X14002311)
+### [Journal of Financial Economics, 2015](http://www.sciencedirect.com/science/article/pii/S0304405X14002311){:target="_blank"}
 
 ### Authors
 * Thomas Hellmann - University of British Columbia
@@ -58,7 +58,7 @@ There is an inter-dependence between the angel and VC markets which limits the p
 
 Trustworthiness of the entrepreneur, quality of the management team, enthusiasm of the lead entrepreneur, and exit opportunities are angels’ top criteria for investment selection.
 
-#### [Download](https://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/5%20Sudek_JSBS_Article_-_Investment_Criteria.pdf)
+#### [Download](https://www.angelcapitalassociation.org/data/Documents/Resources/AngelGroupResarch/1d%20-%20Resources%20-%20Research/5%20Sudek_JSBS_Article_-_Investment_Criteria.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -82,7 +82,7 @@ Trustworthiness of the entrepreneur, quality of the management team, enthusiasm 
 
 Angel investment appears to substitute for VC funding: companies that obtain angel financing subsequently obtain less venture capital, and vice versa.
 
-#### [Download](http://eureka.sbs.ox.ac.uk/5264/1/2015-2.pdf)
+#### [Download](http://eureka.sbs.ox.ac.uk/5264/1/2015-2.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -109,7 +109,7 @@ Angel investment appears to substitute for VC funding: companies that obtain ang
 
 Where angels and VCs both participate in a round, firm outcomes are worse than if just angels or just VCs invest.
 
-#### [Download](https://www.angelcapitalassociation.org/data/ACEF/ACEFDocuments/Does%20Angel%20Participation%20Matter%20-%20Analysis%20of%20Early%20Venture%20Financing.pdf)
+#### [Download](https://www.angelcapitalassociation.org/data/ACEF/ACEFDocuments/Does%20Angel%20Participation%20Matter%20-%20Analysis%20of%20Early%20Venture%20Financing.pdf){:target="_blank"}
 
 <details> <div markdown="1">
 
@@ -136,7 +136,7 @@ Where angels and VCs both participate in a round, firm outcomes are worse than i
 
 Angels that successfully lead a portfolio company to the next financing stage gain more co-investment connections relative to their unsuccessful peers, and are rewarded with more new investment opportunities.
 
-#### [Download](http://www.bauer.uh.edu/yerramilli/VenugopalYerramilli.pdf)
+#### [Download](http://www.bauer.uh.edu/yerramilli/VenugopalYerramilli.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -162,7 +162,7 @@ Angels that successfully lead a portfolio company to the next financing stage ga
 
 Ventures that are funded by successful angel groups experience superior outcomes to those that are rejected, although there is no difference in access to additional financing.
 
-#### [Download](http://www.hbs.edu/faculty/Publication%20Files/10-086.pdf)
+#### [Download](http://www.hbs.edu/faculty/Publication%20Files/10-086.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -190,7 +190,7 @@ Ventures that are funded by successful angel groups experience superior outcomes
 
 VC investments follow crowdfunding investments; crowdfunding seems to help VC investors in assessing future trends rather than crowding them out of the market.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2829777)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2829777){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -216,7 +216,7 @@ VC investments follow crowdfunding investments; crowdfunding seems to help VC in
 
 Trust-building behaviors (and the absence of trust-damaging behaviors) on the part of founders are critical to angels' investment decisions.
 
-#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1874&context=fer)
+#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1874&context=fer){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -242,7 +242,7 @@ Trust-building behaviors (and the absence of trust-damaging behaviors) on the pa
 
 This study examines how angel investor–entrepreneur task conflicts are related to portfolio company innovativeness and how this relationship is moderated by the level of agreement on priorities, diversity of entrepreneurial experience, and the level of communication.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2776841)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2776841){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -269,7 +269,7 @@ This study examines how angel investor–entrepreneur task conflicts are related
 
 Using a "thinking out loud" method, this paper examines the cognitive processes behind angels' decision making and learning processes. More experienced angels make decisions faster, and place more emphasis on financial data than novices.
 
-#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1876&context=fer)
+#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1876&context=fer){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -298,12 +298,12 @@ important.
 
 Founders without industry experience have difficulty securing angel investment; however, their pitches are not rejected because of the weakness of the team per se.
 
-#### [Download](link)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2253289){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### Working paper
+### Working paper, 2013
 
 ### Authors
 * Cécile Carpentier - Laval University
@@ -324,7 +324,7 @@ Founders without industry experience have difficulty securing angel investment; 
 
 The entrepreneur matters most when angels are deciding whether a deal should proceed to due diligence; opportunity strength is more important when angels move on to determining whether a deal matches their own investment goals.
 
-#### [Download](http://www.tandfonline.com/doi/abs/10.1080/13691066.2012.689474)
+#### [Download](http://www.tandfonline.com/doi/abs/10.1080/13691066.2012.689474){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -351,7 +351,7 @@ The entrepreneur matters most when angels are deciding whether a deal should pro
 
 This paper describes the role of "gatekeepers" in controlling entrepreneurs' access to angel investor syndicates.
 
-#### [Download](http://www.hban.org/_fileupload/Business_Angel_Syndicates_in_Scotland_-_Gatekeepers.pdf)
+#### [Download](http://www.hban.org/_fileupload/Business_Angel_Syndicates_in_Scotland_-_Gatekeepers.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -376,7 +376,7 @@ This paper describes the role of "gatekeepers" in controlling entrepreneurs' acc
 
 Startups backed by angels with experience in early stage investments are more successful at raising follow-on VC funding; angels with later stage experience have a positive effect on exit outcomes, and firms that combine angel and VC funding do best.
 
-#### [Download](http://onlinelibrary.wiley.com/doi/10.1111/jsbm.12250/abstract)
+#### [Download](http://onlinelibrary.wiley.com/doi/10.1111/jsbm.12250/abstract){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -402,12 +402,12 @@ Startups backed by angels with experience in early stage investments are more su
 
 This paper describes the shift from angels investing individually to the current dominance of angel groups and syndicates.
 
-#### [Download](http://www.gla.ac.uk/media/media_302219_en.pdf)
+#### [Download](http://www.gla.ac.uk/media/media_302219_en.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### [Venture Capital, 2016](http://www.tandfonline.com/doi/abs/10.1080/13691066.2016.1229470?journalCode=tvec20)
+### [Venture Capital, 2016](http://www.tandfonline.com/doi/abs/10.1080/13691066.2016.1229470?journalCode=tvec20){:target="_blank"}
 
 ### Authors
 * Colin Mason - University of Glasgow
@@ -428,12 +428,12 @@ This paper describes the shift from angels investing individually to the current
 
 Founder characteristics are the most common reason for angels to reject a pitch.
 
-#### [Download](http://www.anzam.org/wp-content/uploads/pdf-manager/2734_468.PDF)
+#### [Download](http://www.anzam.org/wp-content/uploads/pdf-manager/2734_468.PDF){:target="_blank"}
 
 
 <details> <div markdown="1">
 
-### [International Small Business Journal, 2016](http://journals.sagepub.com/doi/abs/10.1177/0266242616646622)
+### [International Small Business Journal, 2016](http://journals.sagepub.com/doi/abs/10.1177/0266242616646622){:target="_blank"}
 
 ### Authors
 * Colin Mason - University of Glasgow
@@ -453,7 +453,7 @@ Founder characteristics are the most common reason for angels to reject a pitch.
 
 Angels are most likely to reject proposals at an early stage based on first the innovativeness of the idea (at the "pre-screening" stage), then the founding team ("screening"), with profitability a concern only at the last stage.  
 
-#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0266242615622675)
+#### [Download](http://journals.sagepub.com/doi/abs/10.1177/0266242615622675){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -479,7 +479,7 @@ Angels are most likely to reject proposals at an early stage based on first the 
 
 Angel group members focus more on market risk than agency risk; inexperienced entrepreneurs are rejected for market and product reasons.
 
-#### [Download](link)
+#### [Download](https://www.researchgate.net/publication/275671097_Angel_group_members'_decision_process_and_rejection_criteria_A_longitudinal_analysis){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -504,7 +504,7 @@ Angel group members focus more on market risk than agency risk; inexperienced en
 
 Enthusiasm, preparedness, and commitment are separate constructs in angels' evaluation of pitches; perceived preparedness improves angels' response.
 
-#### [Download](https://www.researchgate.net/profile/Melissa_Cardon/publication/305619822_Motivational_Cues_and_Angel_Investing_Interactions_Among_Enthusiasm_Preparedness_and_Commitment/links/5795f96008ae33e89fad7027.pdf)
+#### [Download](https://www.researchgate.net/profile/Melissa_Cardon/publication/305619822_Motivational_Cues_and_Angel_Investing_Interactions_Among_Enthusiasm_Preparedness_and_Commitment/links/5795f96008ae33e89fad7027.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -529,7 +529,7 @@ Enthusiasm, preparedness, and commitment are separate constructs in angels' eval
 
 The importance of founders' passion varies according to their personality - specifically their "emotional reactivity."
 
-#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1875&context=fer)
+#### [Download](http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1875&context=fer){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -555,7 +555,7 @@ The importance of founders' passion varies according to their personality - spec
 
 Affiliation with an AngelList syndicate leads to higher funding amounts; being "featured" has little or no effect.
 
-#### [Download](http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1066&context=bus_admin_diss)
+#### [Download](http://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1066&context=bus_admin_diss){:target="_blank"}
 
 
 <details> <div markdown="1">
@@ -580,7 +580,7 @@ Affiliation with an AngelList syndicate leads to higher funding amounts; being "
 
 Venture capital partners, acting independently with their personal funds, make investments into younger firms with less educated and younger founding teams than their employing VC firms, but these investments perform financially similarly or better on some metrics even when controlling for investment size, stage, and industry.
 
-#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656896)
+#### [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656896){:target="_blank"}
 
 
 <details> <div markdown="1">
