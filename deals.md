@@ -244,7 +244,7 @@ A discussion of the issues arising from using VCs' self-reports of their decisio
 
 <details> <div markdown="1">
 
-### Small Enterprise Association of Australia and New Zealand, 10th Annual Conference (
+### Small Enterprise Association of Australia and New Zealand, 10th Annual Conference 
 
 ### Authors
 * Dean A. Shepherd - Rensselaer Polytechnic Institute
@@ -395,7 +395,7 @@ Investors who are typically not primarily active in the VC market are most affec
 
 <details> <div markdown="1">
 
-### source
+### Working paper, 2016
 
 ### Authors
 * Severin Johannes Zörgiebel - Goethe University Frankfurt
@@ -468,7 +468,7 @@ The value of increasing the number of deals evaluated increases with the tail we
 
 ### Summary
 
-text
+Broad access to information by virtue of having top management team members that have worked for many different employers (diverse prior company affiliations) and have diverse prior experiences (functional diversity) tend to be associated with positive outcomes.
 
 #### [Download](http://digitalcommons.ilr.cornell.edu/articles/249/){:target="_blank"}
 
