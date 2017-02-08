@@ -113,7 +113,7 @@ Changes in management lead to improved firm outcomes, suggesting that the busine
 
 <details> <div markdown="1">
 
-### deets
+### Journal of Finance, 2009
 
 ### Authors
 * Steven Kaplan - University of Chicago Graduate School of Business/NBER
@@ -309,6 +309,7 @@ Angel investors rely on a combination of expertise-based intuition and formal an
 </div> </details>
 
 ---
+
 ## Experienced entrepreneurial founders, organizational capital, and venture capital funding
 
 ### Summary
