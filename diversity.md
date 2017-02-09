@@ -34,7 +34,7 @@ Investors prefer pitches presented by male entrepreneurs compared with pitches m
 
 Gender status beliefs disadvantage typical women entrepreneurs vis-à-vis their male counterparts, but innovation in a business model has a stronger and more positive impact on ratings of women’s entrepreneurial ability and overall support for their business ideas than it does for men’s.
 
-#### [Download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.958.592&rep=rep1&type=pdf){:target="_blank"}
+#### [Download](https://pdfs.semanticscholar.org/1417/79ca61a7caa436d69d30cbbdb0b5801d61f5.pdf){:target="_blank"}
 
 
 <details> <div markdown="1">
