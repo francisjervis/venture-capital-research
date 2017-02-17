@@ -600,3 +600,30 @@ Venture capital partners, acting independently with their personal funds, make i
 </div> </details>
 
 ---
+
+
+
+## Contracting, signaling, and moral hazard: a model of entrepreneurs, ‘angels,’ and venture capitalists
+
+### Summary
+
+text
+
+#### [Download](link)
+
+
+<details>  <div markdown="1">
+
+### source
+
+### Authors
+* Ramy Elitzura - Ben Gurion University
+* Arieh Gavious - University of Toronto
+
+
+### Abstract
+
+> Investment by wealthy individuals, known as ‘angels,’ in startup firms is quite significant and has taken off in the last few years. Angels invest in the company at an earlier stage than venture capitalists (VCs) do. This paper examines the relationship between an entrepreneur, an angel, and a VC from the seed investment made by the angel to the exit stage. The study characterizes the equilibrium contracts among the players and provides insights into the related institutional arrangements. Next, the study examines the signaling aspects of the game. The paper also analyzes the moral hazard problems of the entrepreneur and the VC. It shows that the outcome in a startup firm is not efficient because of the free-rider phenomenon.
+</div> </details> 
+
+---
