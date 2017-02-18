@@ -30,13 +30,15 @@
 
         <h1>{{ page.title }} </h1>
         <h3>Source: {{ page.source }} </h3>
-	<h3>{{ Abstract }} </h3>
-	<p>{{ page.abstract }} <p>
+	
 	<h2>Authors</h2>
 	{% for author in page.authors %}
 	      <p>{{ author.name }} • {{ author.affiliation }} </p>
 	{% endfor %}
-	      <h4><a href="{{page.link}}">Download</a></h4>
+	      
+	<h3>{{ Abstract }} </h3>
+	<p>{{ page.abstract }} <p>
+	<h4><a href="{{page.link}}">Download</a></h4>
 	<hr>
 	      {% if page.comments %}
 	      <h3>Comments</h3>
