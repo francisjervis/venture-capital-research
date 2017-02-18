@@ -6,5 +6,8 @@ abstract: Which start-up characteristics are most important to investors in earl
 link: http://web.stanford.edu/~shaib/BernsteinKortewegLaws_052014.pdf
 source: Journal of Finance, September 2016
 sourcelink: http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full
-
+authors: 
+  author: Shai Bernstein
+  affiliation: Stanford GSB
+  
 ---
