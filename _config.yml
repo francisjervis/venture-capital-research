@@ -5,7 +5,10 @@ url: https://studying.vc
 title: Studying Venture Capital
 
 collections:
-- articles
+   articles:
+      output: true
+      permalink: /articles/:path/:title.:output_ext
+   
 
 google_analytics: UA-91646406-1
 
