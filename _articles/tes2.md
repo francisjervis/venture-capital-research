@@ -10,11 +10,11 @@ source: Journal of Finance, September 2016
 sourcelink: http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full
 authors:
 
-  - author: Shai Bernstein
+  author: Shai Bernstein
   affiliation: Stanford GSB
-  - author: Arthur Korteweg
+  author: Arthur Korteweg
   affiliation: Stanford GSB
-  - author: Kevin Laws
+  author: Kevin Laws
   affiliation: AngelList
   
 
