@@ -22,17 +22,9 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
         <h4>Tags</h4>
-        <a href="/entrepreneurship.html">Entrepreneurship and Innovation</a>  
-        <br>
-        <a href="/vc-firms.html">Venture Capital Firms &amp; Strategy</a>
-        <br>
-        <a href="/angels.html">Angel Investment and Crowdfunding</a>
-        <br>
-        <a href="/finance.html">Venture Finance</a>
-        <br>
-        <a href="/deals.html">VC Deal Selection and Decision Making</a>
-        <br>
-        <a href="/diversity.html">Diversity and Equality</a>
+        {% for tag in tags %}
+	      <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+        {% endfor %}
       </header>
       <section>
 
