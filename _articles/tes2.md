@@ -10,9 +10,9 @@ source: Journal of Finance, September 2016
 sourcelink: http://onlinelibrary.wiley.com/doi/10.1111/jofi.12470/full
 authors:
   - name: Shai Bernstein
-  affiliation: Stanford GSB
+    affiliation: Stanford GSB
   - name: foo
-  affiliation: bar
+    affiliation: bar
   
 
 ---
