@@ -5,6 +5,6 @@ layout: default
 <h1> foo </h1>
 
 {% for article in site.articles %}
-  <h2>article.title</h2>
-  <h4>article.excerpt</h4>
+  <h2>{{article.title}}</h2>
+  <h4>{{article.excerpt}}</h4>
 {% endfor %}
