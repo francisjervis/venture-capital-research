@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 markdown:    kramdown
 url: https://studying.vc
+comments: disqus
 
 title: Studying Venture Capital
 
