@@ -4,6 +4,9 @@ url: https://studying.vc
 
 title: Studying Venture Capital
 
+collections:
+- articles
+
 google_analytics: UA-91646406-1
 
 gems:
