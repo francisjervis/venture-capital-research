@@ -42,8 +42,12 @@
       <section>
 
         <h1>{{ page.title }} </h1>
-        <h3>Source: {{ page.source }} </h3>
-	
+        <h3>Source</h3>
+	{% if page.sourcelink %}
+	      	<p><a href="{{ page.sourcelink }}" target="_blank">{{ page.source }}</a></p> 
+	{% else %}      
+		<p>{{ page.source }}</p> 
+	{% endif %}
 	<h3>Authors</h3>
 	{% for author in page.authors %}
 	      <p>{{ author.name }} • {{ author.affiliation }} </p>
@@ -51,7 +55,7 @@
 	      
 	<h3>Abstract</h3>
 	<p>{{ page.abstract }} <p>
-	<h4><a href="{{page.link}}">Download</a></h4>
+	<h4><a href="{{page.link}}" target="_blank">Download</a></h4>
 	
 	      <span>
 	      <a class="twitter-share-button"
