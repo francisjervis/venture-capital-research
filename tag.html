@@ -2,7 +2,10 @@
 layout: default
 title: Tag
 ---
-
+<h4>Tags</h4>
+        {% for tag in tags %}
+	      <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+        {% endfor %}
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
