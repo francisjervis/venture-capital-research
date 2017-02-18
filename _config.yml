@@ -7,7 +7,7 @@ title: Studying Venture Capital
 collections:
    articles:
       output: true
-      permalink: studying.vc/articles/:title.:output_ext
+      permalink: studying.vc/articles/:title:output_ext
    
 
 google_analytics: UA-91646406-1
