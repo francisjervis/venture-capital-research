@@ -32,10 +32,11 @@
         <h3>{{ page.source }} </h3>
 	<h2>Authors</h2>
 	{% for author in page.authors %}
-	      <h4>{{ author.name }} • {{ author.affiliation }}
+	      <p>{{ author.name }} • {{ author.affiliation }} </p>
 	{% endfor %}
 	      
 	      {% if page.comments %}
+	      <h3>Comments</h3>
 	      <div id="disqus_thread"></div>
 		<script>
 
