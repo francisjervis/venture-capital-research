@@ -27,22 +27,6 @@
         {% endfor %}
 	      
 	      <script>
-	  (function() {
-	    var cx = '014102689751086055097:169r4gy7s68';
-	    var gcse = document.createElement('script');
-	    gcse.type = 'text/javascript';
-	    gcse.async = true;
-	    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-	    var s = document.getElementsByTagName('script')[0];
-	    s.parentNode.insertBefore(gcse, s);
-	  })();
-	</script>
-	<gcse:searchbox-only></gcse:searchbox-only>
-      </header>
-      <section>
-	      
-	<div>
-		<script>
 		  (function() {
 		    var cx = '014102689751086055097:169r4gy7s68';
 		    var gcse = document.createElement('script');
@@ -53,7 +37,12 @@
 		    s.parentNode.insertBefore(gcse, s);
 		  })();
 		</script>
-		<gcse:searchresults-only></gcse:searchresults-only>
+		<gcse:searchbox></gcse:searchbox>
+      </header>
+      <section>
+	      
+	<div>
+		<gcse:searchresults></gcse:searchresults>
 	</div>
 
         <h1>{{ page.title }} </h1>
