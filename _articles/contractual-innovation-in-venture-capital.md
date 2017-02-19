@@ -1,5 +1,4 @@
 ---
-
 layout: article
 comments: true
 title: Contractual Innovation in Venture Capital
