@@ -1,4 +1,5 @@
 ---
+
 layout: article
 comments: true
 title: Contractual Innovation in Venture Capital
@@ -12,4 +13,5 @@ authors:
     affiliation: University of North Carolina School of Law
   - name: Joseph M. Green
     affiliation: Thomson Reuters Practical Law
+    
  ---
