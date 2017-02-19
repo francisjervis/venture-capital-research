@@ -54,7 +54,7 @@
 	{% endif %}
 	<h3>Authors</h3>
 	{% for author in page.authors %}
-	      <p>{{ author.name }} • {{ author.affiliation }} </p>
+	      <p><a href="https://scholar.google.com/citations?mauthors={{ author.name | slugify }}&hl=en&view_op=search_authors" target="_blank"> {{ author.name }} • {{ author.affiliation }}</a> </p>
 	{% endfor %}
 	      
 	<h3>Abstract</h3>
