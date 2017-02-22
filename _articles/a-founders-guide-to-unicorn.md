@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: A Founder's Guide to Unicorn Creation How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation
+title: "A Founder's Guide to Unicorn Creation: How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation"
 
 excerpt: Unicorn valuations are unreliable measures for firm value for the same reason that all start-up valuations are unreliable measures of firm value — namely, the common practice among VC investors to price VC financings as if they are purchasing common stock when they are acquiring preferred stock with downside economic protections.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664236
