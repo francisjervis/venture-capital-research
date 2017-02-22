@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: How business angel groups work: Rejection criteria in investment evaluation
+title: "How business angel groups work: Rejection criteria in investment evaluation"
 excerpt: Angels are most likely to reject proposals at an early stage based on first the innovativeness of the idea (at the "pre-screening" stage), then the founding team ("screening"), with profitability a concern only at the last stage.  
 link: http://journals.sagepub.com/doi/abs/10.1177/0266242615622675
 source: International Small Business Journal, 2016
