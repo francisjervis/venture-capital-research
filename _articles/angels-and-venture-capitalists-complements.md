@@ -2,7 +2,7 @@
 layout: article
 comments: true
 title: "Angels and Venture Capitalists: Complements or Substitutes?"
-excerpt: Angel investment appears to substitute for VC funding: companies that obtain angel financing subsequently obtain less venture capital, and vice versa.
+excerpt: "Angel investment appears to substitute for VC funding: companies that obtain angel financing subsequently obtain less venture capital, and vice versa."
 link: http://eureka.sbs.ox.ac.uk/5264/1/2015-2.pdf
 source: Oxford Saïd Business School Research Papers, 2015
 authors:
