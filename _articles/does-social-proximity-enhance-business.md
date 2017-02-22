@@ -10,5 +10,5 @@ authors:
     affiliation: New York University
   - name: Justin Tumlinson
     affiliation: University of Munich
-abstract: 
+abstract: "We develop a formal model to understand the selection and influence effects of social proximity (homophily) between business partners. Consistent with the model’s predictions, we find that U.S. venture capitalists (VCs) are more likely to select start-ups with coethnic executives for investment, particularly when the probability of the start-up’s success appears low. Ethnic proximity between VCs and the start-ups they invest in is positively related to performance, measured by the probability of the companies’ successful exit through acquisitions and initial public offerings (IPOs) and net income after IPO. Two-stage regression estimates suggest that these positive performance outcomes are largely due to influence, that is, superior communication and coordination between coethnic VCs and start-up executives after the investment. To the extent that VCs expect to work better with coethnic start-ups, they invest in coethnic ventures that are of lower observable quality than noncoethnic ventures."
 ---
