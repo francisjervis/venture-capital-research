@@ -1,9 +1,9 @@
 ---
 layout: article
 comments: true
-title: Contracting, signaling, and moral hazard: a model of entrepreneurs, ‘angels,’ and venture capitalists
+title: "Contracting, signaling, and moral hazard: a model of entrepreneurs, ‘angels,’ and venture capitalists"
 excerpt: 
-link: link)
+link: 
 
 source: 
 authors:
