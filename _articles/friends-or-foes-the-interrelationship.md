@@ -1,6 +1,7 @@
 ---
 layout: article
 comments: true
+title: "Friends or Foes? The Interrelationship between Angel and Venture Capital Markets"
 
 link: http://eureka.sbs.ox.ac.uk/5223/1/HellmannThiele(2014)JFEforthcoming.pdf
 source: Journal of Financial Economics, 2015
