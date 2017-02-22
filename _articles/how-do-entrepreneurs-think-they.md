@@ -4,7 +4,7 @@ comments: true
 title: How do entrepreneurs think they create value? A scientific reflection of Eric Ries’ Lean Startup approach
 excerpt: This article discusses the roots of the Lean Startup movement and its relationship to planning and effectuation in entrepreneurial thinking.
 link: http://link.springer.com/article/10.1007/s11365-016-0411-x
-source:  markdown="1">
+source:  International Entrepreneurship and Management Journal, 2016
 authors:
   - name: Dennis Lyth Frederiksen
     affiliation: Aalborg University, Denmark
