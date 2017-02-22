@@ -2,7 +2,7 @@
 layout: article
 comments: true
 title: Understanding the value proposition as a cocreated claim
-excerpt: Entrepreneurs' presentation of their "value proposition" encompasses both a product-focussed ("goods-dominant") logic, and a "service-dominant logic" centered on how the innovation will co-create value with stakeholders.
+excerpt: Entrepreneurs' presentation of their value proposition encompasses both a product-focussed (goods-dominant) logic, and a service-dominant logic centered on how the innovation will co-create value with stakeholders.
 link: https://repositories.lib.utexas.edu/bitstream/handle/2152/31275/london-2015-value-proposition-as-a-co-created-claim.pdf?sequence=2
 source:  markdown="1">
 authors:
