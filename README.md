@@ -23,5 +23,7 @@ Follow [@studyingVC](https://twitter.com/studyingVC) for updates.
 
 ## [{{ article.title }}]({{ article.url }})
 {{ article.excerpt }}
+
 ---
+
 {% endfor %}
