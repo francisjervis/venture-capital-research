@@ -4,7 +4,7 @@ comments: true
 title: "Nowcasting and Placecasting: Entrepreneurial Quality and Performance"
 excerpt: A new model for assessing startup quality based on highly granular geographic data and other factors.
 link: http://www.nber.org/chapters/c13493.pdf
-source: This paper was prepared for the NBER/CRIW Measuring Entrepreneurial Businesses: Current Knowledge and Challenges conference, Washington, DC, December, 2014.
+source: "NBER/CRIW Measuring Entrepreneurial Businesses: Current Knowledge and Challenges conference, Washington, DC, December, 2014."
 authors:
   - name: Jorge Guzman
     affiliation: MIT
