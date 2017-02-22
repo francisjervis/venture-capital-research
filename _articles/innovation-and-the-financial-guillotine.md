@@ -4,7 +4,7 @@ comments: true
 title: Innovation and the Financial Guillotine
 excerpt: The relationship between investors' failure tolerance and the level of risk of ventures leads to the exclusion of some highly experimental projects, and helps explain when and where radical innovation occurs.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2318282
-source:  markdown="1">
+source:  NBER Working Paper No. 19379, 2013
 authors:
   - name: Ramana Nanda
     affiliation: Harvard University
