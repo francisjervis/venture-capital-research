@@ -4,7 +4,7 @@ comments: true
 title: "Learning from the Crowd: The Feedback Value of Crowdfunding"
 excerpt: Crowdfunding serves an important role as a tool for entrepreneurial learning.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637699
-source:  markdown="1">
+source:  Working paper, 2017
 authors:
   - name: Ting Xu
     affiliation: University of British Columbia
