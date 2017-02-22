@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Experience, Heuristics And Learning: The Angel Investment Process
+title: "Experience, Heuristics And Learning: The Angel Investment Process"
 excerpt: Using a "thinking out loud" method, this paper examines the cognitive processes behind angels' decision making and learning processes. More experienced angels make decisions faster, and place more emphasis on financial data than novices.
 link: http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1876&context=fer
 source: Entrepreneurship & Regional Development, 2015
