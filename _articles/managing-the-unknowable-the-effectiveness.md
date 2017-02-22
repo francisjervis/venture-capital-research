@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Managing the Unknowable: The Effectiveness of Early-Stage Investor Gut Feel in Entrepreneurial Investment Decisions
+title: "Managing the Unknowable: The Effectiveness of Early-Stage Investor Gut Feel in Entrepreneurial Investment Decisions"
 excerpt: Angel investors rely on a combination of expertise-based intuition and formal analysis in which intuition trumps analysis, and their intuition effectively predicts venture success.
 link: http://escholarship.org/uc/item/54j7z903
 source: Administrative Science Quarterly, 2015

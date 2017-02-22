@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Venture-Backed Firms: How Does Venture Capital Involvement Affect Their Likelihood of Going Public or Being Acquired?
+title: "Venture-Backed Firms: How Does Venture Capital Involvement Affect Their Likelihood of Going Public or Being Acquired?"
 excerpt: The prominence of VCs, the number of VCs invested in a company, and the timing, duration, and magnitude of investments all affect exit outcomes, although their effects tend to differ depending on whether the exit occurs via an acquisition or IPO.
 link: https://www.researchgate.net/publication/273330703_Venture-Backed_Firms_How_Does_Venture_Capital_Involvement_Affect_Their_Likelihood_of_Going_Public_or_Being_Acquired
 source: Entrepreneurship: Theory and Practice, 2015

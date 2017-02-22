@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Skill vs. Luck in Entrepreneurship and Venture Capital: Evidence from Serial Entrepreneurs
+title: "Skill vs. Luck in Entrepreneurship and Venture Capital: Evidence from Serial Entrepreneurs"
 excerpt: Entrepreneurs with a track record of success are more likely to succeed than first time entrepreneurs and those who have previously failed, and funding by more experienced venture capital firms enhances the chance of success, but only for entrepreneurs without a successful track record.
 link: http://www.nber.org/papers/w12592.pdf
 source: NBER Working Paper No. 12592, October 2006

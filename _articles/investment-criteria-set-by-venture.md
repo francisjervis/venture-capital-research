@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Investment Criteria Set By Venture Capitalists
+title: "Investment Criteria Set By Venture Capitalists"
 excerpt: A review of the existing literature on VC investment criteria; the most significant factors in investment decisions are identified.
 link: http://hrcak.srce.hr/file/221353
 source: Econviews, August 2015

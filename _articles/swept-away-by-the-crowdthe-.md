@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title:  Swept Away by the Crowd? Crowdfunding, Venture Capital, and the Selection of Entrepreneurs
+title: " Swept Away by the Crowd? Crowdfunding, Venture Capital, and the Selection of Entrepreneurs"
 excerpt: Entrepreneurial quality is assessed in similar ways by both VCs and crowdfunders, but crowdfunding alleviates some of the geographic and gender biases associated with the way that VCs look for signals of quality.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2239204
 source: Working paper

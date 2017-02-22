@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: How Smart is Smart Money? An Empirical Two-Sided Matching Model of Venture Capital
+title: "How Smart is Smart Money? An Empirical Two-Sided Matching Model of Venture Capital"
 excerpt: A "two-sided matching" model of the process by which more experienced "top-tier" VCs end up investing in the highest quality startups.
 link: https://pdfs.semanticscholar.org/0c4b/21c7d6ffeddda24ede8df99f5ac8cb89ad24.pdf
 source: Journal of Finance, November 2007

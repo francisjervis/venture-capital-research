@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Early Teams: The Impact of Team Demography on VC Financing and Going Public
+title: "Early Teams: The Impact of Team Demography on VC Financing and Going Public"
 excerpt: 
 link: http://digitalcommons.ilr.cornell.edu/articles/249/
 source: 

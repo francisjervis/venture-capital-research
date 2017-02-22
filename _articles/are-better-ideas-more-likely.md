@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Are “Better” Ideas More Likely to Succeed? An Empirical Analysis of Startup Evaluation
+title: "Are “Better” Ideas More Likely to Succeed? An Empirical Analysis of Startup Evaluation"
 excerpt: Experienced entrepreneurs can predict the quality of startup ideas in science-based fields, but not consumer or enterprise software.
 link: http://www.hbs.edu/faculty/Publication%20Files/16-013_41f3750a-9d54-49be-a8f4-51a6489d514e.pdf
 source: HBS Working Paper, July 2015

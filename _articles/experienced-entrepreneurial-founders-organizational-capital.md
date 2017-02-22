@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Experienced entrepreneurial founders, organizational capital, and venture capital funding
+title: "Experienced entrepreneurial founders, organizational capital, and venture capital funding"
 excerpt: Prior experience as a founder (particularly when financially successful) increases likelihood of funding and valuation; higher valuations improve founders' ability to recruit managers themselves, and founding teams with at least one PhD receive higher valuations.
 link: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.2163&rep=rep1&type=pdf
 source: Research Policy, 2006

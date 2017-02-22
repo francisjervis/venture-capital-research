@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: The Rise of the Unicorns - How Media Affects Start-Up Valuations
+title: "The Rise of the Unicorns - How Media Affects Start-Up Valuations"
 excerpt: Investors who are typically not primarily active in the VC market are most affected by increasing media coverage; valuations are driven to a large extent by increasing media coverage before a funding round.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2808458
 source: Working paper, 2016

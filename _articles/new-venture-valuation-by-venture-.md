@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: New Venture Valuation by Venture Capitalists: An Integrative Approach
+title: "New Venture Valuation by Venture Capitalists: An Integrative Approach"
 excerpt: A proposed new method for early stage venture valuation and the prediction of firm performance.
 link: https://business.illinois.edu/working_papers/papers/05-0124.pdf
 source:  University of Illinois at Urbana-Champaign, College of Business Working Papers 05-0124

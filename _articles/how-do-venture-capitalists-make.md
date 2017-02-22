@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: How Do Venture Capitalists Make Decisions?
+title: "How Do Venture Capitalists Make Decisions?"
 excerpt: A wide-ranging survey of decision making processes, deal structures and outcomes, comparing VC to private equity.
 link: https://www.gsb.stanford.edu/faculty-research/working-papers/how-do-venture-capitalists-make-decisions
 source: Stanford University Graduate School of Business Research Paper No. 16-33 / European Corporate Governance Institute (ECGI) Finance Working Paper No. 477/2016 

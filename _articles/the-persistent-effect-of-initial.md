@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: The Persistent Effect of Initial Success: Evidence from Venture Capital
+title: "The Persistent Effect of Initial Success: Evidence from Venture Capital"
 excerpt: Each additional IPO among a VC's first five investments predicted a 13% higher IPO rate for its subsequent 50 investments; early success in venture investing appears to yield better deal flow in subsequent investments.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2900862
 source: Harvard Business School Entrepreneurial Management Working Paper No. 17-065
