@@ -4,7 +4,7 @@ comments: true
 title: Schumpeterian Entrepreneurship
 excerpt: The phenomenon of employees leaving to become entrepreneurs is discussed in terms of Schumpeter's influential theory of entrepreneurship, and this theory is tested using data on actual entrepreneurs.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1347063
-source:  markdown="1">
+source:  Atlanta Competitive Advantage Conference, 2009
 authors:
   - name: Atsushi Ohyama
     affiliation: University of Illinois at Urbana-Champaign
