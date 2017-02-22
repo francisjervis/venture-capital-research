@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Why Business Angels Reject Investment Opportunities: it is personal?
+title: "Why Business Angels Reject Investment Opportunities: it is personal?"
 excerpt: Founder characteristics are the most common reason for angels to reject a pitch.
 link: http://www.anzam.org/wp-content/uploads/pdf-manager/2734_468.PDF
 source: International Small Business Journal, 2016
