@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Trustworthiness: A Critical Ingredient for Entrepreneurs Seeking Investors
+title: "Trustworthiness: A Critical Ingredient for Entrepreneurs Seeking Investors"
 excerpt: Trust-building behaviors (and the absence of trust-damaging behaviors) on the part of founders are critical to angels' investment decisions.
 link: http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1874&context=fer
 source: Entrepreneurship Theory & Practice, 2014
