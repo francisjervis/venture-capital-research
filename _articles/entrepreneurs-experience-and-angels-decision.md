@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Entrepreneur's Experience and Angels' Decision Process: A Longitudinal Analysis
+title: "Entrepreneur's Experience and Angels' Decision Process: A Longitudinal Analysis"
 excerpt: Founders without industry experience have difficulty securing angel investment; however, their pitches are not rejected because of the weakness of the team per se.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2253289
 source: Working paper, 2013
