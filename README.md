@@ -13,11 +13,11 @@ Follow [@studyingVC](https://twitter.com/studyingVC) for updates.
 
 ## Top Picks:
 
-### [How Do Venture Capitalists Make Decisions?](http://studying.vc/deals.html#how-do-venture-capitalists-make-decisions){:target="_blank"}
+### [How Do Venture Capitalists Make Decisions?](http://studying.vc/articles/how-do-venture-capitalists-make.html){:target="_blank"}
 
-### [The Consequences of Entrepreneurial Finance: Evidence from Angel Financings](http://studying.vc/angels.html#the-consequences-of-entrepreneurial-finance-evidence-from-angel-financings){:target="_blank"}
+### [The Consequences of Entrepreneurial Finance: Evidence from Angel Financings](http://studying.vc/articles/the-consequences-of-entrepreneurial-finance.html){:target="_blank"}
 
-### [A Founder’s Guide to Unicorn Creation: How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation](http://studying.vc/finance.html#a-founders-guide-to-unicorn-creation-how-liquidation-preferences-in-ma-transactions-affect-start-up-valuation){:target="_blank"}
+### [A Founder’s Guide to Unicorn Creation: How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation](http://studying.vc/articles/a-founders-guide-to-unicorn.html){:target="_blank"}
 
 {% for article in site.articles %}
 
