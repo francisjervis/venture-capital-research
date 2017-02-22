@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: The Consequences of Entrepreneurial Finance: Evidence from Angel Financings
+title: "The Consequences of Entrepreneurial Finance: Evidence from Angel Financings"
 excerpt: Ventures that are funded by successful angel groups experience superior outcomes to those that are rejected, although there is no difference in access to additional financing.
 link: http://www.hbs.edu/faculty/Publication%20Files/10-086.pdf
 source: Review of Financial Studies, 2011
