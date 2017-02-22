@@ -26,7 +26,7 @@
 	      <a href="#{{ tag | slugify }}"> {{ tag }} </a>
         {% endfor %}
 	      
-	      <script>
+	      	<script>
 		  (function() {
 		    var cx = '014102689751086055097:169r4gy7s68';
 		    var gcse = document.createElement('script');
@@ -37,13 +37,10 @@
 		    s.parentNode.insertBefore(gcse, s);
 		  })();
 		</script>
-		<gcse:searchbox></gcse:searchbox>
+		<gcse:search></gcse:search>
       </header>
       <section>
 	      
-	<div>
-		<gcse:searchresults></gcse:searchresults>
-	</div>
 
         <h1>{{ page.title }} </h1>
         <h3>Source</h3>
