@@ -5,7 +5,7 @@ title: "The importance angels place on passion when making investment decisions:
 excerpt: "The importance of founders' passion varies according to their personality - specifically their emotional reactivity."
 
 link: http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1875&context=fer
-source: 
+source: Frontiers of Entrepreneurship Research, 2010
 authors:
   - name: Cheryl R. Mitteness
     affiliation: Northeastern University
