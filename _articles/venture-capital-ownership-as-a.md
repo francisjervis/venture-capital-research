@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Venture Capital Ownership as a Contingent Resource: How Owner–Firm Fit Influences IPO Outcomes
+title: "Venture Capital Ownership as a Contingent Resource: How Owner–Firm Fit Influences IPO Outcomes"
 excerpt: The quality of "fit" between VCs and firms has a significant effect on the success of those firms (and investments).
 link: http://amj.aom.org/content/59/3/930.abstract
 source: Academy of Management Journal, 2016
