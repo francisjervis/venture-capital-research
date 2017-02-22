@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: The transformation of the business angel market: empirical evidence and research implications
+title: "The transformation of the business angel market: empirical evidence and research implications"
 excerpt: This paper describes the shift from angels investing individually to the current dominance of angel groups and syndicates.
 link: http://www.gla.ac.uk/media/media_302219_en.pdf
 source: Venture Capital, 2016
