@@ -4,7 +4,7 @@ comments: true
 title: Direct and Indirect Effects of Passion on Growing Technology Ventures
 excerpt: Founder passion has a direct positive effect on venture growth and an indirect positive effect mediated by "goal commitment," but not "goal challenge".
 link: http://onlinelibrary.wiley.com/doi/10.1002/sej.1213/abstract
-source:  markdown="1">
+source:  Strategic Entrepreneurship Journal, 2016
 authors:
   - name: Mateja Drnovsek
     affiliation: University in Ljubljana, Slovenia
