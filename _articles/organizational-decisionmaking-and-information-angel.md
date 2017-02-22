@@ -2,9 +2,9 @@
 layout: article
 comments: true
 title: "Organizational Decision-Making and Information: Angel Investments by Venture Capital Partners"
-excerpt: 
-link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2656896
-source: 
+excerpt: "Venture capital partners, acting independently with their personal funds, make investments into younger firms with less educated and younger founding teams than their employing VC firms, but these investments perform financially similarly or better on some metrics even when controlling for investment size, stage, and industry."
+link: http://www.hbs.edu/faculty/Publication%20Files/Wu%202015_1_8c642e5c-51a2-4a7a-975f-a606eaa106f9.pdf
+source: Working paper, 2015
 authors:
   - name: Andy Wu
     affiliation: Harvard Business School
