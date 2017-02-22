@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: A Review of Research into Venture Capitalists' Decision Making: Implications for Entrepreneurs, Venture Capitalists and Researchers
+title: "A Review of Research into Venture Capitalists' Decision Making: Implications for Entrepreneurs, Venture Capitalists and Researchers"
 excerpt: A discussion of the research on VC decision making and the gaps in the research in this field, and suggestions for improving pitches based on the evidence.
 link: http://epubs.scu.edu.au/cgi/viewcontent.cgi?article=1078&context=jesp
 source: Journal of Economic and Social Policy, 2005
