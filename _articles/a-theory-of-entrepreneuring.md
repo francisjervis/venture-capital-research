@@ -4,7 +4,7 @@ comments: true
 title: A Theory of Entrepreneuring
 excerpt: This paper proposes a theory of "entrepreneuring" as a processes of solution discovery - one which is most likely to be hindered by the cognitive biases of entrepreneurs themselves.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747458
-source:  markdown="1">
+source: INSEAD Working Paper, 2016
 authors:
   - name: Nathan Furr
     affiliation: INSEAD
