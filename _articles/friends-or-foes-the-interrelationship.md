@@ -1,4 +1,6 @@
 ---
+layout: article
+comments: true
 
 link: http://eureka.sbs.ox.ac.uk/5223/1/HellmannThiele(2014)JFEforthcoming.pdf
 source: Journal of Financial Economics, 2015
