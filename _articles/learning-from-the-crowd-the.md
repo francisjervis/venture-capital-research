@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Learning from the Crowd: The Feedback Value of Crowdfunding
+title: "Learning from the Crowd: The Feedback Value of Crowdfunding"
 excerpt: Crowdfunding serves an important role as a tool for entrepreneurial learning.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2637699
 source:  markdown="1">
