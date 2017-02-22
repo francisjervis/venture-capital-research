@@ -22,9 +22,13 @@ Follow [@studyingVC](https://twitter.com/studyingVC) for updates.
 {% for article in site.articles %}
 
 ## [{{ article.title }}]({{ article.url }})
+
 {{ article.excerpt }}
+
 {{ article.source }}
+
 {{ article.abstract }}
+
 ---
 
 {% endfor %}
