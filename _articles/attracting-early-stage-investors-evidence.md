@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Attracting Early Stage Investors: Evidence from a Randomized Field Experiment
+title: "Attracting Early Stage Investors: Evidence from a Randomized Field Experiment"
 excerpt: Inexperienced angel investors are influenced by all kinds of information about a startup, but more experienced investors only care about the founding team.
 link: http://web.stanford.edu/~shaib/BernsteinKortewegLaws_052014.pdf
 source: Journal of Finance, September 2016
