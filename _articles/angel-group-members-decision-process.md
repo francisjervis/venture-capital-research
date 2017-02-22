@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Angel group members' decision process and rejection criteria: A longitudinal analysis
+title: "Angel group members' decision process and rejection criteria: A longitudinal analysis"
 excerpt: Angel group members focus more on market risk than agency risk; inexperienced entrepreneurs are rejected for market and product reasons.
 link: https://www.researchgate.net/publication/275671097_Angel_group_members'_decision_process_and_rejection_criteria_A_longitudinal_analysis
 source: Journal of Business Venturing, 2015
