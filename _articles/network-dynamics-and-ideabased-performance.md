@@ -4,7 +4,7 @@ comments: true
 title: "Network dynamics and idea-based performance advantages: Experimental results from an entrepreneurship bootcamp"
 excerpt: Startup teams with more creative social networks produce better company ideas. 
 link: https://www.gsb.stanford.edu/sites/gsb/files/phd-job-market-paper/koning_job_market_paper.pdf
-source:  markdown="1">
+source:  Working paper, 2015
 authors:
   - name: Rembrand Koning
     affiliation: Stanford GSB
