@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Absolutely fabulous!: Fabulation and organisation-creation in processes of becoming-entrepreneur
+title: "Absolutely fabulous!: Fabulation and organisation-creation in processes of becoming-entrepreneur"
 excerpt: A philosophical-theoretical discussion of the making of the "entrepreneurial subject."
 link: https://www.researchgate.net/publication/262822320_Absolutely_fabulous_Fabulation_and_organisation-creation_in_processes_of_becoming-entrepreneur
 source:  markdown="1">
