@@ -6,3 +6,4 @@ excerpt: This article discusses the relationship between lean startup methods an
 link: http://findresearcher.sdu.dk/portal/files/117858292/RasmussenTanev_TIMReview_November2015.pdf
 source:  markdown="1">
 authors:
+---
