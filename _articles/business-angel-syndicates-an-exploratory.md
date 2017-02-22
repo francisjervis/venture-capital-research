@@ -1,7 +1,7 @@
 ---
 layout: article
 comments: true
-title: Business angel syndicates: an exploratory study of gatekeepers
+title: "Business angel syndicates: an exploratory study of gatekeepers"
 excerpt: This paper describes the role of "gatekeepers" in controlling entrepreneurs' access to angel investor syndicates.
 link: http://www.hban.org/_fileupload/Business_Angel_Syndicates_in_Scotland_-_Gatekeepers.pdf
 source: Venture Capital, 2010
