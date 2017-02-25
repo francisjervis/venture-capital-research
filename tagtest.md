@@ -1,11 +1,10 @@
 ---
 title: Site Tags
 permalink: /tags/
-layout: page
-sitemap: false
+
 ---
 <ul>
-  {% assign tags = site.tags | sort 0 %}
+  {% assign tags = site.data.tags | sort 0 %}
   {% for tag_item in tags %}
   {% assign tag = (tag_item | first) %}
   <li>
