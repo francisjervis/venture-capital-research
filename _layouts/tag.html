@@ -11,7 +11,7 @@ layout: default
     <ol>
       {% for article in site.data.tags[page.tag] %}
       <li>
-        <a class="post-link" href="{{post.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
+        <a class="post-link" href="{{article.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
         <p class="post-meta small">{{ article.date | date: site.date_format }}</p>
         <div class="small">
           {% include post_tags.html tags-class="small" %}
