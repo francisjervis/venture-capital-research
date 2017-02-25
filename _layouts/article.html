@@ -22,8 +22,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
         <h4>Tags</h4>
-        {% for tag in tags %}
-	      <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+        {% for category in site.categories %}
+	      <a href="#{{ category }}"> {{ tag }} </a>
         {% endfor %}
 	      
 	      	<script>
