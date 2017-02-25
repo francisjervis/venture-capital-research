@@ -12,6 +12,7 @@ layout: default
     <ol>
       {% for article in site.data.tags[page.tag] %}
       <li>
+        foo
         <a class="post-link" href="{{article.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
 
       </li>
