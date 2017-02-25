@@ -10,7 +10,7 @@ layout: default
 
   <article class="article-content">
     <ol>
-      {% for article in site.tags[page.tag] %}
+      {% for article in site.articles.tags[page.tag] %}
       <li>
         foo
         <a class="post-link" href="{{article.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
