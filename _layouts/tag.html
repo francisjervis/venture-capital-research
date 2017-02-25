@@ -21,11 +21,11 @@ layout: default
       {% endfor %}
 
   
-        {% for category in site.categories %}
+        {% for category in site.articles.categories %}
         {{ category | first }}{% unless forloop.last %},{% endunless %}
         {% endfor %}
     
-}
+
 
   
 </div>
