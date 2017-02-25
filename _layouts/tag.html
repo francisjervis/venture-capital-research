@@ -5,12 +5,14 @@ layout: default
 
 <div class="article">
   <header class="article-header">
-    <h1 class="h2">Articles tagged with <em>"{{ site.data.tags[page.tag].name }}"</em></h1>
+    <h1 class="h2">Articles tagged with <em>"Finance"</em></h1>
   </header>
+  
+  {% assign articles = site.articles | where: "category", "finance" %}
 
   <article class="article-content">
     <ol>
-      {% for article in site.articles.tags[page.tag] %}
+      {% for article in articles %}
       <li>
         foo
         <a class="post-link" href="{{article.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
