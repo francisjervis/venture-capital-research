@@ -13,11 +13,11 @@ layout: default
   <article class="article-content">
 
       {% for article in articles %}
-      <li>
-        
+            
         <a class="post-link" href="{{article.url | prepend: site.baseurl}}"><h3 class="post-title mb0">{{article.title}}</h3></a>
-
-      </li>
+    <h4>{{ article.source }}</h4>
+    <p> {{ article.excerpt }} </p> 
+    
       {% endfor %}
 
   </article>
