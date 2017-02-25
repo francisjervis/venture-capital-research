@@ -1,15 +1,15 @@
 ---
 
 angel:
-  Angel & Seed Investing
+  name: Angel & Seed Investing
 vc-strategy:
-  Venture Capital Firm Strategy
+  name: Venture Capital Firm Strategy
 vc-decision:
-  Venture Capital Decision Making
+  name: Venture Capital Decision Making
 finance:
-  Venture Finance & Analysis
+  name: Venture Finance & Analysis
 diversity:
-  Diversity & Equality
+  name: Diversity & Equality
   
 ---
   
