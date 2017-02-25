@@ -4,14 +4,14 @@ layout: default
 
 
 <div class="article">
-  <header class="article-header">
+  
     <h1 class="h2">Articles tagged with <em>"Finance"</em></h1>
-  </header>
+  
   
   {% assign articles = site.articles | where: "category", "finance" %}
 
   <article class="article-content">
-    <ol>
+
       {% for article in articles %}
       <li>
         foo
@@ -19,6 +19,6 @@ layout: default
 
       </li>
       {% endfor %}
-    </ol>
+
   </article>
 </div>
