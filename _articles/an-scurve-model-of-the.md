@@ -11,4 +11,6 @@ authors:
   - name: Sean Wise
     affiliation: Ryerson University
 abstract: Using the S-curve model of entrepreneurship, start-up funding, and customer development as a theoretical foundation, researchers can go in several directions. First, they can take a case study approach by investigating young start-ups and, using their financial statements, plotting performance longitudinally. Next, qualitative assessments can be done to understand potential risks that occur at each phase. Third, researchers can develop a greater understanding of the antecedents of early problems and what corrective actions can be implemented to curb the onset of trouble. Finally, large-scale quantitative assessments can be conducted to understand whether certain control variables, such as industry, culture, level of industrial development of the country, and experience of the entrepreneurs, can influence the stages in the S-curve model of entrepreneurship, start-up funding, and customer development.
+
+category: finance
 ---
