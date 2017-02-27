@@ -8,7 +8,7 @@ layout: default
     <h1 class="h2">Articles tagged with <em>"Finance"</em></h1>
   
   
-  {% assign articles = site.articles | where: "category", "finance" %}
+  {% assign articles = site.articles | where: "category", {{ page.tag }} %}
 
 
       {% for article in articles %}
