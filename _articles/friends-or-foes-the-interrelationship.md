@@ -12,4 +12,5 @@ authors:
   - name: Veikko Thiele
     affiliation: Queen’s University, Ontario
 abstract: "We examine the interrelationship between angel and venture capital markets, using a model with free entry and search frictions. Venture capitalists rely on the supply of angel-backed deals, and angels depend on competitive valuations from venture capitalists. Ex-post, venture capitalists have an incentive to hold-up angel investors, but ex-ante this may endanger their deal flow from angels. Endogenous entry limits the hold-up power of venture capitalists. In equilibrium, angels may encourage companies to exit early, in order to avoid venture capital funding altogether. The model also explains how hold-up and competition affect the valuations paid by angels and venture capitalists."
+category: angel
 ---
