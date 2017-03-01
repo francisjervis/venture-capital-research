@@ -9,4 +9,5 @@ authors:
   - name: John J. Horton
     affiliation: NYU
 abstract: I develop a model of Silicon Valley engineer labor and venture capital (VC) markets. Software engineers choose between joining an established software company or founding a venture-backed startup. In equilibrium, they are indifferent between
+category: economics
 ---
