@@ -10,4 +10,5 @@ authors:
   - name: Morten Sørensen
     affiliation: Stanford
 abstract: In capital markets, top-tier investors may have better abilities to monitor and manage their investments. In addition, there may be sorting in these markets, with top-tier investors investing in the best deals, second-tier investors investing in the second-best deals, and so forth. To separate and quantify these two effects, a structural model of the market for venture capital is developed and estimated. The model is a two-sided matching model that allows for sorting in equilibrium. It is found that more experienced venture capitalists make more successful investments. This is explained both by their value-adding influence on their investments, and by their access to late stage and biotechnology companies, companies that are more successful on average. Sorting is found to be prevalent and has general implications for the interpretation of empirical evidence of the impact of investors on their investments.
+category: economics
 ---
