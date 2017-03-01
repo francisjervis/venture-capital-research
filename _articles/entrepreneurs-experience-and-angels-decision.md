@@ -11,4 +11,5 @@ authors:
   - name: Jean-Marc Suret
     affiliation: Laval University
 abstract: To determine if and why entrepreneurs’ experience determines their propensity to be financed by angels, we conduct the first longitudinal analysis of the decision process of a business angel network. We code the rejection reasons recorded by the network in each file to estimate the preparedness and outcome of 636 applications. We score the entrepreneurs’ experience from their résumés. Non industry-experienced promoters have no chance of obtaining financing because of the weakness of their proposal, but are not rejected due to team weakness. We evidence several differences with the commonly accepted description of the selection process.
+category: entrepreneurship
 ---
