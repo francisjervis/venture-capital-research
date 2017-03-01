@@ -13,4 +13,5 @@ authors:
   - name: Olav Sorenson
     affiliation: Yale School of Management
 abstract: We used data on individual investments in the portfolios of venture capital firms to study persistence in their performance. Each additional IPO among a VC's first five investments predicted a 13% higher IPO rate for its subsequent 50 investments. Roughly half of this performance persistence stemmed from investment "styles" ― investing in particular regions and industries. We found no evidence of performance persistence stemming from a differential ability to select or govern portfolio companies. Rather, our results suggest that early success in venture investing yields better deal flow in subsequent investments, thereby perpetuating differences in the outcomes of initial investments.
+category: strategy
 ---
