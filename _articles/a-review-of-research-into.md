@@ -11,4 +11,5 @@ authors:
   - name: Michael Evans
     affiliation: Southern Cross University
 abstract: A recent review of the current literature on how venture capitalists make their investment decisions suggests that the decision-making process adopted by venture capitalists is more an art than a science. The review also highlights the fact that researchers have not been able to identify the key decision-making variables that lead to making a successful investment choice. Nor do venture capitalists understand their own decision-making process. This paper addresses these issues and suggests how entrepreneurs attempting to obtain equity finance from venture capitalists may structure proposals to have a better chance of acceptance. The paper concludes with a discussion of directions for future research.
+category: decision
 ---
