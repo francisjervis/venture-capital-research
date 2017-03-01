@@ -13,7 +13,7 @@ authors:
   - name: Joseph M. Green
     affiliation: Thomson Reuters Practical Law
 
-
+category: finance
 
   
 
