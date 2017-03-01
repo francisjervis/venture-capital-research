@@ -19,16 +19,4 @@ Follow [@studyingVC](https://twitter.com/studyingVC) for updates.
 
 ### [A Founder’s Guide to Unicorn Creation: How Liquidation Preferences in M&A Transactions Affect Start-Up Valuation](http://studying.vc/articles/a-founders-guide-to-unicorn.html){:target="_blank"}
 
-{% for article in site.articles %}
 
-## [{{ article.title }}]({{ article.url }})
-
-{{ article.excerpt }}
-
-{{ article.source }}
-
-{{ article.abstract }}
-
----
-
-{% endfor %}
