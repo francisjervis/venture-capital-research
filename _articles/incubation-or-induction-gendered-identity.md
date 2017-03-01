@@ -11,4 +11,5 @@ authors:
   - name: Maura McAdam
     affiliation: University of Nottingham
 abstract: Whilst there is a substantial body of literature which seeks to establish, or dispute, the beneficial influence of business incubation, this debate remains almost entirely gender blind. This article challenges this assumption by adopting a feminist perspective to reveal business incubation to be a gendered process which shapes the identity work undertaken by women seeking legitimacy as technology venturers. In so doing, we critically evaluate prevailing normative analyses of the business incubation process and entrepreneurial legitimation. To illustrate this argument, we draw upon empirical evidence which reveals technology incubation as a legitimating induction process encouraging women to reproduce masculinised representations of the normative technology entrepreneur.
+category: diversity
 ---
