@@ -13,4 +13,5 @@ authors:
   - name: Colin M. Mason
     affiliation: University of Strathclyde
 abstract: This paper extends the literature on the investment decision-making of business angels. Using insights from entrepreneurial learning theory we explore whether angels learn from experience, how they learn and what they learn. These issues are addressed using Verbal Protocol Analysis, a methodology for examining decision-making in real time, on three groups of business angels with differing levels of investment experience, and follow-up interviews with these angels. This reveals
+category: angel
 ---
