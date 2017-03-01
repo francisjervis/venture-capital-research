@@ -4,7 +4,7 @@ comments: true
 title: The Social Value of the Marginal Startup
 excerpt: A model which, it is claimed, predicts the number of startups formed and their success probability, the wages of engineers, the share of equity retained by founders, the fraction of engineers pursuing entrepreneurship, and the profits of successful startups.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2442439
-source:  markdown="1">
+source:  Working paper, 2014
 authors:
   - name: John J. Horton
     affiliation: NYU
