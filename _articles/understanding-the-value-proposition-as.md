@@ -13,4 +13,5 @@ authors:
   - name: Clay Spinuzzi
     affiliation: University of Texas at Austin
 abstract: "In this paper, we examine five cases of technology commercialization in terms of how entrepreneurs advance a specific kind of claim: the value proposition. The value proposition can describe the characteristics of the innovation itself (Goods- Dominant Logic) or propose how the innovation will co-create value with stakeholders (Service-Dominant Logic); in the examined cases, the value proposition transitions between these two logics, addressing different needs in the ongoing argument. We conclude by discussing the needs that each “logic” serves and the implications for better understanding entrepreneurship communication."
+category: entrpreneurship
 ---
