@@ -11,4 +11,5 @@ authors:
   - name: Matthew Rhodes-Kropf
     affiliation: Harvard University
 abstract: We examine how investors’ tolerance for failure impacts the types of projects they are willing to fund. We show that actions that reduce short term accountability and thus encourage agents to experiment more simultaneously reduce the level of experimentation financial backers are willing to fund. Failure tolerance has an equilibrium price that increases in the level of experimentation. More experimental projects that don’t generate enough to pay the price cannot be started. In fact, an endogenous equilibrium can arise in which all competing financiers choose to be failure tolerant in the attempt to attract entrepreneurs, leaving no capital to fund the most radical, experimental projects in the economy. The tradeoff between failure tolerance and a sharp guillotine help explain when and where radical innovation occurs.
+category: finance
 ---
