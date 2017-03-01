@@ -12,5 +12,5 @@ abstract: "We study information aggregation in organizational decision-making fo
 
 We test the implications of the model for a particular phenomenon in venture capital: private angel investments by the partners outside of their employer, which represent investments passed on by the employer. Venture capital partners, acting independently with their personal funds, make investments into younger firms with less educated and younger founding teams than their employing VC firms, but these investments perform financially similarly or better on some metrics even when controlling for investment size, stage, and industry. Geographic distance and technological inexperience by the VC increase the probability the investment is taken up by a partner and not the VC. This work contributes to an emerging stream of literature on information aggregation in organizations and the established literatures on resource allocation and incumbent spin-outs."
 
-
+category: angel
 ---
