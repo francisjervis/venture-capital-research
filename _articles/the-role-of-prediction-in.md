@@ -4,7 +4,7 @@ comments: true
 title: "The Role of Prediction in New Venture Investing"
 excerpt: Investors emphasize predictive information more than they might suppose, especially early in the selection process, but once a venture has moved through the funding process to due diligence and investment, non-predictive information is the key factor.
 link: http://digitalknowledge.babson.edu/cgi/viewcontent.cgi?article=1490&context=fer
-source: 
+source: Frontiers of Entrepreneurship Research, 2009
 authors:
   - name: Robert Wiltbank
     affiliation: Willamette University
