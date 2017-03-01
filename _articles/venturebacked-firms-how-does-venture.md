@@ -11,4 +11,5 @@ authors:
   - name: Dane Blevins
     affiliation: Clemson University
 abstract: "This paper investigates how venture capitalists' involvement in new ventures affects the likelihood of entrepreneurial exit, either via an acquisition or via an initial public offering. We examine the prominence of venture capitals (VCs), the number of VCs invested in a company, as well as the timing, duration, and magnitude of their investments in new ventures. We find that each of these dimensions directly explains entrepreneurial exit, although their effects tend to differ depending on whether the exit occurs via an acquisition or an initial public offering (IPO). These results withstand several robustness checks and offer a more precise account of how the relationship between new ventures and VC firms unfolds in the early years of the entrepreneurial cycle."
+category: finance
 ---
