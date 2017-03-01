@@ -18,7 +18,7 @@ layout: default
         <h3><a href="{{article.url | prepend: site.baseurl}}">{{article.title}}</a></h3>
     <h4>{{ article.source }}</h4>
     <p> {{ article.excerpt }} </p> 
-    
+    <hr>
       {% endfor %}
 
   
