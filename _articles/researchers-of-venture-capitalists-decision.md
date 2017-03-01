@@ -9,4 +9,5 @@ authors:
   - name: Dean A. Shepherd
     affiliation: Rensselaer Polytechnic Institute
 abstract: Researchers of venture capitalists’ decision making must be aware of potential biases and errors associated with self reported data especially in light of this study’s findings that venture capitalists’ lack introspection into the policies they “use” to assess likely profitability. Surprisingly, venture capitalists demonstrate some introspection into the policies they “use” to assess probability of survival.
+category: strategy
 ---
