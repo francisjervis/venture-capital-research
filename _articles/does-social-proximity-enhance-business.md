@@ -2,9 +2,9 @@
 layout: article
 comments: true
 title: "Does Social Proximity Enhance Business Partnerships? Theory and Evidence from Ethnicity's Role in U.S. Venture Capital"
-excerpt: 
+excerpt: Ethnic proximity between VCs and the start-ups they invest in is positively related to performance, but VCs also invest in coethnic ventures that are of lower observable quality than noncoethnic ventures.
 link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1939587
-source: 
+source: Management Science, 2015
 authors:
   - name: Deepak Hegde
     affiliation: New York University
